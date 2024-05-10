@@ -11612,7 +11612,7 @@
       }
 
       console.log('this.isPreOrder', this.isPreOrder)
-      console.log('variant.inventory_quantity', variant.inventory_quantity)
+      console.log('variant.inventory_quantity', current_variant.inventory_quantity)
       console.log('variant', variant)
 
 
