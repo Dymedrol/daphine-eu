@@ -11622,7 +11622,7 @@
         let numberOfDaysToAddAvailable = numberOfDaysToAddAvailableForJs;
         let numberOfDaysToAddUnavailable = numberOfDaysToAddUnavailableForJs;
 
-        if (variant.available) {
+        if (remaining) {
           let text = ''
           todayDate.setDate(todayDate.getDate() + numberOfDaysToAddAvailable);
           let updatedDate = todayDate.toLocaleDateString(
@@ -11633,7 +11633,7 @@
               timeZone: 'utc'
             }
           );
-          if (variant.inventory_quantity > 5 ) {
+          if (remaining > 5 ) {
             text = 'Available for Express Delivery';
           } else if (variant.inventory_quantity <= 5 && variant.inventory_quantity > 0) {
             text = variant.inventory_quantity + ' left. Available for Express Delivery';
