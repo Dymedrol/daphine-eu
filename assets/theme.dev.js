@@ -11612,7 +11612,7 @@
 
       console.log('this.isPreOrder', this.isPreOrder)
       console.log('variant.inventory_quantity', variant.inventory_quantity)
-      console.log('this.isPreOrder', this.isPreOrder)
+      console.log('variant', variant)
 
       if (variant) {
         let todayDate = new Date();
