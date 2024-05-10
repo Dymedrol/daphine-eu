@@ -11593,6 +11593,7 @@
       const addToCartText = this.container.querySelectorAll(selectors$c.addToCartText);
       const formWrapper = this.container.querySelectorAll(selectors$c.formWrapper);
       const countTextContainer = this.container.getElementsByClassName('count-text-container')[0];
+      const remaining = this.remainingJSON[variant.id];
 
       if (this.installmentForm && variant) {
         const installmentInput = this.installmentForm.querySelector(selectors$c.inputId);
@@ -11613,6 +11614,7 @@
       console.log('this.isPreOrder', this.isPreOrder)
       console.log('variant.inventory_quantity', variant.inventory_quantity)
       console.log('variant', variant)
+      console.log('remaining', remaining)
 
       if (variant) {
         let todayDate = new Date();
