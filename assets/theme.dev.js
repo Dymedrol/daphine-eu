@@ -11635,8 +11635,8 @@
           );
           if (remaining > 5 ) {
             text = 'Available for Express Delivery';
-          } else if (variant.inventory_quantity <= 5 && variant.inventory_quantity > 0) {
-            text = variant.inventory_quantity + ' left. Available for Express Delivery';
+          } else if (remaining <= 5 && remaining > 0) {
+            text = remaining + ' left. Available for Express Delivery';
           } else {
             todayDate.setDate(todayDate.getDate() + numberOfDaysToAddUnavailable);
             let updatedDate = todayDate.toLocaleDateString(
