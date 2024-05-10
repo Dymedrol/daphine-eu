@@ -21,6 +21,7 @@
         },
         "26009e0d-38df-4486-a189-272664f3a0d7": {
           "type": "inventory_countdown",
+          "disabled": true,
           "settings": {
             "show_notice": "low-inventory",
             "max_inventory": 18,
