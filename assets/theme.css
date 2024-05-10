@@ -13648,6 +13648,7 @@ input[type=radio].variant-input {
   font-size: calc(var(--font-2) * var(--FONT-ADJUST-BODY));
   display: grid;
   grid-template-columns: 1fr;
+  display: none;
 }
 
 .variant__countdown > span {
