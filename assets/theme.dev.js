@@ -14254,6 +14254,14 @@
     document.documentElement.className = document.documentElement.className.replace('supports-no-cookies', 'supports-cookies');
   }
 
+  // International
+
+  const internationalText = $('.international-text');
+
+  internationalText.click(function () {
+    $(this).next().toggle(300);
+  });
+
   document.addEventListener('DOMContentLoaded', function () {
     // New product slider
     const slider = $('.new-product-slider');

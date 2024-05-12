@@ -297,6 +297,17 @@
       </div>
     {%- endif -%}
 
+    <div class="header__desktop__button">
+      <div class="international">
+        <span class="international-text">EUROPE</span>
+        <div class="international-details" tabindex="-1">
+          <a href="https://www.shop-daphine.com" class="international-details__link">United&#160;Kingdom</a>
+          <a href="https://eu.shop-daphine.com" class="international-details__link international-details__link_active">Europe</a>
+          <a href="https://www.shop-daphine.com/en-us" class="international-details__link">International</a>
+        </div>
+      </div>
+    </div>
+
     {%- if shop.customer_accounts_enabled -%}
       <div class="header__desktop__button">
         <a href="{{ routes.account_url }}" class="navlink{% if show_icons == false %} navlink--toplevel{% endif %}" title="{{ 'customer.account.title' | t }}">
@@ -379,10 +390,20 @@
           </div>
         </div>
 
-        {%- if social or header_popouts -%}
+
           {%- comment -%} Add 200ms for all top level hamburger menu elements {%- endcomment -%}
           {%- assign animation_delay = animation_delay | plus: 200 -%}
           <div class="drawer__bottom{% unless social %} mobile{% endunless %}">
+
+            <div class="international">
+              <span class="international-text">EUROPE</span>
+              <div class="international-details" tabindex="-1">
+                <a href="https://www.shop-daphine.com" class="international-details__link">United Kingdom</a>
+                <a href="https://eu.shop-daphine.com" class="international-details__link international-details__link_active">Europe</a>
+                <a href="https://www.shop-daphine.com/en-us" class="international-details__link">International</a>
+              </div>
+            </div>
+
             {%- if header_popouts -%}
               {%- assign animation_delay = animation_delay | plus: animation_delay_increment -%}
               <div class="drawer__bottom__row mobile"
@@ -404,7 +425,7 @@
             {%- endif -%}
 
           </div>
-        {%- endif -%}
+
       </div>
     </div>
 

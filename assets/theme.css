@@ -22287,6 +22287,61 @@ recipient-form .recipient-form-field-label {
   height: 100%;
 }
 
+/* international */
+
+.international {
+  position: relative;
+  padding: 15px;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+}
+
+.international-text {
+  font-size: calc(var(--font-2) * var(--FONT-ADJUST-NAV));
+}
+
+.international-details {
+  display: none;
+  position: absolute;
+  top: auto;
+  bottom: 100%;
+  background-color: var(--bg);
+  border: 1px solid var(--border);
+  padding: 10px;
+  text-transform: uppercase;
+  padding: 8px;
+}
+
+.international-footer {
+  padding-left: 0;
+}
+
+@media screen and (min-width: 750px) {
+  .international-details {
+    top: 100%;
+    bottom: auto;
+    margin: -20px;
+  }
+
+  .international-footer .international-details {
+    top: auto;
+    bottom: 100%;
+    margin: 0;
+  }
+}
+
+.international-details__link {
+  display: block;
+  padding: 8px 15px;
+  font-size: calc(0.725rem * var(--FONT-ADJUST-BODY));
+}
+
+.international-details__link_active {
+  font-weight: bold;
+}
+
 
 /* CUSTOM KAREN */
 
