@@ -92,7 +92,35 @@
 <div class="product__wrapper {{ product_wrapper_modifier }}" data-product>
   <div class="product__wrapper__inner">
     <div class="product__page">
-      <div class="product__images{% if mobile_image_style == 'slider' %} product__images--no-thumbs{% else %} product__images--has-thumbs{% endif %}">
+
+      <div class="new-product-slider">
+        {%- if product.media.size > 0 -%}
+        <div class="new-product-slider__slides">
+          {%- for media in product.media -%}
+            {%- render 'new-slider-media', data-image-id: forloop.index, media: media, featured_media: featured_media, enable_video_looping: enable_video_looping, sectionkey: unique, image_width: image_width, cover: true -%}
+          {%- endfor -%}
+        </div>
+
+        {%- if product.media.size > 1 -%}
+          <div class="product__thumbs" >
+            <div class="product__thumbs__holder">
+              {%- for media in product.media -%}
+                <div class="product__thumb{% if forloop.first %} is-active{% endif %}" data-thumb-id="{{ forloop.index }}">
+                  <div class="product__thumb__link">
+                  {%- liquid
+                    render 'image' image: media.preview_image, width: 150, height: 150, sizes: '75px', widths: '75, 100, 150, 225, 300', aspect_ratio: 1
+                  -%}
+                  </div>
+                </div>
+              {%- endfor -%}
+            </div>
+          </div>
+        {%- endif -%}
+      {%- endif -%}
+
+    </div>
+
+      <div class="product__images product__images-desktop{% if mobile_image_style == 'slider' %} product__images--no-thumbs{% else %} product__images--has-thumbs{% endif %}">
         {%- if product.media.size > 0 -%}
           <div class="product__slides product-single__photos"
             style="--featured-media-aspect-ratio: {{ featured_media_aspect_ratio | round: 2 }};"

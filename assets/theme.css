@@ -22247,6 +22247,46 @@ recipient-form .recipient-form-field-label {
   border-radius: 0;
 }
 
+/* new product slider */
+
+.product__images-desktop {
+  display: none;
+}
+
+@media screen and (min-width: 750px) {
+  .new-product-slider {
+    display: none;
+  }
+
+  .product__images-desktop {
+    display: block;
+  }
+}
+
+.new-product-slider__slides {
+  position: relative;
+  aspect-ratio: 382/488;
+}
+
+.new-product-slider__slide {
+  position: absolute;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  opacity: 0;
+  transition: opacity .5s ease-in-out;
+}
+
+.new-product-slider__slide_active {
+  opacity: 1;
+}
+
+.new-product-slider__slide__photo {
+  position: relative;
+  overflow: hidden;
+  height: 100%;
+}
+
 
 /* CUSTOM KAREN */
 

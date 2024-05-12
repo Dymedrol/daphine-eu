@@ -14254,4 +14254,61 @@
     document.documentElement.className = document.documentElement.className.replace('supports-no-cookies', 'supports-cookies');
   }
 
+  document.addEventListener('DOMContentLoaded', function () {
+    // New product slider
+    const slider = $('.new-product-slider');
+
+    if (!slider.length) {
+      return
+    }
+
+    const thumbs = slider.find('.product__thumb');
+    const pics = slider.find('.new-product-slider__slide');
+
+    let currentPic = 1;
+    const picsLength = pics.length;
+
+    function changePic(id) {
+      console.log('!!!', id)
+      const pic = slider.find(`[data-image-id='${id}']`);
+      const thumb = slider.find(`[data-thumb-id='${id}']`);
+      thumbs.removeClass('is-active');
+      thumb.addClass('is-active');
+      pics.removeClass('new-product-slider__slide_active');
+      pic.addClass('new-product-slider__slide_active');
+      currentPic = id;
+    }
+
+    thumbs.click(function (e) {
+      const target = $(e.target);
+      const thumb = target.closest('.product__thumb');
+      const picId = thumb.attr('data-thumb-id');
+      changePic(picId);
+    });
+
+    $(".new-product-slider__slides").swipe(function(direction) {
+      if (direction == 'left') {
+        currentPic + 1 > picsLength ? currentPic = 1 : currentPic++;
+        changePic(currentPic);
+      }
+
+      if (direction == 'right') {
+        currentPic - 1 < 1 ? currentPic = picsLength : currentPic--;
+        changePic(currentPic);
+      }
+    }, {
+      preventDefault: false,
+      mouse: true,
+      pen: true,
+      distance: 50
+    });
+
+    $(".new-product-slider__slides").click(function () {
+      currentPic + 1 > picsLength ? currentPic = 1 : currentPic++;
+      changePic(currentPic);
+    });
+
+  });
+
+
 })(themeVendor.ScrollLock, themeVendor.themeAddresses, themeVendor.themeCurrency, themeVendor.Rellax, themeVendor.Flickity, themeVendor.FlickityFade, themeVendor.themeImages);
