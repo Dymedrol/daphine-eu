@@ -11593,7 +11593,7 @@
       const addToCartText = this.container.querySelectorAll(selectors$c.addToCartText);
       const formWrapper = this.container.querySelectorAll(selectors$c.formWrapper);
       const countTextContainer = this.container.getElementsByClassName('count-text-container')[0];
-      const remaining = this.remainingJSON[variant.id];
+      // const remaining = this.remainingJSON[variant.id];
 
       if (this.installmentForm && variant) {
         const installmentInput = this.installmentForm.querySelector(selectors$c.inputId);
@@ -11623,8 +11623,7 @@
         let numberOfDaysToAddAvailable = numberOfDaysToAddAvailableForJs;
         let numberOfDaysToAddUnavailable = numberOfDaysToAddUnavailableForJs;
 
-        if (remaining) {
-          console.log('remaining', remaining)
+        if (variant.inventory_quantity) {
           let text = ''
           todayDate.setDate(todayDate.getDate() + numberOfDaysToAddAvailable);
           let updatedDate = todayDate.toLocaleDateString(
@@ -11635,10 +11634,10 @@
               timeZone: 'utc'
             }
           );
-          if (remaining > 5 ) {
+          if (variant.inventory_quantity > 5 ) {
             text = 'Available for Express Delivery';
-          } else if (remaining <= 5 && remaining > 0) {
-            text = remaining + ' left. Available for Express Delivery';
+          } else if (variant.inventory_quantity <= 5 && variant.inventory_quantity > 0) {
+            text = variant.inventory_quantity + ' left. Available for Express Delivery';
           } else {
             todayDate.setDate(todayDate.getDate() + numberOfDaysToAddUnavailable);
             let updatedDate = todayDate.toLocaleDateString(
@@ -14277,7 +14276,6 @@
     const picsLength = pics.length;
 
     function changePic(id) {
-      console.log('!!!', id)
       const pic = slider.find(`[data-image-id='${id}']`);
       const thumb = slider.find(`[data-thumb-id='${id}']`);
       thumbs.removeClass('is-active');
