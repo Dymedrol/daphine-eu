@@ -614,6 +614,18 @@
             "text_size": 3
           }
         },
+        "a1b98347-ffa0-4f15-8187-9916c566a74e": {
+          "type": "icon",
+          "settings": {
+            "icon_name": "icon-heart",
+            "icon_size": 20,
+            "icon_color": "#ffffff",
+            "title": "Independently Women Owned",
+            "heading_size": 3,
+            "text": "",
+            "text_size": 1
+          }
+        },
         "icon-2": {
           "type": "icon",
           "settings": {
@@ -625,24 +637,12 @@
             "text": "",
             "text_size": 3
           }
-        },
-        "a1b98347-ffa0-4f15-8187-9916c566a74e": {
-          "type": "icon",
-          "settings": {
-            "icon_name": "icon-notes",
-            "icon_size": 20,
-            "icon_color": "#ffffff",
-            "title": "Shop Now, Pay Later with Klarna",
-            "heading_size": 3,
-            "text": "",
-            "text_size": 3
-          }
         }
       },
       "block_order": [
         "icon-0",
-        "icon-2",
-        "a1b98347-ffa0-4f15-8187-9916c566a74e"
+        "a1b98347-ffa0-4f15-8187-9916c566a74e",
+        "icon-2"
       ],
       "settings": {
         "title": "",
