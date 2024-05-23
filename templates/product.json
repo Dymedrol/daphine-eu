@@ -77,7 +77,7 @@
             "icon_name": "icon-fast-shipment",
             "icon_size": 20,
             "icon_color": "#545454",
-            "title": "Ships Same Day",
+            "title": "Ships Same Day from EU",
             "width": "half",
             "padding_bottom": 16
           }
@@ -88,7 +88,7 @@
             "icon_name": "icon-box",
             "icon_size": 20,
             "icon_color": "#545454",
-            "title": "Ships from EU",
+            "title": "Free Delivery to France",
             "width": "half",
             "padding_bottom": 16
           }
