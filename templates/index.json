@@ -617,10 +617,10 @@
         "icon-2": {
           "type": "icon",
           "settings": {
-            "icon_name": "icon-heart",
+            "icon_name": "icon-box",
             "icon_size": 20,
             "icon_color": "#ffffff",
-            "title": "Independently Women Owned",
+            "title": "Ships from France",
             "heading_size": 3,
             "text": "",
             "text_size": 3
