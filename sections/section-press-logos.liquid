@@ -41,7 +41,7 @@
     {{ slides }}
     {%- liquid
       assign logo = block.settings.logo
-      assign logo_width = block.settings.logo_width
+      assign logo_width = 300
       assign sizes = logo_width | append: 'px'
       assign width = logo_width | times: 2
       assign width_retina = logo_width | times: 2
