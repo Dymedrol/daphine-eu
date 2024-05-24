@@ -22229,7 +22229,7 @@ recipient-form .recipient-form-field-label {
   border-radius: 100px;
   max-width: 260px;
   text-align: center;
-  color: #ab8c52;
+  color: #ab8c52 !important;
   padding: 15px 10px 15px 15px;
   border: 1px solid #ab8c52;
   text-transform: none;
