@@ -2225,7 +2225,7 @@ function getRandomSubscribeAPIPath() {
                 "countdown_timer_products": "[]"
       },
       "main_button": {
-            "main_caption": "NOTIFY WHEN AVAILABLE",
+            "main_caption": "Notify when available",
             "main_css_classes": "",
             "main_button_width": "",
             "main_button_height": "",
@@ -2234,7 +2234,7 @@ function getRandomSubscribeAPIPath() {
             "main_margin_bottom": "",
             "main_margin_left": "",
             "main_margin_right": "",
-            "main_text_color": "",
+            "main_text_color": "#c56767",
             "main_hover_text_color": "",
             "main_text_style": "",
             "main_background_color": "",
