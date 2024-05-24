@@ -22559,3 +22559,7 @@ padding-left: 15px;
 .field, .custom-form__label.label--block {
   color: #666666 !important;
 }
+
+.new-product-slider__slide__photo img {
+  object-fit: contain !important;
+}

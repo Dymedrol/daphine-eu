@@ -71,35 +71,14 @@
             "padding_bottom": 16
           }
         },
-        "a0a8b781-007b-449f-96dc-8c58cf6e5f55": {
+        "icon_2": {
           "type": "icon",
+          "disabled": true,
           "settings": {
             "icon_name": "icon-heart",
             "icon_size": 20,
             "icon_color": "#545454",
             "title": "Handmade with love",
-            "width": "half",
-            "padding_bottom": 16
-          }
-        },
-        "icon_2": {
-          "type": "icon",
-          "settings": {
-            "icon_name": "icon-location",
-            "icon_size": 20,
-            "icon_color": "#545454",
-            "title": "International Shipping & Easy Returns",
-            "width": "half",
-            "padding_bottom": 16
-          }
-        },
-        "icon_1": {
-          "type": "icon",
-          "settings": {
-            "icon_name": "icon-recycle",
-            "icon_size": 20,
-            "icon_color": "#545454",
-            "title": "Crafted From RJC certified Recycled Materials",
             "width": "half",
             "padding_bottom": 16
           }
@@ -110,8 +89,41 @@
             "icon_name": "icon-tree",
             "icon_size": 20,
             "icon_color": "#545454",
+            "title": "Free Shipping on all EU orders over €150",
+            "width": "full",
+            "padding_bottom": 22
+          }
+        },
+        "a0a8b781-007b-449f-96dc-8c58cf6e5f55": {
+          "type": "icon",
+          "settings": {
+            "icon_name": "icon-fast-shipment",
+            "icon_size": 20,
+            "icon_color": "#545454",
+            "title": "Ships same day before 1pm",
+            "width": "full",
+            "padding_bottom": 16
+          }
+        },
+        "icon_1": {
+          "type": "icon",
+          "settings": {
+            "icon_name": "icon-email",
+            "icon_size": 20,
+            "icon_color": "#545454",
+            "title": "Easy Returns",
+            "width": "full",
+            "padding_bottom": 16
+          }
+        },
+        "icon_EKrF8n": {
+          "type": "icon",
+          "settings": {
+            "icon_name": "icon-tree",
+            "icon_size": 20,
+            "icon_color": "#545454",
             "title": "Plastic-Free Packaging",
-            "width": "half",
+            "width": "full",
             "padding_bottom": 22
           }
         },
@@ -171,10 +183,11 @@
         "buttons",
         "tabs",
         "divider_1",
-        "a0a8b781-007b-449f-96dc-8c58cf6e5f55",
         "icon_2",
-        "icon_1",
         "8f79fd74-aa05-459e-9b5b-86bb1695422f",
+        "a0a8b781-007b-449f-96dc-8c58cf6e5f55",
+        "icon_1",
+        "icon_EKrF8n",
         "pickup",
         "514a386f-5539-4dea-ac18-97ee59d12052",
         "text_9PFz7U",
