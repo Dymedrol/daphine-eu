@@ -22233,6 +22233,10 @@ recipient-form .recipient-form-field-label {
   padding: 15px 10px 15px 15px;
   border: 1px solid #ab8c52;
   text-transform: none;
+  font-weight: 400;
+  font-size: 12.8px;
+  line-height: normal;
+  letter-spacing: normal;
 }
 
 /*#SI_trigger + .product__block__count-text {
