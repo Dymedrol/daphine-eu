@@ -22232,7 +22232,7 @@ recipient-form .recipient-form-field-label {
   color: #ab8c52;
   padding: 15px 10px 15px 20px;
   border: 1px solid #ab8c52;
-  text-transform: math-auto;
+  text-transform: none;
 }
 
 /*#SI_trigger + .product__block__count-text {
