@@ -2209,8 +2209,8 @@ function getRandomSubscribeAPIPath() {
                 "position": "right-top",
                 "corner_offset": 100,
                 "background_color": "#000000",
-                "selected_selector": "",
-                "placement": "",
+                "selected_selector": "#count-text-container",
+                "placement": "BEFORE",
                 "text_color": "#ffffff",
                 "border_color": "#000000",
                 "border_width": 1,
@@ -2225,7 +2225,7 @@ function getRandomSubscribeAPIPath() {
                 "countdown_timer_products": "[]"
       },
       "main_button": {
-            "main_caption": "NOTIFY WHEN AVAILABLE",
+            "main_caption": "Notify when available",
             "main_css_classes": "",
             "main_button_width": "",
             "main_button_height": "",
@@ -2234,7 +2234,7 @@ function getRandomSubscribeAPIPath() {
             "main_margin_bottom": "",
             "main_margin_left": "",
             "main_margin_right": "",
-            "main_text_color": "",
+            "main_text_color": "#c56767",
             "main_hover_text_color": "",
             "main_text_style": "",
             "main_background_color": "",
