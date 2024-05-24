@@ -22302,8 +22302,13 @@ recipient-form .recipient-form-field-label {
   cursor: pointer;
 }
 
+.international-text-wrapper {
+  position: relative;
+}
+
 .international-text {
   font-size: calc(var(--font-2) * var(--FONT-ADJUST-NAV));
+  padding-right: 40px;
 }
 
 .international-details {
@@ -22325,8 +22330,13 @@ recipient-form .recipient-form-field-label {
 .international-footer .icon-arrow-right {
   width: 12px;
   height: 12px;
-  margin-left: 20px;
   fill: black;
+  right: 10px;
+  position: absolute;
+  pointer-events: none;
+  top: 0;
+  bottom: 0;
+  margin: auto;
 }
 
 @media screen and (min-width: 750px) {
