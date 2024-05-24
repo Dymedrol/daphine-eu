@@ -10777,7 +10777,7 @@ body {
   max-width: 260px;
   text-align: center;
   color: #ab8c52;
-  padding: 15px 10px 15px 20px;
+  padding: 15px 10px 15px 15px;
   border: 1px solid #ab8c52;
 }
 
@@ -22230,7 +22230,7 @@ recipient-form .recipient-form-field-label {
   max-width: 260px;
   text-align: center;
   color: #ab8c52;
-  padding: 15px 10px 15px 20px;
+  padding: 15px 10px 15px 15px;
   border: 1px solid #ab8c52;
   text-transform: none;
 }
