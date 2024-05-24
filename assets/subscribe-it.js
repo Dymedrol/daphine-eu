@@ -2209,7 +2209,7 @@ function getRandomSubscribeAPIPath() {
                 "position": "right-top",
                 "corner_offset": 100,
                 "background_color": "#000000",
-                "selected_selector": "#count-text-container",
+                "selected_selector": ".back-in-door",
                 "placement": "BEFORE",
                 "text_color": "#ffffff",
                 "border_color": "#000000",
