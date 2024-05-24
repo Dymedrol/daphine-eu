@@ -14255,7 +14255,7 @@
   const internationalText = $('.international-text');
 
   internationalText.click(function () {
-    $(this).next().toggle(300);
+    $(this).siblings('.international-details').toggle(300);
   });
 
   document.addEventListener('DOMContentLoaded', function () {

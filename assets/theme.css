@@ -22322,6 +22322,13 @@ recipient-form .recipient-form-field-label {
   padding-left: 0;
 }
 
+.international-footer .icon-arrow-right {
+  width: 12px;
+  height: 12px;
+  margin-left: 20px;
+  fill: black;
+}
+
 @media screen and (min-width: 750px) {
   .international-details {
     top: 100%;
