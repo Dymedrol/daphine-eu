@@ -11593,7 +11593,6 @@
       const addToCartText = this.container.querySelectorAll(selectors$c.addToCartText);
       const formWrapper = this.container.querySelectorAll(selectors$c.formWrapper);
       const countTextContainer = this.container.getElementsByClassName('count-text-container')[0];
-      // const remaining = this.remainingJSON[variant.id];
 
       if (this.installmentForm && variant) {
         const installmentInput = this.installmentForm.querySelector(selectors$c.inputId);
@@ -11612,10 +11611,8 @@
       }
 
       console.log('this.isPreOrder', this.isPreOrder)
-        console.log('formState', formState)
       console.log('variant.inventory_quantity', variant.inventory_quantity)
       console.log('variant', variant)
-
 
       if (variant) {
         let todayDate = new Date();
@@ -11623,7 +11620,7 @@
         let numberOfDaysToAddAvailable = numberOfDaysToAddAvailableForJs;
         let numberOfDaysToAddUnavailable = numberOfDaysToAddUnavailableForJs;
 
-        if (variant.inventory_quantity) {
+        if (variant.available) {
           let text = ''
           todayDate.setDate(todayDate.getDate() + numberOfDaysToAddAvailable);
           let updatedDate = todayDate.toLocaleDateString(
@@ -11635,9 +11632,9 @@
             }
           );
           if (variant.inventory_quantity > 5 ) {
-            text = 'Available for Express Delivery';
+            text = 'In stock. Express Shipping';
           } else if (variant.inventory_quantity <= 5 && variant.inventory_quantity > 0) {
-            text = variant.inventory_quantity + ' left. Available for Express Delivery';
+            text = variant.inventory_quantity + ' left. Express Shipping';
           } else {
             todayDate.setDate(todayDate.getDate() + numberOfDaysToAddUnavailable);
             let updatedDate = todayDate.toLocaleDateString(
@@ -11648,7 +11645,7 @@
                 timeZone: 'utc'
               }
             );
-            text = 'Pre-order. Ships by ' + updatedDate;
+            text = 'Pre-order';
           }
 
           countTextContainer.innerHTML = text;
@@ -11667,7 +11664,7 @@
             timeZone: 'utc'
           }
         );
-        countTextContainer.innerHTML = 'Pre-order. Ships by ' + updatedDate;
+        countTextContainer.innerHTML = 'Pre-order';
       }
 
 
@@ -14315,6 +14312,5 @@
     });
 
   });
-
 
 })(themeVendor.ScrollLock, themeVendor.themeAddresses, themeVendor.themeCurrency, themeVendor.Rellax, themeVendor.Flickity, themeVendor.FlickityFade, themeVendor.themeImages);
