@@ -31,6 +31,11 @@
       assign fetchpriority = 'high'
     endif
 
+    if product_index > 2
+      assign loading = 'lazy'
+      assign fetchpriority = 'low'
+    endif
+
     if media.alt contains 'variant--'
       assign attributes = 'data-variant="' | append: media.alt | append: '"'
     endif
