@@ -85,15 +85,15 @@
 
     ],
     "blocks": {
-      "1173261918193615741": {
-        "type": "shopify:\/\/apps\/geo-pro-geolocation\/blocks\/geopro\/16fc5313-7aee-4e90-ac95-f50fc7c8b657",
+      "17550530943902319648": {
+        "type": "shopify:\/\/apps\/appikon-back-in-stock\/blocks\/subscribe_it_helper\/eb949c69-b3e6-4216-a322-1cd63915d46d",
         "disabled": false,
         "settings": {
         }
       },
-      "17550530943902319648": {
-        "type": "shopify:\/\/apps\/appikon-back-in-stock\/blocks\/subscribe_it_helper\/eb949c69-b3e6-4216-a322-1cd63915d46d",
-        "disabled": false,
+      "1173261918193615741": {
+        "type": "shopify:\/\/apps\/geo-pro-geolocation\/blocks\/geopro\/16fc5313-7aee-4e90-ac95-f50fc7c8b657",
+        "disabled": true,
         "settings": {
         }
       }
