@@ -22,7 +22,7 @@
   capture image
     assign loading = loading | default: 'lazy'
     assign preload = nil
-    assign fetchpriority = nil
+    assign fetchpriority = 'auto'
     assign attributes = nil
     assign cover = cover | default: false
 
@@ -33,7 +33,7 @@
 
     if product_index > 2
       assign loading = 'lazy'
-      assign fetchpriority = 'low'
+      assign fetchpriority = 'auto'
     endif
 
     if media.alt contains 'variant--'
