@@ -60,7 +60,7 @@
         "code_cMp3qX": {
           "type": "code",
           "settings": {
-            "code": "<div style=\"display:flex; align-items: center; justify-content: center;\" >\n\n<div style=\"padding-right:15px;\"><img src=\"https:\/\/shop-daphine.com\/cdn\/shop\/files\/bazaar_logo.png\" width=\"auto\" height=\"25px\" \/><\/div>\n\n<div class=\"body-size-4 font-heading\">« Won't go out of style in a matter of months »<\/div>\n\n<\/div>",
+            "code": "<div style=\"display:flex; align-items: center; justify-content: center;\" >\n\n<div style=\"padding-right:15px;\"><img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0822\/6537\/5053\/files\/bazaar_logo_300.png?v=1716905464\" alt=\"Bazaar\" width=\"auto\" height=\"25px\" \/><\/div>\n\n<div class=\"body-size-4 font-heading\">« Won't go out of style in a matter of months »<\/div>\n\n<\/div>",
             "target_device_enabled": false,
             "target_device": "mobile"
           }
