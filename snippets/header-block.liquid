@@ -79,6 +79,6 @@ Required params:
 
     <div class="image-overlay" style="--bg: {{ block.settings.overlay_color }}; --overlay-opacity: {{ block.settings.overlay_opacity | times: 0.01 }};"></div>
 
-    {%- render 'image', image: block.settings.image, aspect_ratio: aspect_ratio, sizes: sizes -%}
+    {%- render 'image', image: block.settings.image, aspect_ratio: aspect_ratio, sizes: sizes, widths: '1080, 604, 320, 300' -%}
   </div>
 </div>
