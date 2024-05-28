@@ -68,7 +68,7 @@
         "code_pMqncd": {
           "type": "code",
           "settings": {
-            "code": "<div style=\"display:flex; align-items: center; justify-content: center;\" >\n\n<div style=\"padding-right:15px;\"><img src=\"https:\/\/shop-daphine.com\/cdn\/shop\/files\/stylist_logo_black.png\" width=\"auto\" height=\"22px\" \/><\/div>\n\n<div class=\"body-size-4 font-heading\">« Daphine has established itself as a powerful player in the jewellery sphere »<\/div>\n\n<\/div>",
+            "code": "<div style=\"display:flex; align-items: center; justify-content: center;\" >\n\n<div style=\"padding-right:15px;\"><img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0822\/6537\/5053\/files\/stylist_logo_300.png?v=1716905443\" alt=\"Stylist\" width=\"auto\" height=\"22px\" \/><\/div>\n\n<div class=\"body-size-4 font-heading\">« Daphine has established itself as a powerful player in the jewellery sphere »<\/div>\n\n<\/div>",
             "target_device_enabled": false,
             "target_device": "mobile"
           }
