@@ -39,12 +39,8 @@ Required params:
   else
     assign columns = image_count | plus: link_columns
   endif
-
-  assign sizes = '(min-width: 990px) calc(' | append: full_width | append: ' / ' | append: columns | append: '), (min-width: 380px) 350px, calc(100vw - 30px)'
-
-  if is_mobile
-    assign sizes = '(min-width: 380px) 350px, calc(100vw - 30px)'
-  endif
+  
+  assign sizes = '(min-width: 380px) 350px, calc(100vw - 30px)'
 -%}
 
 <div class="menu__block {{ width_class }}" {{ block.shopify_attributes }}
@@ -79,6 +75,6 @@ Required params:
 
     <div class="image-overlay" style="--bg: {{ block.settings.overlay_color }}; --overlay-opacity: {{ block.settings.overlay_opacity | times: 0.01 }};"></div>
 
-    {%- render 'image', image: block.settings.image, aspect_ratio: aspect_ratio, sizes: sizes, widths: '1080, 604, 320, 300' -%}
+    {%- render 'image', image: block.settings.image, aspect_ratio: aspect_ratio, sizes: sizes, widths: '1080, 604, 400, 320, 300' -%}
   </div>
 </div>
