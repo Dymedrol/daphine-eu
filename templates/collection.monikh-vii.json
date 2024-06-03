@@ -187,6 +187,58 @@
         "layout_mobile": "carousel"
       }
     },
+    "section_hero_JDf34J": {
+      "type": "section-hero",
+      "blocks": {
+        "heading_pMy9ci": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "title": "Image banner",
+            "heading_size": 11,
+            "mobile_heading_size": 11
+          }
+        },
+        "text_34Lfi4": {
+          "type": "text",
+          "settings": {
+            "description": "Preeth Bangle",
+            "text_size": 4,
+            "mobile_text_size": 4,
+            "text_style": "font-body"
+          }
+        },
+        "button_LraXC7": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "link_text": "View products",
+            "link": "",
+            "button_type": "btn--primary",
+            "button_size": "",
+            "button_style": "btn--solid",
+            "show_arrow": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_pMy9ci",
+        "text_34Lfi4",
+        "button_LraXC7"
+      ],
+      "settings": {
+        "height": "screen-height-full",
+        "width": "wrapper--full",
+        "image_1": "shopify:\/\/shop_images\/Daphine_Monikh-pt.II_Preeth-bangle-1.jpg",
+        "mobile_height": "screen-height-three-quarters--mobile",
+        "flex_align": "align--bottom-left",
+        "overlay_opacity": 0,
+        "overlay_color": "#000",
+        "show_overlay_text": false,
+        "bg_color": "",
+        "color": "#FFFFFF"
+      }
+    },
     "subcollections": {
       "type": "subcollections",
       "disabled": true,
@@ -452,6 +504,7 @@
     "hero",
     "section_hero_r4nefN",
     "section_columns_FRpwDT",
+    "section_hero_JDf34J",
     "subcollections",
     "section_hero_z9kYFp",
     "main",
