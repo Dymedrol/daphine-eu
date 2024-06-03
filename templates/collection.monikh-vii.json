@@ -299,6 +299,58 @@
         "layout_mobile": "carousel"
       }
     },
+    "section_hero_eX9qeU": {
+      "type": "section-hero",
+      "blocks": {
+        "heading_pf8BWr": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "title": "Image banner",
+            "heading_size": 11,
+            "mobile_heading_size": 11
+          }
+        },
+        "text_VntPD4": {
+          "type": "text",
+          "settings": {
+            "description": "Swin Necklace",
+            "text_size": 4,
+            "mobile_text_size": 4,
+            "text_style": "font-body"
+          }
+        },
+        "button_99xPbR": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "link_text": "View products",
+            "link": "",
+            "button_type": "btn--primary",
+            "button_size": "",
+            "button_style": "btn--solid",
+            "show_arrow": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_pf8BWr",
+        "text_VntPD4",
+        "button_99xPbR"
+      ],
+      "settings": {
+        "height": "image-height",
+        "width": "wrapper--full",
+        "image_1": "shopify:\/\/shop_images\/Daphine_Monikh-pt.II_Swin-necklace-2.jpg",
+        "mobile_height": "screen-height-three-quarters--mobile",
+        "flex_align": "align--bottom-left",
+        "overlay_opacity": 0,
+        "overlay_color": "#000",
+        "show_overlay_text": false,
+        "bg_color": "",
+        "color": "#FFFFFF"
+      }
+    },
     "subcollections": {
       "type": "subcollections",
       "disabled": true,
@@ -566,6 +618,7 @@
     "section_columns_FRpwDT",
     "section_hero_JDf34J",
     "section_columns_CFDq6U",
+    "section_hero_eX9qeU",
     "subcollections",
     "section_hero_z9kYFp",
     "main",
