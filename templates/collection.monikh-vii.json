@@ -721,6 +721,29 @@
         "padding_bottom": 32,
         "layout_mobile": "grid"
       }
+    },
+    "section_collection_iU7LYX": {
+      "type": "section-collection",
+      "settings": {
+        "heading": "Monikh's Favourites",
+        "description": "",
+        "layout": "center",
+        "link_text": "",
+        "link_url": "",
+        "button_type": "btn--primary",
+        "button_size": "",
+        "button_style": "btn--solid",
+        "show_arrow": false,
+        "featured_collection": "monikh-x-daphine-vol-ii",
+        "style": "grid",
+        "grid": 4,
+        "rows": 3,
+        "layout_mobile": "carousel",
+        "bg_color": "",
+        "color": "",
+        "padding_top": 50,
+        "padding_bottom": 50
+      }
     }
   },
   "order": [
@@ -737,6 +760,7 @@
     "section_hero_z9kYFp",
     "main",
     "section_tab_collections_hFJNGi",
-    "section_multicolumn_YPdQec"
+    "section_multicolumn_YPdQec",
+    "section_collection_iU7LYX"
   ]
 }
