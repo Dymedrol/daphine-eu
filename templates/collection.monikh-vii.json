@@ -116,7 +116,7 @@
       ],
       "settings": {
         "height": "screen-height-full",
-        "width": "wrapper--full",
+        "width": "wrapper--full-padded",
         "image_1": "shopify:\/\/shop_images\/Daphine_Monikh-pt.II_Delhi-hair-cuff.jpg",
         "mobile_height": "screen-height-three-quarters--mobile",
         "flex_align": "align--bottom-left",
