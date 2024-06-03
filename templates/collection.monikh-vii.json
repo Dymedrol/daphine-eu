@@ -89,11 +89,10 @@
         },
         "text_w9pDet": {
           "type": "text",
-          "disabled": true,
           "settings": {
-            "description": "Tell your brand's story through images.",
-            "text_size": 5,
-            "mobile_text_size": 5,
+            "description": "Delhi Hair Cuff",
+            "text_size": 4,
+            "mobile_text_size": 4,
             "text_style": "font-body"
           }
         },
@@ -116,15 +115,74 @@
         "button_jytJfP"
       ],
       "settings": {
-        "height": "screen-height-three-quarters",
-        "width": "wrapper--full-padded",
+        "height": "screen-height-full",
+        "width": "wrapper--full",
+        "image_1": "shopify:\/\/shop_images\/Daphine_Monikh-pt.II_Delhi-hair-cuff.jpg",
         "mobile_height": "screen-height-three-quarters--mobile",
-        "flex_align": "align--middle-center",
+        "flex_align": "align--bottom-left",
         "overlay_opacity": 0,
         "overlay_color": "#000",
         "show_overlay_text": false,
         "bg_color": "",
         "color": "#FFFFFF"
+      }
+    },
+    "section_columns_FRpwDT": {
+      "type": "section-columns",
+      "blocks": {
+        "image_hjDNqJ": {
+          "type": "image",
+          "settings": {
+            "title": "",
+            "heading_size": 4,
+            "mobile_heading_size": 4,
+            "text": "",
+            "text_size": 3,
+            "mobile_text_size": 3,
+            "button_text": "",
+            "button_url": "",
+            "button_type": "btn--primary",
+            "button_size": "",
+            "button_style": "btn--solid",
+            "show_arrow": false
+          }
+        },
+        "image_3Ntew7": {
+          "type": "image",
+          "settings": {
+            "title": "",
+            "heading_size": 4,
+            "mobile_heading_size": 4,
+            "text": "",
+            "text_size": 3,
+            "mobile_text_size": 3,
+            "button_text": "",
+            "button_url": "",
+            "button_type": "btn--primary",
+            "button_size": "",
+            "button_style": "btn--solid",
+            "show_arrow": false
+          }
+        }
+      },
+      "block_order": [
+        "image_hjDNqJ",
+        "image_3Ntew7"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": 5,
+        "mobile_heading_size": 5,
+        "align_text": "text-left",
+        "align_columns": "flex-align-top",
+        "width": "wrapper--full-padded",
+        "image_aspect_ratio": 0.7,
+        "mobile_image_aspect_ratio": 0.7,
+        "bg_color": "",
+        "color": "",
+        "padding_top": 50,
+        "padding_bottom": 50,
+        "layout_mobile": "carousel"
       }
     },
     "subcollections": {
@@ -391,6 +449,7 @@
     "section_hero_ethcD9",
     "hero",
     "section_hero_r4nefN",
+    "section_columns_FRpwDT",
     "subcollections",
     "section_hero_z9kYFp",
     "main",
