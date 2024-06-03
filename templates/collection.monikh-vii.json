@@ -239,6 +239,66 @@
         "color": "#FFFFFF"
       }
     },
+    "section_columns_CFDq6U": {
+      "type": "section-columns",
+      "blocks": {
+        "image_VkpDYc": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Daphine_Monikh-pt.II_Rochelle-earrings-silver_Singh-necklace-silver_dafe7d9b-ed4a-4f45-b969-8e8bf7744186.jpg",
+            "title": "",
+            "heading_size": 4,
+            "mobile_heading_size": 4,
+            "text": "",
+            "text_size": 3,
+            "mobile_text_size": 3,
+            "button_text": "",
+            "button_url": "",
+            "button_type": "btn--primary",
+            "button_size": "",
+            "button_style": "btn--solid",
+            "show_arrow": false
+          }
+        },
+        "image_qQkGJi": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Daphine_SinghNecklace_Gold.jpg",
+            "title": "",
+            "heading_size": 4,
+            "mobile_heading_size": 4,
+            "text": "",
+            "text_size": 3,
+            "mobile_text_size": 3,
+            "button_text": "",
+            "button_url": "",
+            "button_type": "btn--primary",
+            "button_size": "",
+            "button_style": "btn--solid",
+            "show_arrow": false
+          }
+        }
+      },
+      "block_order": [
+        "image_VkpDYc",
+        "image_qQkGJi"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": 5,
+        "mobile_heading_size": 5,
+        "align_text": "text-left",
+        "align_columns": "flex-align-top",
+        "width": "wrapper--full-padded",
+        "image_aspect_ratio": 1,
+        "mobile_image_aspect_ratio": 1,
+        "bg_color": "",
+        "color": "",
+        "padding_top": 50,
+        "padding_bottom": 50,
+        "layout_mobile": "carousel"
+      }
+    },
     "subcollections": {
       "type": "subcollections",
       "disabled": true,
@@ -505,6 +565,7 @@
     "section_hero_r4nefN",
     "section_columns_FRpwDT",
     "section_hero_JDf34J",
+    "section_columns_CFDq6U",
     "subcollections",
     "section_hero_z9kYFp",
     "main",
