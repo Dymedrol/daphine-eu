@@ -744,6 +744,52 @@
         "padding_top": 50,
         "padding_bottom": 50
       }
+    },
+    "text_promo_DWLNdm": {
+      "type": "text-promo",
+      "blocks": {
+        "heading_WrAdHB": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "title": "Text promo"
+          }
+        },
+        "text_xFDpwU": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "content": "Advertise a promotion or a sale"
+          }
+        },
+        "button_hgdAAB": {
+          "type": "button",
+          "settings": {
+            "button_text": "SHOP MONIKH X DAPHINE",
+            "button_url": "",
+            "button_type": "btn--primary",
+            "button_size": "",
+            "button_style": "btn--outline",
+            "show_arrow": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_WrAdHB",
+        "text_xFDpwU",
+        "button_hgdAAB"
+      ],
+      "settings": {
+        "width": "wrapper--full-padded",
+        "border": true,
+        "bg_color": "",
+        "color": "",
+        "overlay_opacity": 0,
+        "overlay_color": "#000",
+        "show_overlay_text": false,
+        "padding_top": 50,
+        "padding_bottom": 50
+      }
     }
   },
   "order": [
@@ -761,6 +807,7 @@
     "main",
     "section_tab_collections_hFJNGi",
     "section_multicolumn_YPdQec",
-    "section_collection_iU7LYX"
+    "section_collection_iU7LYX",
+    "text_promo_DWLNdm"
   ]
 }
