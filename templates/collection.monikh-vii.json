@@ -133,6 +133,7 @@
         "image_hjDNqJ": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/Daphine_Monikh-pt.II_Rochelle-earrings-silver.jpg",
             "title": "",
             "heading_size": 4,
             "mobile_heading_size": 4,
@@ -150,6 +151,7 @@
         "image_3Ntew7": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/Daphine_Monikh-pt.II_Reena-rings.jpg",
             "title": "",
             "heading_size": 4,
             "mobile_heading_size": 4,
@@ -176,8 +178,8 @@
         "align_text": "text-left",
         "align_columns": "flex-align-top",
         "width": "wrapper--full-padded",
-        "image_aspect_ratio": 0.7,
-        "mobile_image_aspect_ratio": 0.7,
+        "image_aspect_ratio": 1,
+        "mobile_image_aspect_ratio": 1,
         "bg_color": "",
         "color": "",
         "padding_top": 50,
