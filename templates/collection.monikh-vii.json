@@ -1,5 +1,56 @@
 {
   "sections": {
+    "section_hero_ethcD9": {
+      "type": "section-hero",
+      "blocks": {
+        "heading_iJ8p9Y": {
+          "type": "heading",
+          "settings": {
+            "title": "",
+            "heading_size": 11,
+            "mobile_heading_size": 11
+          }
+        },
+        "text_pywp6e": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "description": "Tell your brand's story through images.",
+            "text_size": 5,
+            "mobile_text_size": 5,
+            "text_style": "font-body"
+          }
+        },
+        "button_EXG48V": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "link_text": "View products",
+            "link": "",
+            "button_type": "btn--primary",
+            "button_size": "",
+            "button_style": "btn--solid",
+            "show_arrow": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_iJ8p9Y",
+        "text_pywp6e",
+        "button_EXG48V"
+      ],
+      "settings": {
+        "height": "screen-height-three-quarters",
+        "width": "wrapper--full",
+        "mobile_height": "screen-height-three-quarters--mobile",
+        "flex_align": "align--middle-center",
+        "overlay_opacity": 0,
+        "overlay_color": "#000",
+        "show_overlay_text": false,
+        "bg_color": "",
+        "color": "#FFFFFF"
+      }
+    },
     "hero": {
       "type": "collection-image-with-title",
       "custom_css": [
@@ -22,6 +73,58 @@
         "show_overlay_text": false,
         "padding_top": 0,
         "padding_bottom": 0
+      }
+    },
+    "section_hero_r4nefN": {
+      "type": "section-hero",
+      "blocks": {
+        "heading_qWTB4C": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "title": "Image banner",
+            "heading_size": 11,
+            "mobile_heading_size": 11
+          }
+        },
+        "text_w9pDet": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "description": "Tell your brand's story through images.",
+            "text_size": 5,
+            "mobile_text_size": 5,
+            "text_style": "font-body"
+          }
+        },
+        "button_jytJfP": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "link_text": "View products",
+            "link": "",
+            "button_type": "btn--primary",
+            "button_size": "",
+            "button_style": "btn--solid",
+            "show_arrow": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_qWTB4C",
+        "text_w9pDet",
+        "button_jytJfP"
+      ],
+      "settings": {
+        "height": "screen-height-three-quarters",
+        "width": "wrapper--full-padded",
+        "mobile_height": "screen-height-three-quarters--mobile",
+        "flex_align": "align--middle-center",
+        "overlay_opacity": 0,
+        "overlay_color": "#000",
+        "show_overlay_text": false,
+        "bg_color": "",
+        "color": "#FFFFFF"
       }
     },
     "subcollections": {
@@ -285,7 +388,9 @@
     }
   },
   "order": [
+    "section_hero_ethcD9",
     "hero",
+    "section_hero_r4nefN",
     "subcollections",
     "section_hero_z9kYFp",
     "main",
