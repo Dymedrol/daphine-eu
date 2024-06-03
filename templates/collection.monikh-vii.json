@@ -411,6 +411,58 @@
         "layout_mobile": "carousel"
       }
     },
+    "section_hero_J9VgTy": {
+      "type": "section-hero",
+      "blocks": {
+        "heading_wta8Ym": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "title": "Image banner",
+            "heading_size": 11,
+            "mobile_heading_size": 11
+          }
+        },
+        "text_fFKi8A": {
+          "type": "text",
+          "settings": {
+            "description": "Rochelle Earrings and Singh Necklace",
+            "text_size": 4,
+            "mobile_text_size": 4,
+            "text_style": "font-body"
+          }
+        },
+        "button_qjc9pN": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "link_text": "View products",
+            "link": "",
+            "button_type": "btn--primary",
+            "button_size": "",
+            "button_style": "btn--solid",
+            "show_arrow": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_wta8Ym",
+        "text_fFKi8A",
+        "button_qjc9pN"
+      ],
+      "settings": {
+        "height": "image-height",
+        "width": "wrapper--full-padded",
+        "image_1": "shopify:\/\/shop_images\/Daphine_Monikh-pt.II_Singh-necklace-silver.jpg",
+        "mobile_height": "screen-height-three-quarters--mobile",
+        "flex_align": "align--bottom-left",
+        "overlay_opacity": 0,
+        "overlay_color": "#000",
+        "show_overlay_text": false,
+        "bg_color": "",
+        "color": "#FFFFFF"
+      }
+    },
     "subcollections": {
       "type": "subcollections",
       "disabled": true,
@@ -680,6 +732,7 @@
     "section_columns_CFDq6U",
     "section_hero_eX9qeU",
     "section_columns_pfBgBH",
+    "section_hero_J9VgTy",
     "subcollections",
     "section_hero_z9kYFp",
     "main",
