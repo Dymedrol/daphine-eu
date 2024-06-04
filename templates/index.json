@@ -62,7 +62,7 @@
             "heading_size": 10,
             "description": "",
             "text_size": 8,
-            "flex_align": "align--bottom-center",
+            "flex_align": "align--middle-center",
             "bg_color": "rgba(0,0,0,0)",
             "color": "#ffffff",
             "first_button_text": "explore vol. ii",
