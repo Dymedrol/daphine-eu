@@ -22,7 +22,6 @@
         },
         "image_eXCeeL": {
           "type": "image",
-          "disabled": true,
           "settings": {
             "position": "1",
             "image": "shopify:\/\/shop_images\/Daphine_Clarahoops_1c68c6b8-b01f-45ea-bceb-606965fffda6.jpg",
