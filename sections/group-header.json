@@ -66,6 +66,21 @@
             "text_color": "#212121"
           }
         },
+        "image_i3ywMc": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "position": "2",
+            "aspect_ratio": 1,
+            "wide_image": false,
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "title": "",
+            "link_text": "",
+            "link": "shopify:\/\/products\/chris-tennis-bracelet",
+            "text_color": "#212121"
+          }
+        },
         "image_h9fqYT": {
           "type": "image",
           "settings": {
@@ -242,6 +257,7 @@
         "image_4qGUJT",
         "78db1e17-aae2-4ae0-97e6-bfe6e3e6e147",
         "image_rTLgbr",
+        "image_i3ywMc",
         "image_h9fqYT",
         "image_UNzFEn",
         "image_a6RAaF",
