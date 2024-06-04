@@ -40,15 +40,16 @@
         "button_EXG48V"
       ],
       "settings": {
-        "height": "screen-height-three-quarters",
+        "height": "screen-height-full",
         "width": "wrapper--full",
+        "image_1": "shopify:\/\/shop_images\/daphine_x_monikh_vol._ii_banner_desktop.png",
         "mobile_height": "screen-height-three-quarters--mobile",
         "flex_align": "align--middle-center",
         "overlay_opacity": 0,
-        "overlay_color": "#000",
+        "overlay_color": "#000000",
         "show_overlay_text": false,
         "bg_color": "",
-        "color": "#FFFFFF"
+        "color": "#ffffff"
       }
     },
     "hero": {
@@ -121,10 +122,10 @@
         "mobile_height": "screen-height-three-quarters--mobile",
         "flex_align": "align--bottom-left",
         "overlay_opacity": 0,
-        "overlay_color": "#000",
+        "overlay_color": "#000000",
         "show_overlay_text": false,
         "bg_color": "",
-        "color": "#FFFFFF"
+        "color": "#ffffff"
       }
     },
     "section_columns_FRpwDT": {
@@ -233,10 +234,10 @@
         "mobile_height": "screen-height-three-quarters--mobile",
         "flex_align": "align--bottom-left",
         "overlay_opacity": 0,
-        "overlay_color": "#000",
+        "overlay_color": "#000000",
         "show_overlay_text": false,
         "bg_color": "",
-        "color": "#FFFFFF"
+        "color": "#ffffff"
       }
     },
     "section_columns_CFDq6U": {
@@ -345,10 +346,10 @@
         "mobile_height": "screen-height-three-quarters--mobile",
         "flex_align": "align--bottom-left",
         "overlay_opacity": 0,
-        "overlay_color": "#000",
+        "overlay_color": "#000000",
         "show_overlay_text": false,
         "bg_color": "",
-        "color": "#FFFFFF"
+        "color": "#ffffff"
       }
     },
     "section_columns_pfBgBH": {
@@ -457,10 +458,10 @@
         "mobile_height": "screen-height-three-quarters--mobile",
         "flex_align": "align--bottom-left",
         "overlay_opacity": 0,
-        "overlay_color": "#000",
+        "overlay_color": "#000000",
         "show_overlay_text": false,
         "bg_color": "",
-        "color": "#FFFFFF"
+        "color": "#ffffff"
       }
     },
     "subcollections": {
@@ -785,7 +786,7 @@
         "bg_color": "",
         "color": "",
         "overlay_opacity": 0,
-        "overlay_color": "#000",
+        "overlay_color": "#000000",
         "show_overlay_text": false,
         "padding_top": 50,
         "padding_bottom": 50
