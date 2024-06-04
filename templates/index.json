@@ -36,6 +36,7 @@
       "block_order": [
         "slideshow-0"
       ],
+      "disabled": true,
       "settings": {
         "height": "screen-height-full",
         "mobile_height": "screen-height-three-quarters--mobile",
@@ -82,7 +83,6 @@
       "block_order": [
         "image_aAW3RE"
       ],
-      "disabled": true,
       "settings": {
         "height": "screen-height-full",
         "mobile_height": "screen-height-three-quarters--mobile",
@@ -142,6 +142,7 @@
       "blocks": {
         "template--17234605211894__21a05252-aed6-490f-aa5f-589a9685314f-highlight-1": {
           "type": "highlight",
+          "disabled": true,
           "settings": {
             "heading": "Bracelets",
             "url": "shopify:\/\/collections\/bracelets",
@@ -153,6 +154,7 @@
         },
         "template--17234605211894__21a05252-aed6-490f-aa5f-589a9685314f-highlight-2": {
           "type": "highlight",
+          "disabled": true,
           "settings": {
             "heading": "Earrings",
             "url": "shopify:\/\/collections\/earrings",
@@ -164,6 +166,7 @@
         },
         "template--17234605211894__21a05252-aed6-490f-aa5f-589a9685314f-highlight-3": {
           "type": "highlight",
+          "disabled": true,
           "settings": {
             "heading": "Necklaces",
             "url": "shopify:\/\/collections\/necklaces",
@@ -175,7 +178,6 @@
         },
         "highlight_KzWgNF": {
           "type": "highlight",
-          "disabled": true,
           "settings": {
             "heading": "New In",
             "url": "shopify:\/\/collections\/new-in",
@@ -187,7 +189,6 @@
         },
         "highlight_e7xX9L": {
           "type": "highlight",
-          "disabled": true,
           "settings": {
             "heading": "Rings",
             "url": "shopify:\/\/collections\/rings",
@@ -199,7 +200,6 @@
         },
         "highlight_eEQKjR": {
           "type": "highlight",
-          "disabled": true,
           "settings": {
             "heading": "Earrings",
             "url": "shopify:\/\/collections\/earrings",
