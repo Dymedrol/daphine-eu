@@ -24,9 +24,9 @@
           "type": "image",
           "settings": {
             "position": "1",
-            "image": "shopify:\/\/shop_images\/Daphine_Clarahoops_1c68c6b8-b01f-45ea-bceb-606965fffda6.jpg",
-            "aspect_ratio": 1,
-            "wide_image": false,
+            "image": "shopify:\/\/shop_images\/daphine_x_monikh_vol._ii_banner_desktop.png",
+            "aspect_ratio": 0.7,
+            "wide_image": true,
             "overlay_opacity": 0,
             "overlay_color": "#000000",
             "title": "",
