@@ -54,7 +54,7 @@
     "favicon": "shopify:\/\/shop_images\/FAVICON_LOGO.png",
     "enable_order_notes": false,
     "enable_gift_notes": false,
-    "enable_estimate_shipping": true,
+    "enable_estimate_shipping": false,
     "enable_additional_buttons": false,
     "show_free_shipping_message": false,
     "message": "You are ||amount|| away from free shipping.",
