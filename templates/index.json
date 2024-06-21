@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "slideshow": {
@@ -239,11 +248,11 @@
     "featured-collection": {
       "type": "section-collection",
       "settings": {
-        "heading": "Monikh x Daphine Vol.II",
+        "heading": "New in",
         "description": "",
         "layout": "inline",
         "link_text": "Explore all",
-        "link_url": "shopify:\/\/collections\/monikh-x-daphine-vol-ii",
+        "link_url": "shopify:\/\/collections\/new-in",
         "button_type": "btn--primary",
         "button_size": "btn--small",
         "button_style": "btn--text",
