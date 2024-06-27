@@ -281,6 +281,29 @@
         "padding_bottom": 0
       }
     },
+    "featured-collection": {
+      "type": "section-collection",
+      "settings": {
+        "heading": "Sale",
+        "description": "",
+        "layout": "inline",
+        "link_text": "Shop Sale",
+        "link_url": "shopify:\/\/collections\/sale-1",
+        "button_type": "btn--primary",
+        "button_size": "btn--small",
+        "button_style": "btn--text",
+        "show_arrow": false,
+        "featured_collection": "sale-1",
+        "style": "slider",
+        "grid": 4,
+        "rows": 1,
+        "layout_mobile": "carousel",
+        "bg_color": "#ffffff",
+        "color": "#212121",
+        "padding_top": 60,
+        "padding_bottom": 50
+      }
+    },
     "hero": {
       "type": "section-hero",
       "blocks": {
@@ -335,7 +358,7 @@
         "color": "#ffffff"
       }
     },
-    "featured-collection": {
+    "section_collection_Nd66xW": {
       "type": "section-collection",
       "settings": {
         "heading": "L'été in gold",
@@ -842,8 +865,9 @@
     "section_slideshow_jTKbkj",
     "080de123-cd67-4a8f-b095-390fa30c932d",
     "21a05252-aed6-490f-aa5f-589a9685314f",
-    "hero",
     "featured-collection",
+    "hero",
+    "section_collection_Nd66xW",
     "image-with-text",
     "8c3fa3c0-64fa-406c-9f65-ced0a2e3da8f",
     "fe493672-9f35-432d-b991-0e3cbb9a08ba",
