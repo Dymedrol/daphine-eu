@@ -309,6 +309,7 @@
       "blocks": {
         "b89b8dee-c00f-47b0-a4ef-e4683116dfb3": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "<p>Sign up for 10% off your first order<\/p>",
             "target_url_enabled": false,
@@ -321,6 +322,7 @@
         },
         "text_ykWbn7": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "<p>New customers save 10% with code <strong>GET10<\/strong><\/p>",
             "target_url_enabled": false,
@@ -330,24 +332,36 @@
             "target_device_enabled": false,
             "target_device": "mobile"
           }
+        },
+        "text_jrm3GG": {
+          "type": "text",
+          "settings": {
+            "text": "<p>SALE SALE SALE<\/p>",
+            "target_url_enabled": false,
+            "target_url": "shopify:\/\/collections\/sale-1",
+            "target_referrer_enabled": false,
+            "target_referrer": "",
+            "target_device_enabled": false,
+            "target_device": "mobile"
+          }
         }
       },
       "block_order": [
         "b89b8dee-c00f-47b0-a4ef-e4683116dfb3",
-        "text_ykWbn7"
+        "text_ykWbn7",
+        "text_jrm3GG"
       ],
-      "disabled": true,
       "custom_css": [
         ".announcement__slide {font-family: \"ITC Galliard\" !important; font-style: italic;}"
       ],
       "settings": {
-        "layout": "marquee",
+        "layout": "slider",
         "slider_speed": 5,
         "show_arrows": false,
         "marquee_speed": 50,
-        "text_size": 4,
-        "bg_color": "#ffffff",
-        "color": "#251111"
+        "text_size": 3,
+        "bg_color": "#4d5038",
+        "color": "#ffffff"
       }
     },
     "9229d21d-c71f-4261-b277-44d09305ad2f": {
