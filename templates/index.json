@@ -108,7 +108,7 @@
             "text_size": 4,
             "flex_align": "align--middle-center",
             "bg_color": "",
-            "color": "#FFFFFF",
+            "color": "#ffffff",
             "first_button_text": "SHOP UP TO 50% OFF",
             "first_button_link": "shopify:\/\/collections\/sale-1",
             "first_button_type": "btn--white",
@@ -134,7 +134,7 @@
         "width": "wrapper--full",
         "transition": "slide",
         "show_arrows": false,
-        "autoplay": false,
+        "autoplay": true,
         "autoplay_speed": 5
       }
     },
