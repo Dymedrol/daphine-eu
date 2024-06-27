@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "type": "header",
   "name": "Header",
@@ -284,7 +293,7 @@
         "show_locale_selector": true,
         "show_currency_selector": true,
         "type": "currency",
-        "highlight_item": "Sale",
+        "highlight_item": "SALE",
         "highlight_item_color": "#d02e2e",
         "transparent_home": false,
         "transparent_collection": false,
