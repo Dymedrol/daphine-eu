@@ -140,7 +140,7 @@
           "modal_closeButton": false,
           "option_flag_style": "none",
           "option_currency_type": "symbol_flag",
-          "option_language": true,
+          "option_language": false,
           "option_search_country": true,
           "title": "",
           "text": "Please select your shipping country:",
