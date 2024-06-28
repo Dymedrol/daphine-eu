@@ -336,7 +336,7 @@
         "text_jrm3GG": {
           "type": "text",
           "settings": {
-            "text": "<p>SALE SALE SALE<\/p>",
+            "text": "<p><a href=\"\/collections\/sale-1\" title=\"SALE\">SALE SALE SALE<\/a><\/p>",
             "target_url_enabled": false,
             "target_url": "shopify:\/\/collections\/sale-1",
             "target_referrer_enabled": false,
