@@ -149,7 +149,7 @@
           "fallback_text": "We currently don’t ship to {country}",
           "alignment_image": "right",
           "style_corners": "square",
-          "style_dropdown": "outlined",
+          "style_dropdown": "underlined",
           "modal_button_align": "full_width",
           "title_font_size": 20,
           "text_font_size": 14,
