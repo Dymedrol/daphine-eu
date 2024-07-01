@@ -210,7 +210,7 @@
   },
   "collections": {
     "general": {
-      "title": "Des collections",
+      "title": "Collections",
       "view_collection": "Voir la collection",
       "sort": "Trier par",
       "no_matches": "Désolé, il n'y a pas de produits ici.",
@@ -229,8 +229,8 @@
       },
       "show_more": "Plus d'options",
       "items": {
-        "one": "item",
-        "other": "items",
+        "one": "Article",
+        "other": "Articles",
         "heading": "Collection"
       },
       "colors_with_count": {
