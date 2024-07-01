@@ -519,14 +519,14 @@
     },
     "form": {
       "success": "Merci de vous être abonné!",
-      "newsletter_title": "Abonnez-vous à nouveau",
+      "newsletter_title": "Abonnez-vous ",
       "placeholder": "email@example.com",
       "login": "Mot de passe"
     },
     "buttons": {
       "sign_up": "S'inscrire",
       "store_login": "Vitrine",
-      "newsletter_signup": "Bulletin",
+      "newsletter_signup": "S'inscrire à notre Newsletter",
       "login": "S'identifier"
     }
   },
