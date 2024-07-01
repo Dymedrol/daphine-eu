@@ -248,7 +248,7 @@
   "contact": {
     "form": {
       "name": "Nom",
-      "email": "Courriel",
+      "email": "Email",
       "phone": "Téléphone",
       "subject": "Sujet",
       "message": "Message",
