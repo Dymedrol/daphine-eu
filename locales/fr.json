@@ -476,7 +476,7 @@
       "remaining_html": "Dépêchez-vous, il n'en reste plus que {{ inventory }}!",
       "remaining_no_count": "Dépêchez-vous ! Faible inventaire",
       "pickup_availability": {
-        "pickup_options": "Options de ramassage",
+        "pickup_options": "Point de Collecte",
         "view_store_info": "Afficher les informations de la boutique",
         "check_other_stores": "Vérifier la disponibilité dans d'autres boutiques",
         "pick_up_available": "Service de retrait disponible",
