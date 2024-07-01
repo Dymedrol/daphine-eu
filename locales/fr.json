@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin language editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "general": {
     "ie11_support_message": "Ce site Web a des limites de navigation. Il est recommandé d'utiliser un navigateur comme Edge, Chrome, Safari ou Firefox.",
@@ -166,10 +175,10 @@
       "remove": "Retirer",
       "subtotal": "Sous-total",
       "subtotal_items": "Articles",
-      "subtotal_note": "hors taxes et frais de livraison",
+      "subtotal_note": "Frais de livraison calculés au checkout",
       "customer_note": "Donnez une note au vendeur",
-      "cart_notes_label": "Ajouter des notes de commande",
-      "pair_products": "Paire avec",
+      "cart_notes_label": "Ajouter une note à votre commande",
+      "pair_products": "Porter avec",
       "estimate_shipping_label": "Estimation des frais de port",
       "gift_notes_label": "Est-ce un cadeau?",
       "gift_note_attribute": "Note cadeau",
@@ -179,8 +188,8 @@
       "savings": "Vous économisez",
       "with": "avec",
       "or": "ou",
-      "increase_quantity_label": "Augmenter la quantité de bouton",
-      "decrease_quantity_label": "Diminuer la quantité de boutons",
+      "increase_quantity_label": "Augmenter la quantité ",
+      "decrease_quantity_label": "Diminuer la quantité ",
       "quantity_field_label": "Champ de quantité",
       "continue_shopping": "Continuer les achats",
       "discount_label": "Vous économisez {{ amount }} avec {{ title }}",
