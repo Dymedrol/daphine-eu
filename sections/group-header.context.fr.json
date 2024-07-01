@@ -13,5 +13,12 @@
     "market": "fr"
   },
   "sections": {
+    "announcement": {
+      "disabled": false,
+      "settings": {
+      },
+      "blocks": {
+      }
+    }
   }
 }
