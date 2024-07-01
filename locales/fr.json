@@ -525,7 +525,7 @@
     },
     "buttons": {
       "sign_up": "S'inscrire",
-      "store_login": "Vitrine",
+      "store_login": "Se connecter",
       "newsletter_signup": "S'inscrire à notre Newsletter",
       "login": "S'identifier"
     }
