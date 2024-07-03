@@ -104,6 +104,7 @@
     },
     "section_custom_code_Lw8Hk6": {
       "type": "section-custom-code",
+      "disabled": true,
       "settings": {
         "code": "<div class=\"klaviyo-form-YfGUPD\"><\/div>",
         "width": "wrapper--narrow",
