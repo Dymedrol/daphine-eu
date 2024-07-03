@@ -102,6 +102,17 @@
         "padding_bottom": 20
       }
     },
+    "section_divider_UdjhbH": {
+      "type": "section-divider",
+      "settings": {
+        "show_line": true,
+        "width": "wrapper",
+        "border_color": "",
+        "bg_color": "",
+        "padding_top": 15,
+        "padding_bottom": 0
+      }
+    },
     "section_custom_code_Lw8Hk6": {
       "type": "section-custom-code",
       "settings": {
@@ -232,6 +243,7 @@
     "section_rich_text_Wex6KM",
     "section_rich_text_DXxPre",
     "section_rich_text_BR8BbV",
+    "section_divider_UdjhbH",
     "section_custom_code_Lw8Hk6",
     "section_rich_text_jhynPV",
     "main",
