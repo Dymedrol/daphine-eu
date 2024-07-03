@@ -11,6 +11,12 @@
     "name": "Delivery text settings",
     "settings": [
       {
+        "type": "checkbox",
+        "id": "show_bubble",
+        "label": "Show delivery text bubble",
+        "default": true
+      },
+      {
         "type": "range",
         "id": "numberOfDaysToAddAvailable",
         "label": "Number of days to add available",

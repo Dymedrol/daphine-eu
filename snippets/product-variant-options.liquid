@@ -274,4 +274,6 @@
   <div {{ block.shopify_attributes }}></div>
 {%- endif -%}
 
-<div class="product__block__count-text back-in-door count-text-container" id="count-text-container"></div>
+{%- if settings.show_bubble -%}
+  <div class="product__block__count-text back-in-door count-text-container" id="count-text-container"></div>
+{%- endif -%}
