@@ -33,6 +33,15 @@
         "max": 100,
         "step": 1,
         "default": 20
+      },
+      {
+        "type": "range",
+        "id": "numberOfroductsToShowQuantity",
+        "label": "Number of products to show products left",
+        "min": 0,
+        "max": 100,
+        "step": 1,
+        "default": 5
       }
     ]
   },

@@ -11619,6 +11619,7 @@
 
         let numberOfDaysToAddAvailable = numberOfDaysToAddAvailableForJs;
         let numberOfDaysToAddUnavailable = numberOfDaysToAddUnavailableForJs;
+        let numberOfroductsToShowQuantity = numberOfroductsToShowQuantityForJs;
 
         if (variant.available) {
           let text = ''
@@ -11631,9 +11632,9 @@
               timeZone: 'utc'
             }
           );
-          if (variant.inventory_quantity > 5 ) {
+          if (variant.inventory_quantity > numberOfroductsToShowQuantity ) {
             text = 'In stock. Express Shipping';
-          } else if (variant.inventory_quantity <= 5 && variant.inventory_quantity > 0) {
+          } else if (variant.inventory_quantity <= numberOfroductsToShowQuantity && variant.inventory_quantity > 0) {
             text = variant.inventory_quantity + ' left. Express Shipping';
           } else {
             todayDate.setDate(todayDate.getDate() + numberOfDaysToAddUnavailable);
