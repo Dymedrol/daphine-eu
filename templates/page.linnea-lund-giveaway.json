@@ -31,7 +31,7 @@
         "text_7pYBkt": {
           "type": "text",
           "settings": {
-            "text": "<p>We partnered with Linnea Lund - the conscious luxury brand specializing in fully sustainable cashmere wool garments. Crafted with love in Italy, Swedish inspired, Italian made & French flaired - on a special giveaway.<\/p>",
+            "text": "<p>We partnered with Linnea Lund - the conscious luxury brand specializing in fully sustainable cashmere wool garments on a special giveaway. <\/p>",
             "text_size": 3,
             "mobile_text_size": 3,
             "text_style": "font-body"
@@ -58,7 +58,7 @@
         "text_Y9dHDA": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>A chance to win a €250 voucher to be used on both brands’ websites.<\/strong><\/p>",
+            "text": "<p><strong>Win two £250 vouchers to be used on each brands’ websites.<\/strong><\/p>",
             "text_size": 3,
             "mobile_text_size": 3,
             "text_style": "font-body"
