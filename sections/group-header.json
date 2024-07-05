@@ -338,7 +338,7 @@
           "settings": {
             "text": "<p><a href=\"\/collections\/sale-1\" title=\"SALE\">SALE SALE SALE<\/a><\/p>",
             "target_url_enabled": false,
-            "target_url": "shopify:\/\/collections\/sale-1",
+            "target_url": "shopify:\/\/collections\/summer-sale",
             "target_referrer_enabled": false,
             "target_referrer": "",
             "target_device_enabled": false,
