@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "section_multicolumn_y3VDjL": {
@@ -215,6 +224,17 @@
             "mobile_text_size": 3
           }
         },
+        "question_ccGRr9": {
+          "type": "question",
+          "settings": {
+            "title": "Repair & Restore",
+            "heading_size": 5,
+            "mobile_heading_size": 5,
+            "content": "<p>At Daphine, sustainability is always on our minds - we believe in encouraging conscious consumption - that is why we offer a repair and restore service for a fee for those pieces that need a bit of extra care, from re-plating to stone replacement. <a href=\"https:\/\/finematter.com\/en\/services\/daphine\/\" target=\"_blank\" title=\"Repair and restore jewellery service Daphine.\">Please click here to book your service.<\/a><\/p>",
+            "text_size": 3,
+            "mobile_text_size": 3
+          }
+        },
         "question_JBcc44": {
           "type": "question",
           "settings": {
@@ -333,6 +353,7 @@
         "template--16858200375542__b5de629f-24af-4cf1-a72a-0551b1f61ea0-question-3",
         "628276ff-126c-4281-baa7-6e5b0a0d0db8",
         "8e1977d1-5db7-45e1-8aee-4c4666a1a20b",
+        "question_ccGRr9",
         "question_JBcc44",
         "question_Nh6aCk",
         "question_mLayrW",
