@@ -19,32 +19,6 @@
           "disabled": false
         }
       }
-    },
-    "1119158d-7a19-4fdc-9140-c7ef58c51453": {
-      "blocks": {
-        "template--16822550462710__1119158d-7a19-4fdc-9140-c7ef58c51453-1685447152668a300a-1": {
-          "settings": {
-            "title": "Commander facilement",
-            "text": "<p>Vos paiements sont sécurisés et facile à effectuer.<\/p>"
-          }
-        },
-        "template--16822550462710__1119158d-7a19-4fdc-9140-c7ef58c51453-1685447152668a300a-2": {
-          "settings": {
-            "title": "Nous Contacter",
-            "text": "<p>Vous avez une questions? N'hésitez pas à nous contacter.<\/p>"
-          }
-        }
-      }
-    },
-    "aa66146f-cfd1-42ec-a274-da71d05a28e1": {
-      "blocks": {
-        "template--16822550462710__aa66146f-cfd1-42ec-a274-da71d05a28e1-16854463982141e191-1": {
-          "settings": {
-            "text": "<p>Less is really more. Nous encourageons nos clients à une consommation consciente – nous espérons que vos pièces vous apportent beaucoup de joie.<\/p><p>Les bijoux Daphine sont conçus pour être aimés pendant des années, c'est pourquoi nous créons des pièces intemporelles qui peuvent être portés saison après saison.<\/p>",
-            "button_text": "Découvrir"
-          }
-        }
-      }
     }
   }
 }
