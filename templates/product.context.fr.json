@@ -14,68 +14,14 @@
   },
   "sections": {
     "main": {
-      "settings": {
-      },
       "blocks": {
         "buttons": {
-          "disabled": false,
-          "settings": {
-          }
-        },
-        "tabs": {
-          "settings": {
-            "title_2": "LIVRAISON",
-            "raw_content_2": "<p>Livraison gratuite partout en Europe pour toute commande supérieure à 150€.<\/p><p>Consultez notre <a href=\"https:\/\/eu.shop-daphine.com\/en\/pages\/shipping-returns2\">page de livraison<\/a> pour plus de détails et la liste complète des pays vers lesquels nous expédions. <\/p><p>Nous offrons un retour gratuit pour nos clients. Veuillez consulter la page <a href=\"https:\/\/eu.shop-daphine.com\/en\/pages\/returns\" title=\"Conditions de Retour Daphine\">Retour <\/a>pour plus de détails.<\/p>"
-          }
-        },
-        "8f79fd74-aa05-459e-9b5b-86bb1695422f": {
-          "settings": {
-            "title": "Livraison Gratuite sur les commandes de plus de 150€"
-          }
-        },
-        "a0a8b781-007b-449f-96dc-8c58cf6e5f55": {
-          "settings": {
-            "title": "Livraison le même jour pour les commandes passées avant 13h"
-          }
-        },
-        "icon_1": {
-          "settings": {
-            "title": "Retour facile"
-          }
-        },
-        "icon_EKrF8n": {
-          "settings": {
-            "title": "Envoi sans Plastic"
-          }
-        }
-      }
-    },
-    "a5c5c01c-4680-4260-be81-05c6ac25ff1f": {
-      "settings": {
-        "title": "Vu sur"
-      }
-    },
-    "related": {
-      "blocks": {
-        "related": {
-          "settings": {
-            "product_recommendations_heading": "Vous aimerez aussi"
-          }
-        },
-        "recent": {
-          "settings": {
-            "product_recently_heading": "Derniers articles vus"
-          }
+          "disabled": false
         }
       }
     },
     "1119158d-7a19-4fdc-9140-c7ef58c51453": {
       "blocks": {
-        "template--16822550462710__1119158d-7a19-4fdc-9140-c7ef58c51453-1685447152668a300a-0": {
-          "settings": {
-            "title": "Paiement Sécurisé"
-          }
-        },
         "template--16822550462710__1119158d-7a19-4fdc-9140-c7ef58c51453-1685447152668a300a-1": {
           "settings": {
             "title": "Commander facilement",
