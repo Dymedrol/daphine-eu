@@ -47,14 +47,13 @@
         "text_rdM8TN",
         "button_nL7XNF"
       ],
-      "disabled": true,
       "settings": {
         "height": "image-height",
         "width": "wrapper--full",
-        "image_1": "shopify:\/\/shop_images\/Daphine_Swin_necklace_Reena_rings.jpg",
+        "image_1": "shopify:\/\/shop_images\/Singh_necklace_Rochelle_earrings.jpg",
         "mobile_height": "image-height--mobile",
-        "mobile_image": "shopify:\/\/shop_images\/Daphine_Monikh-pt.II_Swin-necklace-2.jpg",
-        "flex_align": "align--bottom-center",
+        "mobile_image": "shopify:\/\/shop_images\/Daphine_Monikh_pt.II_Singh_necklace_gold.jpg",
+        "flex_align": "align--middle-center",
         "overlay_opacity": 0,
         "overlay_color": "#000000",
         "show_overlay_text": false,
@@ -128,6 +127,7 @@
         "image_QMmcNg",
         "image_aAW3RE"
       ],
+      "disabled": true,
       "settings": {
         "height": "image-height",
         "mobile_height": "image-height--mobile",
@@ -180,6 +180,29 @@
         "color": "",
         "padding_top": 15,
         "padding_bottom": 10
+      }
+    },
+    "section_collection_Nd66xW": {
+      "type": "section-collection",
+      "settings": {
+        "heading": "L'été in gold",
+        "description": "",
+        "layout": "inline",
+        "link_text": "Explore all",
+        "link_url": "shopify:\/\/collections\/summer-gold",
+        "button_type": "btn--primary",
+        "button_size": "btn--small",
+        "button_style": "btn--text",
+        "show_arrow": false,
+        "featured_collection": "summer-gold",
+        "style": "slider",
+        "grid": 4,
+        "rows": 1,
+        "layout_mobile": "carousel",
+        "bg_color": "#ffffff",
+        "color": "#212121",
+        "padding_top": 60,
+        "padding_bottom": 50
       }
     },
     "21a05252-aed6-490f-aa5f-589a9685314f": {
@@ -246,9 +269,9 @@
         "highlight_eEQKjR": {
           "type": "highlight",
           "settings": {
-            "heading": "Earrings",
-            "url": "shopify:\/\/collections\/earrings",
-            "image": "shopify:\/\/shop_images\/Daphine_Monikh-pt.II_Rochelle-earrings-gold.jpg",
+            "heading": "Rings",
+            "url": "shopify:\/\/collections\/rings",
+            "image": "shopify:\/\/shop_images\/Daphine_Monikh-pt.II_Reena-rings-1.jpg",
             "color": "#ffffff",
             "bg_color": "#f0f0f0",
             "border_color": ""
@@ -281,27 +304,15 @@
         "padding_bottom": 0
       }
     },
-    "featured-collection": {
-      "type": "section-collection",
+    "section_divider_BxE4qe": {
+      "type": "section-divider",
       "settings": {
-        "heading": "Sale",
-        "description": "",
-        "layout": "inline",
-        "link_text": "Shop Sale",
-        "link_url": "shopify:\/\/collections\/summer-sale",
-        "button_type": "btn--primary",
-        "button_size": "btn--small",
-        "button_style": "btn--text",
-        "show_arrow": false,
-        "featured_collection": "summer-sale",
-        "style": "slider",
-        "grid": 4,
-        "rows": 1,
-        "layout_mobile": "carousel",
-        "bg_color": "#ffffff",
-        "color": "#212121",
-        "padding_top": 60,
-        "padding_bottom": 50
+        "show_line": true,
+        "width": "wrapper",
+        "border_color": "",
+        "bg_color": "",
+        "padding_top": 64,
+        "padding_bottom": 0
       }
     },
     "hero": {
@@ -358,19 +369,19 @@
         "color": "#ffffff"
       }
     },
-    "section_collection_Nd66xW": {
+    "featured-collection": {
       "type": "section-collection",
       "settings": {
-        "heading": "L'été in gold",
+        "heading": "Sale",
         "description": "",
         "layout": "inline",
-        "link_text": "Explore all",
-        "link_url": "shopify:\/\/collections\/summer-gold",
+        "link_text": "Shop Sale",
+        "link_url": "shopify:\/\/collections\/summer-sale",
         "button_type": "btn--primary",
         "button_size": "btn--small",
         "button_style": "btn--text",
         "show_arrow": false,
-        "featured_collection": "summer-gold",
+        "featured_collection": "summer-sale",
         "style": "slider",
         "grid": 4,
         "rows": 1,
@@ -864,10 +875,11 @@
     "section_hero_kTqMAT",
     "section_slideshow_jTKbkj",
     "080de123-cd67-4a8f-b095-390fa30c932d",
-    "21a05252-aed6-490f-aa5f-589a9685314f",
-    "featured-collection",
-    "hero",
     "section_collection_Nd66xW",
+    "21a05252-aed6-490f-aa5f-589a9685314f",
+    "section_divider_BxE4qe",
+    "hero",
+    "featured-collection",
     "image-with-text",
     "8c3fa3c0-64fa-406c-9f65-ced0a2e3da8f",
     "fe493672-9f35-432d-b991-0e3cbb9a08ba",
