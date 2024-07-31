@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "section_hero_ethcD9": {
@@ -73,8 +82,31 @@
         "overlay_opacity": 0,
         "overlay_color": "#000000",
         "show_overlay_text": false,
-        "padding_top": 0,
+        "padding_top": 50,
         "padding_bottom": 0
+      }
+    },
+    "section_collection_iU7LYX": {
+      "type": "section-collection",
+      "settings": {
+        "heading": "Monikh's Favourites",
+        "description": "",
+        "layout": "center",
+        "link_text": "",
+        "link_url": "",
+        "button_type": "btn--primary",
+        "button_size": "",
+        "button_style": "btn--solid",
+        "show_arrow": false,
+        "featured_collection": "monikh-x-daphine-vol-ii",
+        "style": "grid",
+        "grid": 4,
+        "rows": 3,
+        "layout_mobile": "carousel",
+        "bg_color": "",
+        "color": "",
+        "padding_top": 30,
+        "padding_bottom": 50
       }
     },
     "section_hero_r4nefN": {
@@ -653,29 +685,6 @@
         "padding_bottom": 32
       }
     },
-    "section_collection_iU7LYX": {
-      "type": "section-collection",
-      "settings": {
-        "heading": "Monikh's Favourites",
-        "description": "",
-        "layout": "center",
-        "link_text": "",
-        "link_url": "",
-        "button_type": "btn--primary",
-        "button_size": "",
-        "button_style": "btn--solid",
-        "show_arrow": false,
-        "featured_collection": "monikh-x-daphine-vol-ii",
-        "style": "grid",
-        "grid": 4,
-        "rows": 3,
-        "layout_mobile": "carousel",
-        "bg_color": "",
-        "color": "",
-        "padding_top": 50,
-        "padding_bottom": 50
-      }
-    },
     "text_promo_DWLNdm": {
       "type": "text-promo",
       "blocks": {
@@ -797,6 +806,7 @@
   "order": [
     "section_hero_ethcD9",
     "hero",
+    "section_collection_iU7LYX",
     "section_hero_r4nefN",
     "section_columns_FRpwDT",
     "section_hero_JDf34J",
@@ -808,7 +818,6 @@
     "section_hero_z9kYFp",
     "main",
     "section_tab_collections_hFJNGi",
-    "section_collection_iU7LYX",
     "text_promo_DWLNdm",
     "section_multicolumn_YPdQec"
   ]
