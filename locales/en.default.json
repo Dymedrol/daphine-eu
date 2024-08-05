@@ -428,7 +428,10 @@
       "upsell_out_of_stock": "Out of stock",
       "upsell_error_title": "Choose an upsell product",
       "upsell_error_info": "Use metafields to show a product here. Empty upsells will not show on live site.",
-      "shop_now": "Shop now"
+      "shop_now": "Shop now",
+      "in_stock_text": "In stock. Express Shipping",
+      "pre_order_text": "Pre-order",
+      "left_text": "left. Express Shipping"
     },
     "product": {
       "regular_price": "Regular price",

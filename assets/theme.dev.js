@@ -11633,9 +11633,9 @@
             }
           );
           if (variant.inventory_quantity > numberOfroductsToShowQuantity ) {
-            text = 'In stock. Express Shipping';
+            text = in_stock_text;
           } else if (variant.inventory_quantity <= numberOfroductsToShowQuantity && variant.inventory_quantity > 0) {
-            text = variant.inventory_quantity + ' left. Express Shipping';
+            text = variant.inventory_quantity + ' ' + left_text;
           } else {
             todayDate.setDate(todayDate.getDate() + numberOfDaysToAddUnavailable);
             let updatedDate = todayDate.toLocaleDateString(
@@ -11646,7 +11646,7 @@
                 timeZone: 'utc'
               }
             );
-            text = 'Pre-order';
+            text = pre_order_text;
           }
 
           countTextContainer.innerHTML = text;
@@ -11665,7 +11665,7 @@
             timeZone: 'utc'
           }
         );
-        countTextContainer.innerHTML = 'Pre-order';
+        countTextContainer.innerHTML = pre_order_text;
       }
 
 
