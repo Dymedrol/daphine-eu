@@ -9,6 +9,7 @@
 */
 {
   "current": {
+    "show_bubble": false,
     "numberOfroductsToShowQuantity": 0,
     "text_color": "#212121",
     "bg_color": "#ffffff",
