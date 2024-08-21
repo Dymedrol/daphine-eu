@@ -518,5 +518,10 @@
       "newsletter_signup": "Newsletter Signup",
       "login": "Login"
     }
+  },
+  "badges": {
+    "new_in": "new in",
+    "sale": "sale",
+    "back_in_stock": "back in stock"
   }
 }

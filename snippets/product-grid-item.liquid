@@ -184,6 +184,16 @@
     if badge == '' and product_tags contains '_badge_'
       assign badge = product_tags | split: '_badge_'
       assign badge = badge[1] | split: ',' | first | replace: '_', ' '
+
+      if badge == 'sale'
+        assign badge =  'badges.sale' | t
+      endif
+      if badge == 'new in'
+        assign badge =  'badges.new_in' | t
+      endif
+      if badge == 'back in stock'
+        assign badge =  'badges.back_in_stock' | t
+      endif
     endif
 
     if product.metafields.theme.preorder.type == 'boolean' and product.metafields.theme.preorder.value == true
