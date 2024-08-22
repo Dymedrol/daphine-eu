@@ -27,6 +27,14 @@
   endif
 -%}
 
+{% for item in product.metafields.accordion limit:3 %}
+  {% assign title = item[0] | split:'_'%}
+  {% assign newtitle = title[1] | handle %}
+  {% if newtitle == 'details' %}
+    <div style="color: red">{{ item[1] }}</div>
+  {% endif %}
+{% endfor %}
+
 {%- if block.settings.style == 'tabs' -%}
   {%- assign tab_links_html = '' -%}
   {%- assign tab_contents_html = '' -%}
@@ -80,9 +88,9 @@
       {% if title == 'DETAILS' %}
           {%- capture tab_contents_html -%}
             {{ tab_contents_html }}
-            <div class="tab-content tab-content-{{ count }}{% if count == 0 %} current{% endif %} rte">
+            <div class="tab-content tab-content-{{ count }}{% if count == 0 %} current{% endif %} rte" ta>
                 {% for item in product.metafields.accordion limit:3 %}
-                    {% assign title = item[0] | split:'_'%}   
+                    {% assign title = item[0] | split:'_'%}
                     {% assign newtitle = title[1] | handle %}
                     {% if newtitle == 'details' %}
                       {{ item[1] }}
