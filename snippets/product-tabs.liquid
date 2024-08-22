@@ -85,7 +85,7 @@
                     {% assign title = item[0] | split:'_'%}
                     {% assign newtitle = title[1] | handle %}
                     {% if newtitle == 'details' %}
-                      {{ item[1] | strip_html }}
+                      {{ item[1] }}
                     {% endif %}
                 {% endfor %}
             </div>
@@ -107,7 +107,7 @@
           {%- capture tab_contents_html -%}
             {{ tab_contents_html }}
             <div class="tab-content tab-content-{{ count }}{% if count == 0 %} current{% endif %} rte">
-              {{ content }}
+              {{ content | strip_html }}
             </div>
           {%- endcapture -%}
       {% endif %}
