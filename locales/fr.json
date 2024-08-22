@@ -442,7 +442,10 @@
       "upsell_out_of_stock": "Rupture de stock",
       "upsell_error_title": "Choisissez un produit de vente incitative",
       "upsell_error_info": "Utilisez des champs méta pour afficher un produit ici. Les ventes incitatives vides ne s'afficheront pas sur le site en direct.",
-      "shop_now": "Achetez maintenant"
+      "shop_now": "Achetez maintenant",
+      "in_stock_text": "En stock. Livraison express",
+      "pre_order_text": "Précommande",
+      "left_text": "gauche. Expédition express"
     },
     "product": {
       "regular_price": "Prix régulier",
@@ -537,5 +540,10 @@
         "breadcrumb": "Breadcrumb"
       }
     }
+  },
+  "badges": {
+    "new_in": "nouveau dans",
+    "sale": "vente",
+    "back_in_stock": "de retour en stock"
   }
 }
