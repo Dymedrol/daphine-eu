@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "main": {
@@ -51,7 +60,7 @@
             "show_read_more": false,
             "style": "tabs",
             "title_1": "DETAILS",
-            "raw_content_1": "<p>text<\/p>",
+            "raw_content_1": "<p>{{ product.metafields.accordion[\"0_Details\"] | metafield_tag }}<\/p>",
             "title_2": "SHIPPING",
             "raw_content_2": "<p>Free UK Shipping over £150<\/p><p>See our <a href=\"\/pages\/shipping-returns2\" title=\"SHIPPING\">Shipping Page<\/a> for more details and a full list of countries we ship to.<\/p><p>We offer free returns for our UK customers. Please see <a href=\"\/pages\/returns\" title=\"RETURNS INFORMATION | DAPHINE\">Returns<\/a> for details.<\/p>",
             "title_3": "",
