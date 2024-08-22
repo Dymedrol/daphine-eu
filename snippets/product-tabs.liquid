@@ -85,7 +85,7 @@
                     {% assign title = item[0] | split:'_'%}
                     {% assign newtitle = title[1] | handle %}
                     {% if newtitle == 'details' %}
-                      {{ item[1] }}
+                      {% capture %}{{ item[1] }}{% end capture %}
                     {% endif %}
                 {% endfor %}
             </div>
