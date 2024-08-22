@@ -85,7 +85,7 @@
                     {% assign title = item[0] | split:'_'%}
                     {% assign newtitle = title[1] | handle %}
                     {% if newtitle == 'details' %}
-                      {{ item[1] | escape }}
+                      {{ item[1] }}
                     {% endif %}
                 {% endfor %}
             </div>
