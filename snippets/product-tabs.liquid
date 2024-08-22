@@ -89,8 +89,9 @@
       {% if title == 'DETAILS' %}
           {%- capture tab_contents_html -%}
             {{ tab_contents_html }}
-            <div class="tab-content tab-content-{{ count }}{% if count == 0 %} current{% endif %} rte" ta>
+            <div class="tab-content tab-content-{{ count }}{% if count == 0 %} current{% endif %} rte" data-x="xxx">
                 {% for item in product.metafields.accordion limit:3 %}
+                  loop
                     {% assign title = item[0] | split:'_'%}
                     {% assign newtitle = title[1] | handle %}
                   {{ item[0] }}
