@@ -33,7 +33,6 @@
   {% if newtitle == 'details' %}
     <div style="color: red">{{ item[0] }}</div>
     <div style="color: red">{{ item[1] }}</div>
-    <div style="color: red">{{ item[2] }}</div>
   {% endif %}
 {% endfor %}
 
@@ -95,6 +94,7 @@
                     {% assign title = item[0] | split:'_'%}
                     {% assign newtitle = title[1] | handle %}
                     {% if newtitle == 'details' %}
+                      {{ item[0] }}
                       {{ item[1] }}
                     {% endif %}
                 {% endfor %}
