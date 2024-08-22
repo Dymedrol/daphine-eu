@@ -93,10 +93,12 @@
                 {% for item in product.metafields.accordion limit:3 %}
                     {% assign title = item[0] | split:'_'%}
                     {% assign newtitle = title[1] | handle %}
+                  {{ item[0] }}
                     {% if newtitle == 'details' %}
                       {{ item[0] }}
                       {{ item[1] }} XXXX!!!!
                     {% endif %}
+                  aaa
                 {% endfor %}
             </div>
           {%- endcapture -%}
