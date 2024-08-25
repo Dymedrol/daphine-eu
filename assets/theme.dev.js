@@ -11649,11 +11649,14 @@
             text = pre_order_text;
           }
 
-          countTextContainer.innerHTML = text;
-          countTextContainer.style.display = 'block';
-
+          if (countTextContainer) {
+            countTextContainer.innerHTML = text;
+            countTextContainer.style.display = 'block';
+          }
         } else {
-          countTextContainer.style.display = 'none';
+          if (countTextContainer) {
+            countTextContainer.style.display = 'none';
+          }
         }
       } else {
         todayDate.setDate(todayDate.getDate() + numberOfDaysToAddUnavailable);
@@ -11665,7 +11668,10 @@
             timeZone: 'utc'
           }
         );
-        countTextContainer.innerHTML = pre_order_text;
+
+        if (countTextContainer) {
+          countTextContainer.innerHTML = pre_order_text;
+        }
       }
 
 
