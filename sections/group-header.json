@@ -309,7 +309,6 @@
       "blocks": {
         "b89b8dee-c00f-47b0-a4ef-e4683116dfb3": {
           "type": "text",
-          "disabled": true,
           "settings": {
             "text": "<p>Sign up for 10% off your first order<\/p>",
             "target_url_enabled": false,
@@ -335,6 +334,7 @@
         },
         "text_jrm3GG": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "<p><a href=\"\/collections\/sale-1\" title=\"SALE\">SALE SALE SALE<\/a><\/p>",
             "target_url_enabled": false,
