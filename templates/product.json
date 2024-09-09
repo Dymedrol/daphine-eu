@@ -74,9 +74,18 @@
         },
         "divider_1": {
           "type": "divider",
+          "disabled": true,
           "settings": {
             "show_line": true,
             "padding_top": 20,
+            "padding_bottom": 16
+          }
+        },
+        "text_9PFz7U": {
+          "type": "text",
+          "settings": {
+            "title": "",
+            "text": "{{ product.metafields.custom.gold_plating_description | metafield_tag }}",
             "padding_bottom": 16
           }
         },
@@ -145,18 +154,11 @@
         },
         "514a386f-5539-4dea-ac18-97ee59d12052": {
           "type": "divider",
+          "disabled": true,
           "settings": {
             "show_line": true,
             "padding_top": 20,
             "padding_bottom": 20
-          }
-        },
-        "text_9PFz7U": {
-          "type": "text",
-          "settings": {
-            "title": "",
-            "text": "{{ product.metafields.custom.gold_plating_description | metafield_tag }}",
-            "padding_bottom": 16
           }
         },
         "divider_gkxfDQ": {
@@ -192,6 +194,7 @@
         "buttons",
         "tabs",
         "divider_1",
+        "text_9PFz7U",
         "icon_2",
         "a0a8b781-007b-449f-96dc-8c58cf6e5f55",
         "8f79fd74-aa05-459e-9b5b-86bb1695422f",
@@ -199,7 +202,6 @@
         "icon_EKrF8n",
         "pickup",
         "514a386f-5539-4dea-ac18-97ee59d12052",
-        "text_9PFz7U",
         "divider_gkxfDQ",
         "upsell",
         "5e8c2c50-6be8-439e-9c17-2d15838b33f6"
