@@ -249,7 +249,7 @@
           "settings": {
             "heading": "New In",
             "url": "shopify:\/\/collections\/new-in",
-            "image": "shopify:\/\/shop_images\/Daphine_Monikh-pt.II_Dale-necklace_Dhari-necklace-1.jpg",
+            "image": "shopify:\/\/shop_images\/Daphine_Swinnecklace.jpg",
             "color": "#ffffff",
             "bg_color": "#f0f0f0",
             "border_color": ""
@@ -623,7 +623,7 @@
           "settings": {
             "heading": "Statement Earrings",
             "url": "shopify:\/\/collections\/statement-earrings-1",
-            "image": "shopify:\/\/shop_images\/DAPHINE-STILL-LIFE2385_9a9b125e-e099-4636-afe3-7af6bcc95154.jpg",
+            "image": "shopify:\/\/shop_images\/Saskia-earrings_2.jpg",
             "color": "#ffffff",
             "bg_color": "#f0f0f0",
             "border_color": ""
@@ -631,6 +631,7 @@
         },
         "highlight_xb7YjD": {
           "type": "highlight",
+          "disabled": true,
           "settings": {
             "heading": "New In",
             "url": "shopify:\/\/collections\/new-in",
@@ -676,7 +677,7 @@
       ],
       "settings": {
         "style": "square",
-        "grid": 4,
+        "grid": 3,
         "width": "wrapper--full-padded",
         "heading": "",
         "heading_position": "text-center",
