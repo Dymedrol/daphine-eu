@@ -9,58 +9,6 @@
 */
 {
   "sections": {
-    "section_hero_kTqMAT": {
-      "type": "section-hero",
-      "blocks": {
-        "heading_zWAaca": {
-          "type": "heading",
-          "settings": {
-            "title": "Notes of Fall",
-            "heading_size": 9,
-            "mobile_heading_size": 7
-          }
-        },
-        "text_rdM8TN": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "description": "Tell your brand's story through images.",
-            "text_size": 5,
-            "mobile_text_size": 5,
-            "text_style": "font-body"
-          }
-        },
-        "button_nL7XNF": {
-          "type": "button",
-          "settings": {
-            "link_text": "EXPLORE NOW",
-            "link": "shopify:\/\/collections\/fall-edit",
-            "button_type": "btn--white",
-            "button_size": "",
-            "button_style": "btn--text",
-            "show_arrow": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_zWAaca",
-        "text_rdM8TN",
-        "button_nL7XNF"
-      ],
-      "settings": {
-        "height": "image-height",
-        "width": "wrapper--full",
-        "image_1": "shopify:\/\/shop_images\/Screenshot_2024-09-02_at_10.50.14_4dee56b3-4722-4175-a97b-9863c50ae589.png",
-        "mobile_height": "image-height--mobile",
-        "mobile_image": "shopify:\/\/shop_images\/Daphine_Monikh-pt.II_Rochelle-earrings-silver_1_9fce83ae-2d80-4cc5-91dd-93c93addf53e.jpg",
-        "flex_align": "align--bottom-center",
-        "overlay_opacity": 0,
-        "overlay_color": "#000000",
-        "show_overlay_text": false,
-        "bg_color": "",
-        "color": "#ffffff"
-      }
-    },
     "section_hero_kUNNiF": {
       "type": "section-hero",
       "blocks": {
@@ -99,7 +47,6 @@
         "text_rnLxDT",
         "button_y9YkFT"
       ],
-      "disabled": true,
       "settings": {
         "height": "image-height",
         "width": "wrapper--full",
@@ -158,32 +105,8 @@
         "padding_bottom": 10
       }
     },
-    "section_collection_Nd66xW": {
-      "type": "section-collection",
-      "settings": {
-        "heading": "Fall Edit",
-        "description": "",
-        "layout": "inline",
-        "link_text": "Explore all",
-        "link_url": "shopify:\/\/collections\/fall-edit",
-        "button_type": "btn--primary",
-        "button_size": "btn--small",
-        "button_style": "btn--text",
-        "show_arrow": false,
-        "featured_collection": "fall-edit",
-        "style": "slider",
-        "grid": 4,
-        "rows": 1,
-        "layout_mobile": "carousel",
-        "bg_color": "#ffffff",
-        "color": "#212121",
-        "padding_top": 60,
-        "padding_bottom": 50
-      }
-    },
     "section_collection_rQrqQm": {
       "type": "section-collection",
-      "disabled": true,
       "settings": {
         "heading": "New Arrivals",
         "description": "",
@@ -210,7 +133,6 @@
       "blocks": {
         "template--17234605211894__21a05252-aed6-490f-aa5f-589a9685314f-highlight-1": {
           "type": "highlight",
-          "disabled": true,
           "settings": {
             "heading": "New In",
             "url": "shopify:\/\/collections\/aw24",
@@ -222,7 +144,6 @@
         },
         "template--17234605211894__21a05252-aed6-490f-aa5f-589a9685314f-highlight-2": {
           "type": "highlight",
-          "disabled": true,
           "settings": {
             "heading": "Necklaces",
             "url": "shopify:\/\/collections\/necklaces",
@@ -234,7 +155,6 @@
         },
         "template--17234605211894__21a05252-aed6-490f-aa5f-589a9685314f-highlight-3": {
           "type": "highlight",
-          "disabled": true,
           "settings": {
             "heading": "Earrings",
             "url": "shopify:\/\/collections\/earrings",
@@ -244,19 +164,9 @@
             "border_color": ""
           }
         },
-        "highlight_KzWgNF": {
-          "type": "highlight",
-          "settings": {
-            "heading": "New In",
-            "url": "shopify:\/\/collections\/new-in",
-            "image": "shopify:\/\/shop_images\/Daphine_Swinnecklace.jpg",
-            "color": "#ffffff",
-            "bg_color": "#f0f0f0",
-            "border_color": ""
-          }
-        },
         "highlight_eEQKjR": {
           "type": "highlight",
+          "disabled": true,
           "settings": {
             "heading": "Rings",
             "url": "shopify:\/\/collections\/rings",
@@ -268,6 +178,7 @@
         },
         "highlight_e7xX9L": {
           "type": "highlight",
+          "disabled": true,
           "settings": {
             "heading": "Bracelets",
             "url": "shopify:\/\/collections\/bracelets",
@@ -282,7 +193,6 @@
         "template--17234605211894__21a05252-aed6-490f-aa5f-589a9685314f-highlight-1",
         "template--17234605211894__21a05252-aed6-490f-aa5f-589a9685314f-highlight-2",
         "template--17234605211894__21a05252-aed6-490f-aa5f-589a9685314f-highlight-3",
-        "highlight_KzWgNF",
         "highlight_eEQKjR",
         "highlight_e7xX9L"
       ],
@@ -609,7 +519,6 @@
       "blocks": {
         "highlight_xb7YjD": {
           "type": "highlight",
-          "disabled": true,
           "settings": {
             "heading": "New In",
             "url": "shopify:\/\/collections\/aw24",
@@ -677,7 +586,7 @@
       ],
       "settings": {
         "style": "square",
-        "grid": 3,
+        "grid": 4,
         "width": "wrapper--full-padded",
         "heading": "",
         "heading_position": "text-center",
@@ -873,10 +782,8 @@
     }
   },
   "order": [
-    "section_hero_kTqMAT",
     "section_hero_kUNNiF",
     "080de123-cd67-4a8f-b095-390fa30c932d",
-    "section_collection_Nd66xW",
     "section_collection_rQrqQm",
     "21a05252-aed6-490f-aa5f-589a9685314f",
     "section_divider_BxE4qe",
