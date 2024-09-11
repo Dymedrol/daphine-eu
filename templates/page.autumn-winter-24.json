@@ -11,6 +11,7 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "subheading": "",
         "subheading_size": 3,
@@ -26,69 +27,6 @@
         "padding_bottom": 0
       }
     },
-    "b5de629f-24af-4cf1-a72a-0551b1f61ea0": {
-      "type": "section-accordion-group",
-      "blocks": {
-        "template--16858200375542__b5de629f-24af-4cf1-a72a-0551b1f61ea0-question-1": {
-          "type": "question",
-          "settings": {
-            "title": "WHAT FORMS OF PAYMENT DO WE ACCEPT?",
-            "content": "<p>We accept all major credit cards (Visa, MasterCard, AMEX), PayPal, ApplePay, Google Pay and Klarna. Payment will be taken from your credit or debit card as soon as the order has been placed. If you have ordered an engraved item or purchased a pre-order item, the payment will also be taken at the time of ordering.<\/p>"
-          }
-        },
-        "template--16858200375542__b5de629f-24af-4cf1-a72a-0551b1f61ea0-question-2": {
-          "type": "question",
-          "settings": {
-            "title": "WHAT MATERIAL ARE THE PIECES MADE OF?",
-            "content": "<p>We invest in the production of our <a href=\"https:\/\/shop-daphine.com\/collections\/all\" title=\"ALL\">jewellery <\/a>so that it’s made to last. Every piece is handmade in our Jaipur atelier, with 18ct gold laid over recycled brass that is Responsible Jewellery Council certified. The methods we use produce a resilient layer of gold that doesn’t easily wear away (and also happens to be hypoallergenic and nickel-free).<\/p>"
-          }
-        },
-        "template--16858200375542__b5de629f-24af-4cf1-a72a-0551b1f61ea0-question-3": {
-          "type": "question",
-          "settings": {
-            "title": "WHAT TYPES OF GOLD JEWELLERY DO WE OFFER?",
-            "content": "<p>Each of our pieces are handmade to perfection. Browse <a href=\"https:\/\/shop-daphine.com\/collections\/rings\"><span style=\"text-decoration:underline\">chunky gold rings <\/span><\/a>drizzled in 18k gold,  carefully designed <a href=\"https:\/\/shop-daphine.com\/collections\/earrings\"><span style=\"text-decoration:underline\">gold plated hoops<\/span><\/a>;<a href=\"https:\/\/shop-daphine.com\/collections\/necklaces\"><span style=\"text-decoration:underline\">gold chain necklaces <\/span><\/a>and more. We also offer specific collections with <a href=\"https:\/\/shop-daphine.com\/collections\/enamel-collection\"><span style=\"text-decoration:underline\">retro enamel jewels<\/span><\/a>;<a href=\"https:\/\/shop-daphine.com\/collections\/tennis\"><span style=\"text-decoration:underline\"> tennis inspired pieces <\/span><\/a>and,;<a href=\"https:\/\/shop-daphine.com\/collections\/the-engravables\"><span style=\"text-decoration:underline\">gold id engravable rings and  bracelets<\/span><\/a>.<\/p>"
-          }
-        },
-        "628276ff-126c-4281-baa7-6e5b0a0d0db8": {
-          "type": "question",
-          "settings": {
-            "title": "HOW LONG DOES THE PLATING LAST FOR?",
-            "content": "<p>We’re committed to creating pieces that will stand the test of time. So if your plating fades, or something comes loose, we promise to repair or replate your Daphine jewellery for free within a year of purchase or receipt under standard conditions of normal wear-and-tear.<\/p>"
-          }
-        },
-        "8e1977d1-5db7-45e1-8aee-4c4666a1a20b": {
-          "type": "question",
-          "settings": {
-            "title": "WHAT DOES OUR GUARANTEE COVER?",
-            "content": "<p>The gold plating of your jewellery is guaranteed for 1 year of purchase or receipt and only applicable on the original order. In case of abnormal wear within the first year, we will replate your piece for free. If after 1 year your jewellery needs replating or repair, this service will always be available for a small fee. Please email us at <a href=\"mailto:info@shop-daphine.com\">info@shop-daphine.com <\/a>to resolve this matter.<\/p><p>**Please note this does not apply to: damage caused by a handling error, excessive or incorrect use, a lack of maintenance or hygiene, accidental or intentional physical changes, use for professional or commercial purposes, or purchase from a retailer. The guarantee is only valid on original purchases and will not be applied to pieces that have already been replated.<\/p>"
-          }
-        },
-        "090f018f-0ae3-4497-b820-c82e0f74fc46": {
-          "type": "question",
-          "settings": {
-            "title": "WHAT ARE THE SILVER PIECES MADE OF?",
-            "content": "<p>Our silver jewellery is silver plated over sterling silver, making them incredibly durable. Timeless pieces to last a lifetime, handcraftetd in our Jaipur atelier.<br\/><br\/>All sterling silver pieces are also stamped with the '925' mark - indicating the purity of the metal.<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "template--16858200375542__b5de629f-24af-4cf1-a72a-0551b1f61ea0-question-1",
-        "template--16858200375542__b5de629f-24af-4cf1-a72a-0551b1f61ea0-question-2",
-        "template--16858200375542__b5de629f-24af-4cf1-a72a-0551b1f61ea0-question-3",
-        "628276ff-126c-4281-baa7-6e5b0a0d0db8",
-        "8e1977d1-5db7-45e1-8aee-4c4666a1a20b",
-        "090f018f-0ae3-4497-b820-c82e0f74fc46"
-      ],
-      "settings": {
-        "width": "wrapper--narrow",
-        "bg_color": "",
-        "color": "",
-        "border_color": "",
-        "padding_top": 25,
-        "padding_bottom": 25
-      }
-    },
     "9c12760c-73cd-48e6-8e16-45e5f3c30e40": {
       "type": "section-hero",
       "blocks": {
@@ -96,7 +34,8 @@
           "type": "heading",
           "settings": {
             "title": "",
-            "heading_size": 11
+            "heading_size": 11,
+            "mobile_heading_size": 11
           }
         },
         "template--16858200375542__9c12760c-73cd-48e6-8e16-45e5f3c30e40-text-1": {
@@ -104,6 +43,7 @@
           "settings": {
             "description": "",
             "text_size": 5,
+            "mobile_text_size": 5,
             "text_style": "font-body"
           }
         },
@@ -125,10 +65,10 @@
         "template--16858200375542__9c12760c-73cd-48e6-8e16-45e5f3c30e40-button-1"
       ],
       "settings": {
-        "height": "screen-height-three-quarters",
-        "width": "wrapper--full",
-        "image_1": "shopify:\/\/shop_images\/Screenshot_2023-08-29_at_11.54.20.jpg",
-        "mobile_height": "screen-height-three-quarters--mobile",
+        "height": "image-height",
+        "width": "wrapper--full-padded",
+        "image_1": "shopify:\/\/shop_images\/aw24_banner.png",
+        "mobile_height": "screen-height-one-half--mobile",
         "flex_align": "align--middle-center",
         "overlay_opacity": 0,
         "overlay_color": "#000000",
@@ -136,11 +76,427 @@
         "bg_color": "",
         "color": "#ffffff"
       }
+    },
+    "section_rich_text_QqaqCd": {
+      "type": "section-rich-text",
+      "blocks": {
+        "subheading_UJdRVf": {
+          "type": "subheading",
+          "settings": {
+            "subheading": "Introducing",
+            "text_size": 3,
+            "mobile_text_size": 3
+          }
+        },
+        "heading_XngMkz": {
+          "type": "heading",
+          "settings": {
+            "title": "Autumn\/Winter '24",
+            "text_size": 6,
+            "mobile_text_size": 2
+          }
+        },
+        "text_9tMAM7": {
+          "type": "text",
+          "settings": {
+            "text": "<p>A celebration of the enduring allure of simple, strong design—crafted for the woman who knows the power of less. A harmonious combination of timeless elegance with modern glamour, redefining contemporary jewellery with an unwavering commitment to timelessness and modern sophistication.<\/p>",
+            "text_size": 4,
+            "mobile_text_size": 3,
+            "text_style": "font-body"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_UJdRVf",
+        "heading_XngMkz",
+        "text_9tMAM7"
+      ],
+      "settings": {
+        "width": "wrapper--narrow",
+        "align_text": "text-center",
+        "bg_color": "",
+        "color": "",
+        "padding_top": 50,
+        "padding_bottom": 50
+      }
+    },
+    "section_collection_ah83E8": {
+      "type": "section-collection",
+      "settings": {
+        "heading": "",
+        "description": "",
+        "layout": "inline",
+        "link_text": "",
+        "link_url": "",
+        "button_type": "btn--primary",
+        "button_size": "",
+        "button_style": "btn--solid",
+        "show_arrow": false,
+        "featured_collection": "aw24-edit-1",
+        "style": "grid",
+        "grid": 4,
+        "rows": 1,
+        "layout_mobile": "2",
+        "bg_color": "",
+        "color": "",
+        "padding_top": 0,
+        "padding_bottom": 50
+      }
+    },
+    "section_hero_VUYWci": {
+      "type": "section-hero",
+      "blocks": {
+        "heading_kTFJ9b": {
+          "type": "heading",
+          "settings": {
+            "title": "Agathe Earrings",
+            "heading_size": 4,
+            "mobile_heading_size": 3
+          }
+        }
+      },
+      "block_order": [
+        "heading_kTFJ9b"
+      ],
+      "settings": {
+        "height": "seven-fifty-height-hero",
+        "width": "wrapper--full-padded",
+        "image_1": "shopify:\/\/shop_images\/Still_2024-08-20_162725_1.167.2_copybw_1.jpg",
+        "mobile_height": "screen-height-one-half--mobile",
+        "flex_align": "align--bottom-left",
+        "overlay_opacity": 0,
+        "overlay_color": "#000",
+        "show_overlay_text": false,
+        "bg_color": "",
+        "color": "#212121"
+      }
+    },
+    "section_columns_zzqxbM": {
+      "type": "section-columns",
+      "blocks": {
+        "image_dzAB3i": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Daphine_Agathe-earrings_silver_f53ba7aa-b0c0-4a70-83b8-0cd405c84d37.jpg",
+            "title": "",
+            "heading_size": 3,
+            "mobile_heading_size": 2,
+            "text": "<h6>Agathe Earrings in Silver<\/h6>",
+            "text_size": 3,
+            "mobile_text_size": 3,
+            "button_text": "SHOP",
+            "button_url": "",
+            "button_type": "btn--primary",
+            "button_size": "",
+            "button_style": "btn--text",
+            "show_arrow": false
+          }
+        },
+        "image_pkVXwe": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Daphine_Agathe-necklace_gold-2_2d5a3e48-11fe-4217-abf5-8cfad243bf89.jpg",
+            "title": "",
+            "heading_size": 4,
+            "mobile_heading_size": 4,
+            "text": "<h6>Agathe Necklace in Gold<\/h6>",
+            "text_size": 3,
+            "mobile_text_size": 3,
+            "button_text": "SHOP",
+            "button_url": "",
+            "button_type": "btn--primary",
+            "button_size": "",
+            "button_style": "btn--text",
+            "show_arrow": false
+          }
+        }
+      },
+      "block_order": [
+        "image_dzAB3i",
+        "image_pkVXwe"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": 5,
+        "mobile_heading_size": 5,
+        "align_text": "text-center",
+        "align_columns": "flex-align-center",
+        "width": "wrapper",
+        "image_aspect_ratio": 1,
+        "mobile_image_aspect_ratio": 1,
+        "bg_color": "",
+        "color": "",
+        "padding_top": 50,
+        "padding_bottom": 50,
+        "layout_mobile": "grid"
+      }
+    },
+    "section_collection_RLtm6K": {
+      "type": "section-collection",
+      "settings": {
+        "heading": "",
+        "description": "",
+        "layout": "inline",
+        "link_text": "",
+        "link_url": "",
+        "button_type": "btn--primary",
+        "button_size": "",
+        "button_style": "btn--solid",
+        "show_arrow": false,
+        "featured_collection": "aw24-edit-2",
+        "style": "grid",
+        "grid": 4,
+        "rows": 1,
+        "layout_mobile": "2",
+        "bg_color": "",
+        "color": "",
+        "padding_top": 0,
+        "padding_bottom": 50
+      }
+    },
+    "section_hero_gyHQxU": {
+      "type": "section-hero",
+      "blocks": {
+        "heading_tR6X3g": {
+          "type": "heading",
+          "settings": {
+            "title": "Sabine Ear Cuff",
+            "heading_size": 4,
+            "mobile_heading_size": 3
+          }
+        }
+      },
+      "block_order": [
+        "heading_tR6X3g"
+      ],
+      "settings": {
+        "height": "seven-fifty-height-hero",
+        "width": "wrapper--full-padded",
+        "image_1": "shopify:\/\/shop_images\/Daphine_Sabine-ear-cuff_2.jpg",
+        "mobile_height": "screen-height-one-half--mobile",
+        "flex_align": "align--bottom-left",
+        "overlay_opacity": 0,
+        "overlay_color": "#000",
+        "show_overlay_text": false,
+        "bg_color": "",
+        "color": "#212121"
+      }
+    },
+    "section_columns_4mq8DU": {
+      "type": "section-columns",
+      "blocks": {
+        "image_RdGLTT": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Daphine_Fran-earrings_gold-2_201c13c3-8b4e-4cbd-a90a-c5671a15b1ff.jpg",
+            "title": "",
+            "heading_size": 3,
+            "mobile_heading_size": 2,
+            "text": "<h6>Fran Earrings in Gold<\/h6>",
+            "text_size": 3,
+            "mobile_text_size": 3,
+            "button_text": "SHOP",
+            "button_url": "",
+            "button_type": "btn--primary",
+            "button_size": "",
+            "button_style": "btn--text",
+            "show_arrow": false
+          }
+        },
+        "image_gLxCpp": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Daphine_Fran-earrings_silver_fea19034-13a6-4956-a1d2-a73b5f621961.jpg",
+            "title": "",
+            "heading_size": 4,
+            "mobile_heading_size": 4,
+            "text": "<h6>Fran Earrings in Silver<\/h6>",
+            "text_size": 3,
+            "mobile_text_size": 3,
+            "button_text": "SHOP",
+            "button_url": "",
+            "button_type": "btn--primary",
+            "button_size": "",
+            "button_style": "btn--text",
+            "show_arrow": false
+          }
+        }
+      },
+      "block_order": [
+        "image_RdGLTT",
+        "image_gLxCpp"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": 5,
+        "mobile_heading_size": 5,
+        "align_text": "text-center",
+        "align_columns": "flex-align-center",
+        "width": "wrapper",
+        "image_aspect_ratio": 1,
+        "mobile_image_aspect_ratio": 1,
+        "bg_color": "",
+        "color": "",
+        "padding_top": 50,
+        "padding_bottom": 50,
+        "layout_mobile": "grid"
+      }
+    },
+    "section_collection_idyqiA": {
+      "type": "section-collection",
+      "settings": {
+        "heading": "",
+        "description": "",
+        "layout": "inline",
+        "link_text": "",
+        "link_url": "",
+        "button_type": "btn--primary",
+        "button_size": "",
+        "button_style": "btn--solid",
+        "show_arrow": false,
+        "featured_collection": "aw24-edit-3",
+        "style": "grid",
+        "grid": 4,
+        "rows": 1,
+        "layout_mobile": "2",
+        "bg_color": "",
+        "color": "",
+        "padding_top": 0,
+        "padding_bottom": 50
+      }
+    },
+    "section_hero_E7YGiJ": {
+      "type": "section-hero",
+      "blocks": {
+        "heading_DBAhhH": {
+          "type": "heading",
+          "settings": {
+            "title": "Ella Ring",
+            "heading_size": 4,
+            "mobile_heading_size": 3
+          }
+        }
+      },
+      "block_order": [
+        "heading_DBAhhH"
+      ],
+      "settings": {
+        "height": "seven-fifty-height-hero",
+        "width": "wrapper--full-padded",
+        "image_1": "shopify:\/\/shop_images\/Daphine_Ella-ring_Ella-earrings.jpg",
+        "mobile_height": "screen-height-one-half--mobile",
+        "flex_align": "align--bottom-left",
+        "overlay_opacity": 0,
+        "overlay_color": "#000",
+        "show_overlay_text": false,
+        "bg_color": "",
+        "color": "#212121"
+      }
+    },
+    "section_columns_mBtf8m": {
+      "type": "section-columns",
+      "blocks": {
+        "image_T9Y4KN": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Daphine_Cleo-earrings-4_3184c312-2616-4cfc-bb90-86f4ce6cf192.jpg",
+            "title": "",
+            "heading_size": 3,
+            "mobile_heading_size": 2,
+            "text": "<h6>Cleo Earrings<\/h6>",
+            "text_size": 3,
+            "mobile_text_size": 3,
+            "button_text": "SHOP",
+            "button_url": "",
+            "button_type": "btn--primary",
+            "button_size": "",
+            "button_style": "btn--text",
+            "show_arrow": false
+          }
+        },
+        "image_xLUVnV": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Still_2024-08-17_212505_1.170.1_copybw_1_copy.jpg",
+            "title": "",
+            "heading_size": 4,
+            "mobile_heading_size": 4,
+            "text": "<h6>Agathe Necklace in Silver<\/h6>",
+            "text_size": 3,
+            "mobile_text_size": 3,
+            "button_text": "SHOP",
+            "button_url": "",
+            "button_type": "btn--primary",
+            "button_size": "",
+            "button_style": "btn--text",
+            "show_arrow": false
+          }
+        }
+      },
+      "block_order": [
+        "image_T9Y4KN",
+        "image_xLUVnV"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": 5,
+        "mobile_heading_size": 5,
+        "align_text": "text-center",
+        "align_columns": "flex-align-center",
+        "width": "wrapper",
+        "image_aspect_ratio": 1,
+        "mobile_image_aspect_ratio": 1,
+        "bg_color": "",
+        "color": "",
+        "padding_top": 50,
+        "padding_bottom": 50,
+        "layout_mobile": "grid"
+      }
+    },
+    "text_promo_NBcJRi": {
+      "type": "text-promo",
+      "blocks": {
+        "button_fNh7re": {
+          "type": "button",
+          "settings": {
+            "button_text": "SHOP ALL NEW ARRIVALS",
+            "button_url": "shopify:\/\/collections\/aw24",
+            "button_type": "btn--primary",
+            "button_size": "",
+            "button_style": "btn--outline",
+            "show_arrow": false
+          }
+        }
+      },
+      "block_order": [
+        "button_fNh7re"
+      ],
+      "settings": {
+        "width": "wrapper--full-padded",
+        "border": true,
+        "bg_color": "",
+        "color": "",
+        "overlay_opacity": 0,
+        "overlay_color": "#000",
+        "show_overlay_text": false,
+        "padding_top": 50,
+        "padding_bottom": 50
+      }
     }
   },
   "order": [
     "main",
-    "b5de629f-24af-4cf1-a72a-0551b1f61ea0",
-    "9c12760c-73cd-48e6-8e16-45e5f3c30e40"
+    "9c12760c-73cd-48e6-8e16-45e5f3c30e40",
+    "section_rich_text_QqaqCd",
+    "section_collection_ah83E8",
+    "section_hero_VUYWci",
+    "section_columns_zzqxbM",
+    "section_collection_RLtm6K",
+    "section_hero_gyHQxU",
+    "section_columns_4mq8DU",
+    "section_collection_idyqiA",
+    "section_hero_E7YGiJ",
+    "section_columns_mBtf8m",
+    "text_promo_NBcJRi"
   ]
 }
