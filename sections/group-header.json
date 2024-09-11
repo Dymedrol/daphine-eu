@@ -48,6 +48,21 @@
         "78db1e17-aae2-4ae0-97e6-bfe6e3e6e147": {
           "type": "image",
           "settings": {
+            "position": "2",
+            "image": "shopify:\/\/shop_images\/DAPHINE_FRANCES_DAVISON_22.02.242139_MASTERIG.jpg",
+            "aspect_ratio": 1,
+            "wide_image": false,
+            "overlay_opacity": 100,
+            "overlay_color": "#f5f3ef",
+            "title": "",
+            "link_text": "",
+            "link": "shopify:\/\/products\/chris-tennis-necklace",
+            "text_color": ""
+          }
+        },
+        "image_KhwTWU": {
+          "type": "image",
+          "settings": {
             "position": "3",
             "image": "shopify:\/\/shop_images\/DAPHINE_FRANCES_DAVISON_22.02.242139_MASTERIG.jpg",
             "aspect_ratio": 1,
@@ -80,6 +95,7 @@
         "image_4qGUJT",
         "image_eXCeeL",
         "78db1e17-aae2-4ae0-97e6-bfe6e3e6e147",
+        "image_KhwTWU",
         "image_a6RAaF"
       ],
       "settings": {
