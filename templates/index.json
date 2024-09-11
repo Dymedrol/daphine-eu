@@ -51,7 +51,7 @@
         "height": "image-height",
         "width": "wrapper--full",
         "image_1": "shopify:\/\/shop_images\/aw24_banner.png",
-        "mobile_height": "image-height--mobile",
+        "mobile_height": "screen-height-two-thirds--mobile",
         "mobile_image": "shopify:\/\/shop_images\/Daphine_Agathe-necklace-silver_Clara-hoops-silver_d1ff05b9-ec10-4c56-893e-6ed07a6c8e68.jpg",
         "flex_align": "align--bottom-center",
         "overlay_opacity": 0,
