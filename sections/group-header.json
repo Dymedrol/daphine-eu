@@ -47,9 +47,8 @@
         },
         "78db1e17-aae2-4ae0-97e6-bfe6e3e6e147": {
           "type": "image",
-          "disabled": true,
           "settings": {
-            "position": "2",
+            "position": "3",
             "image": "shopify:\/\/shop_images\/DAPHINE_FRANCES_DAVISON_22.02.242139_MASTERIG.jpg",
             "aspect_ratio": 1,
             "wide_image": false,
@@ -63,7 +62,6 @@
         },
         "image_a6RAaF": {
           "type": "image",
-          "disabled": true,
           "settings": {
             "position": "4",
             "image": "shopify:\/\/shop_images\/Daphine_Founders-Portraits_1_3.jpg",
