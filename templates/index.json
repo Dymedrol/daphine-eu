@@ -562,31 +562,20 @@
         "highlight_xb7YjD": {
           "type": "highlight",
           "settings": {
-            "heading": "New In",
-            "url": "shopify:\/\/collections\/aw24",
-            "image": "shopify:\/\/shop_images\/Screenshot_2024-09-10_at_09.26.16.jpg",
+            "heading": "Statement Earrings",
+            "url": "shopify:\/\/collections\/statement-earrings-1",
+            "image": "shopify:\/\/shop_images\/Daphine_Cleo-earrings.jpg",
             "color": "#ffffff",
             "bg_color": "#f0f0f0",
             "border_color": ""
           }
         },
-        "highlight_wGhcL6": {
-          "type": "highlight",
-          "settings": {
-            "heading": "Bridal Edit",
-            "url": "shopify:\/\/collections\/bridal-edit",
-            "image": "shopify:\/\/shop_images\/12-Daphine_LauritaEarrings-ss21_resized_ce87bb52-599f-4f7d-8f82-31ce863d5a5f.jpg",
-            "color": "#ffffff",
-            "bg_color": "#f5f3ef",
-            "border_color": "rgba(0,0,0,0)"
-          }
-        },
         "highlight_7aww7n": {
           "type": "highlight",
           "settings": {
-            "heading": "Statement Earrings",
-            "url": "shopify:\/\/collections\/statement-earrings-1",
-            "image": "shopify:\/\/shop_images\/DAPHINE-STILL-LIFE2385_5792c504-22fe-400c-b3a0-cfee4c1e7d3d.jpg",
+            "heading": "Bestsellers",
+            "url": "shopify:\/\/collections\/classics",
+            "image": "shopify:\/\/shop_images\/Daphine_Christy_Ring_Laurita_Ring.jpg",
             "color": "#ffffff",
             "bg_color": "#f0f0f0",
             "border_color": ""
@@ -618,7 +607,6 @@
       },
       "block_order": [
         "highlight_xb7YjD",
-        "highlight_wGhcL6",
         "highlight_7aww7n",
         "highlight_8pLMV9",
         "highlight_HzXViV"
@@ -628,7 +616,7 @@
       ],
       "settings": {
         "style": "square",
-        "grid": 4,
+        "grid": 3,
         "width": "wrapper--full-padded",
         "heading": "",
         "heading_position": "text-center",
