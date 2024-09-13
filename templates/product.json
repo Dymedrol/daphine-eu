@@ -22,17 +22,17 @@
             "padding_bottom": 8
           }
         },
-        "text_Kexej3": {
-          "type": "text",
-          "settings": {
-            "title": "",
-            "text": "{{ product.metafields.custom.cutline_2_pre_order_date | metafield_tag }}",
-            "padding_bottom": 16
-          }
-        },
         "price": {
           "type": "price",
           "settings": {
+            "padding_bottom": 16
+          }
+        },
+        "variants": {
+          "type": "variants",
+          "settings": {
+            "info_page": "faqs",
+            "subscriptions_enable_selectors": false,
             "padding_bottom": 16
           }
         },
@@ -45,11 +45,11 @@
             "padding_bottom": 16
           }
         },
-        "variants": {
-          "type": "variants",
+        "text_Kexej3": {
+          "type": "text",
           "settings": {
-            "info_page": "faqs",
-            "subscriptions_enable_selectors": false,
+            "title": "",
+            "text": "{{ product.metafields.custom.cutline_2_pre_order_date | metafield_tag }}",
             "padding_bottom": 16
           }
         },
@@ -196,10 +196,10 @@
       },
       "block_order": [
         "title",
-        "text_Kexej3",
         "price",
-        "26009e0d-38df-4486-a189-272664f3a0d7",
         "variants",
+        "26009e0d-38df-4486-a189-272664f3a0d7",
+        "text_Kexej3",
         "buttons",
         "tabs",
         "divider_1",
