@@ -542,8 +542,8 @@
     }
   },
   "badges": {
-    "new_in": "nouveau dans",
-    "sale": "vente",
-    "back_in_stock": "de retour en stock"
+    "new_in": "nouveautés",
+    "sale": "en solde",
+    "back_in_stock": "en stock"
   }
 }

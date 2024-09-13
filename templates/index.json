@@ -9,18 +9,18 @@
 */
 {
   "sections": {
-    "section_hero_kTqMAT": {
+    "section_hero_kUNNiF": {
       "type": "section-hero",
       "blocks": {
-        "heading_zWAaca": {
+        "heading_CJyGjY": {
           "type": "heading",
           "settings": {
-            "title": "Notes of Fall",
-            "heading_size": 9,
+            "title": "New In: AW24",
+            "heading_size": 8,
             "mobile_heading_size": 7
           }
         },
-        "text_rdM8TN": {
+        "text_rnLxDT": {
           "type": "text",
           "disabled": true,
           "settings": {
@@ -30,11 +30,11 @@
             "text_style": "font-body"
           }
         },
-        "button_nL7XNF": {
+        "button_y9YkFT": {
           "type": "button",
           "settings": {
-            "link_text": "EXPLORE NOW",
-            "link": "shopify:\/\/collections\/fall-edit",
+            "link_text": "DISCOVER",
+            "link": "shopify:\/\/pages\/autumn-winter-24",
             "button_type": "btn--white",
             "button_size": "",
             "button_style": "btn--text",
@@ -43,99 +43,22 @@
         }
       },
       "block_order": [
-        "heading_zWAaca",
-        "text_rdM8TN",
-        "button_nL7XNF"
+        "heading_CJyGjY",
+        "text_rnLxDT",
+        "button_y9YkFT"
       ],
       "settings": {
         "height": "image-height",
         "width": "wrapper--full",
-        "image_1": "shopify:\/\/shop_images\/Screenshot_2024-09-02_at_10.50.14_4dee56b3-4722-4175-a97b-9863c50ae589.png",
-        "mobile_height": "image-height--mobile",
-        "mobile_image": "shopify:\/\/shop_images\/Daphine_Monikh-pt.II_Rochelle-earrings-silver_1_9fce83ae-2d80-4cc5-91dd-93c93addf53e.jpg",
+        "image_1": "shopify:\/\/shop_images\/aw24_banner.png",
+        "mobile_height": "screen-height-two-thirds--mobile",
+        "mobile_image": "shopify:\/\/shop_images\/Daphine_Agathe-necklace-silver_Clara-hoops-silver_d1ff05b9-ec10-4c56-893e-6ed07a6c8e68.jpg",
         "flex_align": "align--bottom-center",
         "overlay_opacity": 0,
         "overlay_color": "#000000",
         "show_overlay_text": false,
         "bg_color": "",
         "color": "#ffffff"
-      }
-    },
-    "section_slideshow_jTKbkj": {
-      "type": "section-slideshow",
-      "blocks": {
-        "image_QMmcNg": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Screenshot_2024-06-27_at_16.14.52.jpg",
-            "mobile_image": "shopify:\/\/shop_images\/Screenshot_2024-06-27_at_16.14.52_2.jpg",
-            "overlay_opacity": 0,
-            "overlay_color": "#4d5038",
-            "show_overlay_text": false,
-            "title": "SALE SALE SALE",
-            "heading_size": 9,
-            "description": "",
-            "text_size": 3,
-            "flex_align": "align--middle-center",
-            "bg_color": "",
-            "color": "#ffffff",
-            "first_button_text": "SHOP UP TO 50% OFF",
-            "first_button_link": "shopify:\/\/collections\/summer-sale",
-            "first_button_type": "btn--white",
-            "first_button_size": "",
-            "first_button_style": "btn--text",
-            "first_button_show_arrow": false,
-            "second_button_text": "",
-            "second_button_link": "",
-            "second_button_type": "btn--white",
-            "second_button_size": "",
-            "second_button_style": "btn--solid",
-            "second_button_show_arrow": false
-          }
-        },
-        "image_aAW3RE": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Daphine_Swin_necklace_Reena_rings.jpg",
-            "mobile_image": "shopify:\/\/shop_images\/Daphine_Monikh-pt.II_Swin-necklace-2.jpg",
-            "overlay_opacity": 0,
-            "overlay_color": "#000000",
-            "show_overlay_text": false,
-            "title": "L'été in gold",
-            "heading_size": 9,
-            "description": "",
-            "text_size": 8,
-            "flex_align": "align--bottom-center",
-            "bg_color": "rgba(0,0,0,0)",
-            "color": "#ffffff",
-            "first_button_text": "shop now",
-            "first_button_link": "shopify:\/\/collections\/summer-gold",
-            "first_button_type": "btn--white",
-            "first_button_size": "btn--large",
-            "first_button_style": "btn--text",
-            "first_button_show_arrow": false,
-            "second_button_text": "",
-            "second_button_link": "",
-            "second_button_type": "btn--white",
-            "second_button_size": "",
-            "second_button_style": "btn--text",
-            "second_button_show_arrow": false
-          }
-        }
-      },
-      "block_order": [
-        "image_QMmcNg",
-        "image_aAW3RE"
-      ],
-      "disabled": true,
-      "settings": {
-        "height": "image-height",
-        "mobile_height": "image-height--mobile",
-        "width": "wrapper--full",
-        "transition": "slide",
-        "show_arrows": false,
-        "autoplay": true,
-        "autoplay_speed": 5
       }
     },
     "080de123-cd67-4a8f-b095-390fa30c932d": {
@@ -182,27 +105,27 @@
         "padding_bottom": 10
       }
     },
-    "section_collection_Nd66xW": {
+    "section_collection_rQrqQm": {
       "type": "section-collection",
       "settings": {
-        "heading": "Fall Edit",
+        "heading": "New Arrivals",
         "description": "",
         "layout": "inline",
-        "link_text": "Explore all",
-        "link_url": "shopify:\/\/collections\/fall-edit",
+        "link_text": "Explore All",
+        "link_url": "shopify:\/\/collections\/aw24",
         "button_type": "btn--primary",
         "button_size": "btn--small",
         "button_style": "btn--text",
         "show_arrow": false,
-        "featured_collection": "fall-edit",
+        "featured_collection": "aw24",
         "style": "slider",
-        "grid": 4,
-        "rows": 1,
+        "grid": 3,
+        "rows": 3,
         "layout_mobile": "carousel",
-        "bg_color": "#ffffff",
-        "color": "#212121",
+        "bg_color": "",
+        "color": "",
         "padding_top": 60,
-        "padding_bottom": 50
+        "padding_bottom": 40
       }
     },
     "21a05252-aed6-490f-aa5f-589a9685314f": {
@@ -210,11 +133,10 @@
       "blocks": {
         "template--17234605211894__21a05252-aed6-490f-aa5f-589a9685314f-highlight-1": {
           "type": "highlight",
-          "disabled": true,
           "settings": {
-            "heading": "Bracelets",
-            "url": "shopify:\/\/collections\/bracelets",
-            "image": "shopify:\/\/shop_images\/Daphine_ss24_aurorabangle.jpg",
+            "heading": "New In",
+            "url": "shopify:\/\/collections\/aw24",
+            "image": "shopify:\/\/shop_images\/Daphine_Maia-ear-cuff_gold_293da840-c056-4084-bf94-ff50121efee7.jpg",
             "color": "#000000",
             "bg_color": "#f5f3ef",
             "border_color": "rgba(0,0,0,0)"
@@ -222,11 +144,10 @@
         },
         "template--17234605211894__21a05252-aed6-490f-aa5f-589a9685314f-highlight-2": {
           "type": "highlight",
-          "disabled": true,
           "settings": {
-            "heading": "Earrings",
-            "url": "shopify:\/\/collections\/earrings",
-            "image": "shopify:\/\/shop_images\/Daphine_ss24_clarahoops.jpg",
+            "heading": "Necklaces",
+            "url": "shopify:\/\/collections\/necklaces",
+            "image": "shopify:\/\/shop_images\/Daphine_Agathe-necklace_gold-2_2d5a3e48-11fe-4217-abf5-8cfad243bf89.jpg",
             "color": "#212121",
             "bg_color": "#f5f3ef",
             "border_color": ""
@@ -234,29 +155,18 @@
         },
         "template--17234605211894__21a05252-aed6-490f-aa5f-589a9685314f-highlight-3": {
           "type": "highlight",
-          "disabled": true,
           "settings": {
-            "heading": "Necklaces",
-            "url": "shopify:\/\/collections\/necklaces",
-            "image": "shopify:\/\/shop_images\/Daphine_ss24_margarita_necklace.jpg",
+            "heading": "Earrings",
+            "url": "shopify:\/\/collections\/earrings",
+            "image": "shopify:\/\/shop_images\/Daphine_Cleo-earrings-4_6069d5b4-d917-4285-ae69-85925ae12438.jpg",
             "color": "#000000",
-            "bg_color": "#f0f0f0",
-            "border_color": ""
-          }
-        },
-        "highlight_KzWgNF": {
-          "type": "highlight",
-          "settings": {
-            "heading": "New In",
-            "url": "shopify:\/\/collections\/new-in",
-            "image": "shopify:\/\/shop_images\/Daphine_Monikh-pt.II_Dale-necklace_Dhari-necklace-1.jpg",
-            "color": "#ffffff",
             "bg_color": "#f0f0f0",
             "border_color": ""
           }
         },
         "highlight_eEQKjR": {
           "type": "highlight",
+          "disabled": true,
           "settings": {
             "heading": "Rings",
             "url": "shopify:\/\/collections\/rings",
@@ -268,6 +178,7 @@
         },
         "highlight_e7xX9L": {
           "type": "highlight",
+          "disabled": true,
           "settings": {
             "heading": "Bracelets",
             "url": "shopify:\/\/collections\/bracelets",
@@ -282,7 +193,6 @@
         "template--17234605211894__21a05252-aed6-490f-aa5f-589a9685314f-highlight-1",
         "template--17234605211894__21a05252-aed6-490f-aa5f-589a9685314f-highlight-2",
         "template--17234605211894__21a05252-aed6-490f-aa5f-589a9685314f-highlight-3",
-        "highlight_KzWgNF",
         "highlight_eEQKjR",
         "highlight_e7xX9L"
       ],
@@ -352,6 +262,7 @@
         "text",
         "button"
       ],
+      "disabled": true,
       "custom_css": [
 
       ],
@@ -362,6 +273,47 @@
         "mobile_height": "image-height--mobile",
         "mobile_image": "shopify:\/\/shop_images\/Moune_Bangles_B_W.jpg",
         "flex_align": "align--top-left",
+        "overlay_opacity": 0,
+        "overlay_color": "#000000",
+        "show_overlay_text": false,
+        "bg_color": "",
+        "color": "#ffffff"
+      }
+    },
+    "section_hero_URDUxU": {
+      "type": "section-hero",
+      "blocks": {
+        "heading_aGHd8j": {
+          "type": "heading",
+          "settings": {
+            "title": "Daphine x Monikh Vol.ii",
+            "heading_size": 7,
+            "mobile_heading_size": 6
+          }
+        },
+        "button_ih9XxF": {
+          "type": "button",
+          "settings": {
+            "link_text": "DISCOVER",
+            "link": "shopify:\/\/collections\/monikh-x-daphine-vol-ii",
+            "button_type": "btn--white",
+            "button_size": "",
+            "button_style": "btn--text",
+            "show_arrow": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_aGHd8j",
+        "button_ih9XxF"
+      ],
+      "settings": {
+        "height": "sixty-fifty-height-hero",
+        "width": "wrapper--full",
+        "image_1": "shopify:\/\/shop_images\/Screenshot_2024-09-02_at_10.50.14_4dee56b3-4722-4175-a97b-9863c50ae589.png",
+        "mobile_height": "image-height--mobile",
+        "mobile_image": "shopify:\/\/shop_images\/Daphine_Monikh-pt.II_Swin-necklace-2.jpg",
+        "flex_align": "align--middle-center",
         "overlay_opacity": 0,
         "overlay_color": "#000000",
         "show_overlay_text": false,
@@ -607,34 +559,23 @@
     "section_highlights_RXgML9": {
       "type": "section-highlights",
       "blocks": {
-        "highlight_wGhcL6": {
-          "type": "highlight",
-          "settings": {
-            "heading": "Bridal Edit",
-            "url": "shopify:\/\/collections\/bridal-edit",
-            "image": "shopify:\/\/shop_images\/12-Daphine_LauritaEarrings-ss21_resized_ce87bb52-599f-4f7d-8f82-31ce863d5a5f.jpg",
-            "color": "#ffffff",
-            "bg_color": "#f5f3ef",
-            "border_color": "rgba(0,0,0,0)"
-          }
-        },
-        "highlight_7aww7n": {
+        "highlight_xb7YjD": {
           "type": "highlight",
           "settings": {
             "heading": "Statement Earrings",
             "url": "shopify:\/\/collections\/statement-earrings-1",
-            "image": "shopify:\/\/shop_images\/DAPHINE-STILL-LIFE2385_9a9b125e-e099-4636-afe3-7af6bcc95154.jpg",
+            "image": "shopify:\/\/shop_images\/Daphine_Cleo-earrings.jpg",
             "color": "#ffffff",
             "bg_color": "#f0f0f0",
             "border_color": ""
           }
         },
-        "highlight_xb7YjD": {
+        "highlight_7aww7n": {
           "type": "highlight",
           "settings": {
-            "heading": "New In",
-            "url": "shopify:\/\/collections\/new-in",
-            "image": "shopify:\/\/shop_images\/Daphine_Monikh-pt.II_Delhi-hair-cuff_fd601b29-1c30-4025-8b2e-3aea78fbb945.jpg",
+            "heading": "Bestsellers",
+            "url": "shopify:\/\/collections\/classics",
+            "image": "shopify:\/\/shop_images\/Daphine_Christy_Ring_Laurita_Ring.jpg",
             "color": "#ffffff",
             "bg_color": "#f0f0f0",
             "border_color": ""
@@ -665,9 +606,8 @@
         }
       },
       "block_order": [
-        "highlight_wGhcL6",
-        "highlight_7aww7n",
         "highlight_xb7YjD",
+        "highlight_7aww7n",
         "highlight_8pLMV9",
         "highlight_HzXViV"
       ],
@@ -676,7 +616,7 @@
       ],
       "settings": {
         "style": "square",
-        "grid": 4,
+        "grid": 3,
         "width": "wrapper--full-padded",
         "heading": "",
         "heading_position": "text-center",
@@ -872,13 +812,13 @@
     }
   },
   "order": [
-    "section_hero_kTqMAT",
-    "section_slideshow_jTKbkj",
+    "section_hero_kUNNiF",
     "080de123-cd67-4a8f-b095-390fa30c932d",
-    "section_collection_Nd66xW",
+    "section_collection_rQrqQm",
     "21a05252-aed6-490f-aa5f-589a9685314f",
     "section_divider_BxE4qe",
     "hero",
+    "section_hero_URDUxU",
     "featured-collection",
     "image-with-text",
     "8c3fa3c0-64fa-406c-9f65-ced0a2e3da8f",

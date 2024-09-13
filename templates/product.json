@@ -74,9 +74,18 @@
         },
         "divider_1": {
           "type": "divider",
+          "disabled": true,
           "settings": {
             "show_line": true,
             "padding_top": 20,
+            "padding_bottom": 16
+          }
+        },
+        "text_9PFz7U": {
+          "type": "text",
+          "settings": {
+            "title": "",
+            "text": "{{ product.metafields.custom.gold_plating_description | metafield_tag }}",
             "padding_bottom": 16
           }
         },
@@ -92,17 +101,6 @@
             "padding_bottom": 16
           }
         },
-        "8f79fd74-aa05-459e-9b5b-86bb1695422f": {
-          "type": "icon",
-          "settings": {
-            "icon_name": "icon-tree",
-            "icon_size": 20,
-            "icon_color": "#545454",
-            "title": "Free Shipping on all EU orders over €150",
-            "width": "full",
-            "padding_bottom": 22
-          }
-        },
         "a0a8b781-007b-449f-96dc-8c58cf6e5f55": {
           "type": "icon",
           "settings": {
@@ -110,8 +108,19 @@
             "icon_size": 20,
             "icon_color": "#545454",
             "title": "Ships same day before 1pm",
-            "width": "full",
+            "width": "half",
             "padding_bottom": 16
+          }
+        },
+        "8f79fd74-aa05-459e-9b5b-86bb1695422f": {
+          "type": "icon",
+          "settings": {
+            "icon_name": "icon-tree",
+            "icon_size": 20,
+            "icon_color": "#545454",
+            "title": "Free Shipping on all EU orders over €150",
+            "width": "half",
+            "padding_bottom": 22
           }
         },
         "icon_1": {
@@ -121,7 +130,7 @@
             "icon_size": 20,
             "icon_color": "#545454",
             "title": "Easy Returns",
-            "width": "full",
+            "width": "half",
             "padding_bottom": 16
           }
         },
@@ -132,7 +141,7 @@
             "icon_size": 20,
             "icon_color": "#545454",
             "title": "Plastic-Free Packaging",
-            "width": "full",
+            "width": "half",
             "padding_bottom": 22
           }
         },
@@ -145,18 +154,11 @@
         },
         "514a386f-5539-4dea-ac18-97ee59d12052": {
           "type": "divider",
+          "disabled": true,
           "settings": {
             "show_line": true,
             "padding_top": 20,
             "padding_bottom": 20
-          }
-        },
-        "text_9PFz7U": {
-          "type": "text",
-          "settings": {
-            "title": "",
-            "text": "{{ product.metafields.custom.gold_plating_description | metafield_tag }}",
-            "padding_bottom": 16
           }
         },
         "divider_gkxfDQ": {
@@ -192,14 +194,14 @@
         "buttons",
         "tabs",
         "divider_1",
+        "text_9PFz7U",
         "icon_2",
-        "8f79fd74-aa05-459e-9b5b-86bb1695422f",
         "a0a8b781-007b-449f-96dc-8c58cf6e5f55",
+        "8f79fd74-aa05-459e-9b5b-86bb1695422f",
         "icon_1",
         "icon_EKrF8n",
         "pickup",
         "514a386f-5539-4dea-ac18-97ee59d12052",
-        "text_9PFz7U",
         "divider_gkxfDQ",
         "upsell",
         "5e8c2c50-6be8-439e-9c17-2d15838b33f6"
