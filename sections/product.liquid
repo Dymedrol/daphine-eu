@@ -89,6 +89,10 @@
   assign product_form_id = 'ProductForm--' | append: section.id | append: '-' | append: product.id
 -%}
 
+  {% if product.images.size > 0 %}
+    <link rel="preload" href="{{ product.images.first | img_url: '1080x1350' }}" as="image">
+  {% endif %}
+
 <div class="product__wrapper {{ product_wrapper_modifier }}" data-product>
   <div class="product__wrapper__inner">
     <div class="product__page">
