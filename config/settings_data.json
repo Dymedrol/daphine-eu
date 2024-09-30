@@ -49,8 +49,8 @@
     "parallax_enable": false,
     "product_grid_outline": false,
     "show_scroll_top_button": false,
-    "instagram_link": "https:\/\/www.instagram.com\/daphine\/",
-    "facebook_link": "https:\/\/www.facebook.com\/Daphinejewellery\/",
+    "instagram_link": "https://www.instagram.com/daphine/",
+    "facebook_link": "https://www.facebook.com/Daphinejewellery/",
     "product_grid_center": true,
     "product_grid_aspect_ratio": 1,
     "sale_tags_enable": false,
@@ -62,18 +62,19 @@
     "form_style": "modern",
     "show_lines": false,
     "swatch_style": "square",
-    "favicon": "shopify:\/\/shop_images\/FAVICON_LOGO.png",
+    "favicon": "shopify://shop_images/FAVICON_LOGO.png",
     "enable_order_notes": false,
     "enable_gift_notes": false,
     "enable_estimate_shipping": false,
-    "enable_additional_buttons": false,
+    "enable_additional_buttons": true,
+    "show_lock_icon": true,
     "show_free_shipping_message": true,
     "message": "You are ||amount|| away from free shipping.",
     "free_shipping_limit": "150",
     "cart_custom_message_text": "",
     "cart_product": "gift-wrap",
     "currency_code_enable": false,
-    "checkout_logo_image": "shopify:\/\/shop_images\/NEW_LOGO_BLACK_1.png",
+    "checkout_logo_image": "shopify://shop_images/NEW_LOGO_BLACK_1.png",
     "checkout_logo_position": "center",
     "checkout_logo_size": "large",
     "checkout_body_background_color": "#ffffff",
@@ -98,7 +99,7 @@
     ],
     "blocks": {
       "5858961087409699889": {
-        "type": "shopify:\/\/apps\/geolocation-orbe\/blocks\/app-embed-footer-selector\/7cb09287-cd2b-4646-837c-f1f9b6ea703e",
+        "type": "shopify://apps/geolocation-orbe/blocks/app-embed-footer-selector/7cb09287-cd2b-4646-837c-f1f9b6ea703e",
         "disabled": false,
         "settings": {
           "footer_ui_type": "selector",
@@ -123,13 +124,13 @@
         }
       },
       "855628211100114053": {
-        "type": "shopify:\/\/apps\/klaviyo-email-marketing-sms\/blocks\/klaviyo-onsite-embed\/2632fe16-c075-4321-a88b-50b567f42507",
+        "type": "shopify://apps/klaviyo-email-marketing-sms/blocks/klaviyo-onsite-embed/2632fe16-c075-4321-a88b-50b567f42507",
         "disabled": false,
         "settings": {
         }
       },
       "15912215999290715800": {
-        "type": "shopify:\/\/apps\/geolocation-orbe\/blocks\/app-embed-modal\/7cb09287-cd2b-4646-837c-f1f9b6ea703e",
+        "type": "shopify://apps/geolocation-orbe/blocks/app-embed-modal/7cb09287-cd2b-4646-837c-f1f9b6ea703e",
         "disabled": false,
         "settings": {
           "test_mode": false,
@@ -140,7 +141,7 @@
           "option_search_country": true,
           "title": "",
           "text": "Please select your shipping country:",
-          "helper_text": "<p>You are on the {country} site, shopping in {currency_symbol}. Please confirm or change your store preferences below.<\/p>",
+          "helper_text": "<p>You are on the {country} site, shopping in {currency_symbol}. Please confirm or change your store preferences below.</p>",
           "cta_text": "CONFIRM & CLOSE",
           "fallback_text": "We currently don’t ship to {country}",
           "alignment_image": "right",
@@ -158,7 +159,7 @@
         }
       },
       "17550530943902319648": {
-        "type": "shopify:\/\/apps\/appikon-back-in-stock\/blocks\/subscribe_it_helper\/eb949c69-b3e6-4216-a322-1cd63915d46d",
+        "type": "shopify://apps/appikon-back-in-stock/blocks/subscribe_it_helper/eb949c69-b3e6-4216-a322-1cd63915d46d",
         "disabled": false,
         "settings": {
         }
@@ -377,10 +378,10 @@
       "icon_style": "1.5",
       "product_grid_outline": false,
       "show_scroll_top_button": true,
-      "instagram_link": "https:\/\/instagram.com\/shopify",
-      "facebook_link": "https:\/\/facebook.com\/shopify",
-      "tiktok_link": "https:\/\/tiktok.com\/@shopify",
-      "pinterest_link": "https:\/\/pinterest.com\/shopify",
+      "instagram_link": "https://instagram.com/shopify",
+      "facebook_link": "https://facebook.com/shopify",
+      "tiktok_link": "https://tiktok.com/@shopify",
+      "pinterest_link": "https://pinterest.com/shopify",
       "overlay_text": false,
       "product_grid_aspect_ratio": 1.3,
       "sale_bg_color": "#1e6c53",
@@ -397,7 +398,7 @@
       "message": "You are ||amount|| away from free shipping.",
       "free_shipping_limit": "100",
       "free_shipping_gradient": "linear-gradient(57deg, rgba(255, 56, 114, 1) 1%, rgba(255, 128, 0, 1) 46%, rgba(255, 203, 51, 1) 83%)",
-      "cart_custom_message_text": "<p>Use coupon code <strong>GET10<\/strong> for 10% off your first order.<\/p>",
+      "cart_custom_message_text": "<p>Use coupon code <strong>GET10</strong> for 10% off your first order.</p>",
       "empty_cart_menu": "gifts",
       "checkout_logo_position": "left",
       "checkout_logo_size": "medium",
