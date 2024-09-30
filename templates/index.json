@@ -15,7 +15,7 @@
         "heading_CJyGjY": {
           "type": "heading",
           "settings": {
-            "title": "New In: AW24",
+            "title": "Inspired by the classics",
             "heading_size": 8,
             "mobile_heading_size": 7
           }
@@ -34,7 +34,7 @@
           "type": "button",
           "settings": {
             "link_text": "DISCOVER",
-            "link": "shopify:\/\/pages\/autumn-winter-24",
+            "link": "shopify://collections/aw24",
             "button_type": "btn--white",
             "button_size": "",
             "button_style": "btn--text",
@@ -50,9 +50,9 @@
       "settings": {
         "height": "image-height",
         "width": "wrapper--full",
-        "image_1": "shopify:\/\/shop_images\/aw24_banner.png",
+        "image_1": "shopify://shop_images/Screenshot_2024-09-27_at_11.41.48.png",
         "mobile_height": "screen-height-two-thirds--mobile",
-        "mobile_image": "shopify:\/\/shop_images\/Daphine_Agathe-necklace-silver_Clara-hoops-silver_d1ff05b9-ec10-4c56-893e-6ed07a6c8e68.jpg",
+        "mobile_image": "shopify://shop_images/Daphine_Cleo-earrings-4_c6530df3-2e28-493b-a5e1-735ffb776a03.jpg",
         "flex_align": "align--bottom-center",
         "overlay_opacity": 0,
         "overlay_color": "#000000",
@@ -67,7 +67,7 @@
         "code_YnwhXj": {
           "type": "code",
           "settings": {
-            "code": "<div style=\"display:flex; align-items: center; justify-content: center;\" >\n\n<div style=\"padding-right:15px;\"><img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0822\/6537\/5053\/files\/vogue-logo-300.png?v=1716905452\" width=\"auto\" height=\"20px\" alt=\"Vogue\" \/><\/div>\n\n<div class=\"body-size-4 font-heading\">« Timeless earrings to elevate your wardrobe »<\/div>\n\n<\/div>",
+            "code": "<div style=\"display:flex; align-items: center; justify-content: center;\" >\n\n<div style=\"padding-right:15px;\"><img src=\"https://cdn.shopify.com/s/files/1/0822/6537/5053/files/vogue-logo-300.png?v=1716905452\" width=\"auto\" height=\"20px\" alt=\"Vogue\" /></div>\n\n<div class=\"body-size-4 font-heading\">« Timeless earrings to elevate your wardrobe »</div>\n\n</div>",
             "target_device_enabled": false,
             "target_device": "mobile"
           }
@@ -75,7 +75,7 @@
         "code_cMp3qX": {
           "type": "code",
           "settings": {
-            "code": "<div style=\"display:flex; align-items: center; justify-content: center;\" >\n\n<div style=\"padding-right:15px;\"><img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0822\/6537\/5053\/files\/bazaar_logo_300.png?v=1716905464\" alt=\"Bazaar\" width=\"auto\" height=\"25px\" \/><\/div>\n\n<div class=\"body-size-4 font-heading\">« Won't go out of style in a matter of months »<\/div>\n\n<\/div>",
+            "code": "<div style=\"display:flex; align-items: center; justify-content: center;\" >\n\n<div style=\"padding-right:15px;\"><img src=\"https://cdn.shopify.com/s/files/1/0822/6537/5053/files/bazaar_logo_300.png?v=1716905464\" alt=\"Bazaar\" width=\"auto\" height=\"25px\" /></div>\n\n<div class=\"body-size-4 font-heading\">« Won't go out of style in a matter of months »</div>\n\n</div>",
             "target_device_enabled": false,
             "target_device": "mobile"
           }
@@ -83,7 +83,7 @@
         "code_pMqncd": {
           "type": "code",
           "settings": {
-            "code": "<div style=\"display:flex; align-items: center; justify-content: center;\" >\n\n<div style=\"padding-right:15px;\"><img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0822\/6537\/5053\/files\/stylist_logo_300.png?v=1716905443\" alt=\"Stylist\" width=\"auto\" height=\"22px\" \/><\/div>\n\n<div class=\"body-size-4 font-heading\">« Daphine has established itself as a powerful player in the jewellery sphere »<\/div>\n\n<\/div>",
+            "code": "<div style=\"display:flex; align-items: center; justify-content: center;\" >\n\n<div style=\"padding-right:15px;\"><img src=\"https://cdn.shopify.com/s/files/1/0822/6537/5053/files/stylist_logo_300.png?v=1716905443\" alt=\"Stylist\" width=\"auto\" height=\"22px\" /></div>\n\n<div class=\"body-size-4 font-heading\">« Daphine has established itself as a powerful player in the jewellery sphere »</div>\n\n</div>",
             "target_device_enabled": false,
             "target_device": "mobile"
           }
@@ -112,7 +112,7 @@
         "description": "",
         "layout": "inline",
         "link_text": "Explore All",
-        "link_url": "shopify:\/\/collections\/aw24",
+        "link_url": "shopify://collections/aw24",
         "button_type": "btn--primary",
         "button_size": "btn--small",
         "button_style": "btn--text",
@@ -135,8 +135,8 @@
           "type": "highlight",
           "settings": {
             "heading": "New In",
-            "url": "shopify:\/\/collections\/aw24",
-            "image": "shopify:\/\/shop_images\/Daphine_Maia-ear-cuff_gold_293da840-c056-4084-bf94-ff50121efee7.jpg",
+            "url": "shopify://collections/aw24",
+            "image": "shopify://shop_images/Daphine_Sabine-ear-cuff_2_2.jpg",
             "color": "#000000",
             "bg_color": "#f5f3ef",
             "border_color": "rgba(0,0,0,0)"
@@ -146,8 +146,8 @@
           "type": "highlight",
           "settings": {
             "heading": "Necklaces",
-            "url": "shopify:\/\/collections\/necklaces",
-            "image": "shopify:\/\/shop_images\/Daphine_Agathe-necklace_gold-2_2d5a3e48-11fe-4217-abf5-8cfad243bf89.jpg",
+            "url": "shopify://collections/necklaces",
+            "image": "shopify://shop_images/Daphine_Agathe-necklace_gold-2_2d5a3e48-11fe-4217-abf5-8cfad243bf89.jpg",
             "color": "#212121",
             "bg_color": "#f5f3ef",
             "border_color": ""
@@ -157,8 +157,8 @@
           "type": "highlight",
           "settings": {
             "heading": "Earrings",
-            "url": "shopify:\/\/collections\/earrings",
-            "image": "shopify:\/\/shop_images\/Daphine_Cleo-earrings-4_6069d5b4-d917-4285-ae69-85925ae12438.jpg",
+            "url": "shopify://collections/earrings",
+            "image": "shopify://shop_images/Daphine_Ella-earrings_cdbe9aee-1add-43c3-8291-9e897021ecfa.jpg",
             "color": "#000000",
             "bg_color": "#f0f0f0",
             "border_color": ""
@@ -169,8 +169,8 @@
           "disabled": true,
           "settings": {
             "heading": "Rings",
-            "url": "shopify:\/\/collections\/rings",
-            "image": "shopify:\/\/shop_images\/Daphine_Monikh-pt.II_Reena-rings_80b17f49-797c-4a29-9977-67c9e24d82fe.jpg",
+            "url": "shopify://collections/rings",
+            "image": "shopify://shop_images/Daphine_Monikh-pt.II_Reena-rings_80b17f49-797c-4a29-9977-67c9e24d82fe.jpg",
             "color": "#ffffff",
             "bg_color": "#f0f0f0",
             "border_color": ""
@@ -181,8 +181,8 @@
           "disabled": true,
           "settings": {
             "heading": "Bracelets",
-            "url": "shopify:\/\/collections\/bracelets",
-            "image": "shopify:\/\/shop_images\/Daphine_Chris_Bracelet_5mm_2.jpg",
+            "url": "shopify://collections/bracelets",
+            "image": "shopify://shop_images/Daphine_Chris_Bracelet_5mm_2.jpg",
             "color": "#ffffff",
             "bg_color": "#f0f0f0",
             "border_color": ""
@@ -249,7 +249,7 @@
           "type": "button",
           "settings": {
             "link_text": "Read more about our ethos",
-            "link": "shopify:\/\/pages\/sustainability-ethics",
+            "link": "shopify://pages/sustainability-ethics",
             "button_type": "btn--white",
             "button_size": "",
             "button_style": "btn--text",
@@ -269,9 +269,9 @@
       "settings": {
         "height": "sixty-fifty-height-hero",
         "width": "wrapper--full",
-        "image_1": "shopify:\/\/shop_images\/Moune_bangles_desktop.jpg",
+        "image_1": "shopify://shop_images/Moune_bangles_desktop.jpg",
         "mobile_height": "image-height--mobile",
-        "mobile_image": "shopify:\/\/shop_images\/Moune_Bangles_B_W.jpg",
+        "mobile_image": "shopify://shop_images/Moune_Bangles_B_W.jpg",
         "flex_align": "align--top-left",
         "overlay_opacity": 0,
         "overlay_color": "#000000",
@@ -295,7 +295,7 @@
           "type": "button",
           "settings": {
             "link_text": "DISCOVER",
-            "link": "shopify:\/\/collections\/monikh-x-daphine-vol-ii",
+            "link": "shopify://collections/monikh-x-daphine-vol-ii",
             "button_type": "btn--white",
             "button_size": "",
             "button_style": "btn--text",
@@ -310,9 +310,9 @@
       "settings": {
         "height": "sixty-fifty-height-hero",
         "width": "wrapper--full",
-        "image_1": "shopify:\/\/shop_images\/Screenshot_2024-09-02_at_10.50.14_4dee56b3-4722-4175-a97b-9863c50ae589.png",
+        "image_1": "shopify://shop_images/Screenshot_2024-09-27_at_11.53.11.png",
         "mobile_height": "image-height--mobile",
-        "mobile_image": "shopify:\/\/shop_images\/Daphine_Monikh-pt.II_Swin-necklace-2.jpg",
+        "mobile_image": "shopify://shop_images/Daphine_Monikh-pt.II_Swin-necklace-2.jpg",
         "flex_align": "align--middle-center",
         "overlay_opacity": 0,
         "overlay_color": "#000000",
@@ -328,7 +328,7 @@
         "description": "",
         "layout": "inline",
         "link_text": "explore all",
-        "link_url": "shopify:\/\/collections\/classics",
+        "link_url": "shopify://collections/classics",
         "button_type": "btn--primary",
         "button_size": "btn--small",
         "button_style": "btn--text",
@@ -350,7 +350,7 @@
         "image": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Webp.net-gifmaker_4.gif",
+            "image": "shopify://shop_images/Webp.net-gifmaker_4.gif",
             "overlay_opacity": 0,
             "overlay_color": "#000000",
             "show_overlay_text": false,
@@ -364,7 +364,7 @@
             "bg_color": "",
             "color": "#ffffff",
             "link_text": "",
-            "link": "shopify:\/\/collections\/all",
+            "link": "shopify://collections/all",
             "button_type": "btn--white",
             "button_size": "",
             "button_style": "btn--outline",
@@ -380,7 +380,7 @@
             "title": "Vintage Treasures",
             "heading_size": 7,
             "mobile_heading_size": 4,
-            "text": "<p><em>Daphine offers traditional hand engraving as a way of personalising your pieces. All of our engraved gold rings and bangles are hand engraved by our master engraver, a third generation engraver based in Bournemouth, England.<\/em><\/p>",
+            "text": "<p><em>Daphine offers traditional hand engraving as a way of personalising your pieces. All of our engraved gold rings and bangles are hand engraved by our master engraver, a third generation engraver based in Bournemouth, England.</em></p>",
             "text_size": 3,
             "mobile_text_size": 3,
             "button_text": "",
@@ -419,7 +419,7 @@
           "type": "collection",
           "settings": {
             "collection": "everyday-classics",
-            "collection_image": "shopify:\/\/shop_images\/Moune_bangles_5_3b723fa8-c437-4c81-bcc7-eeada2d7db78.jpg",
+            "collection_image": "shopify://shop_images/Moune_bangles_5_3b723fa8-c437-4c81-bcc7-eeada2d7db78.jpg",
             "title": ""
           }
         },
@@ -427,7 +427,7 @@
           "type": "collection",
           "settings": {
             "collection": "favourites-of-the-week",
-            "collection_image": "shopify:\/\/shop_images\/AM9A9787.jpg",
+            "collection_image": "shopify://shop_images/AM9A9787.jpg",
             "title": ""
           }
         },
@@ -474,7 +474,7 @@
           "type": "collection",
           "settings": {
             "collection": "rings",
-            "collection_image": "shopify:\/\/shop_images\/Screenshot_2024-01-26_at_13.14.23.png",
+            "collection_image": "shopify://shop_images/Screenshot_2024-01-26_at_13.14.23.png",
             "title": ""
           }
         },
@@ -482,7 +482,7 @@
           "type": "collection",
           "settings": {
             "collection": "earrings",
-            "collection_image": "shopify:\/\/shop_images\/Daphine0020783.jpg",
+            "collection_image": "shopify://shop_images/Daphine0020783.jpg",
             "title": ""
           }
         },
@@ -490,7 +490,7 @@
           "type": "collection",
           "settings": {
             "collection": "bracelets",
-            "collection_image": "shopify:\/\/shop_images\/Untitled.jpg",
+            "collection_image": "shopify://shop_images/Untitled.jpg",
             "title": ""
           }
         },
@@ -563,8 +563,8 @@
           "type": "highlight",
           "settings": {
             "heading": "Statement Earrings",
-            "url": "shopify:\/\/collections\/statement-earrings-1",
-            "image": "shopify:\/\/shop_images\/Daphine_Cleo-earrings.jpg",
+            "url": "shopify://collections/statement-earrings-1",
+            "image": "shopify://shop_images/Daphine_Cleo-earrings.jpg",
             "color": "#ffffff",
             "bg_color": "#f0f0f0",
             "border_color": ""
@@ -574,8 +574,8 @@
           "type": "highlight",
           "settings": {
             "heading": "Bestsellers",
-            "url": "shopify:\/\/collections\/classics",
-            "image": "shopify:\/\/shop_images\/Daphine_Christy_Ring_Laurita_Ring.jpg",
+            "url": "shopify://collections/classics",
+            "image": "shopify://shop_images/Daphine_Christy_Ring_Laurita_Ring.jpg",
             "color": "#ffffff",
             "bg_color": "#f0f0f0",
             "border_color": ""
@@ -586,8 +586,8 @@
           "disabled": true,
           "settings": {
             "heading": "Our Collective",
-            "url": "shopify:\/\/collections\/daphine-collective-vol-i",
-            "image": "shopify:\/\/shop_images\/MONIKH_DAPHINE-9_3a5603ea-6e32-40c9-8a56-d0ba025f2071.jpg",
+            "url": "shopify://collections/daphine-collective-vol-i",
+            "image": "shopify://shop_images/MONIKH_DAPHINE-9_3a5603ea-6e32-40c9-8a56-d0ba025f2071.jpg",
             "color": "#212121",
             "bg_color": "#f5f3ef",
             "border_color": ""
@@ -597,8 +597,8 @@
           "type": "highlight",
           "settings": {
             "heading": "Our Story",
-            "url": "shopify:\/\/pages\/our-story",
-            "image": "shopify:\/\/shop_images\/Daphine_Founders-Portraits_1_3.jpg",
+            "url": "shopify://pages/our-story",
+            "image": "shopify://shop_images/Daphine_Founders-Portraits_1_3.jpg",
             "color": "#ffffff",
             "bg_color": "#f0f0f0",
             "border_color": ""
@@ -643,7 +643,7 @@
         "text_jC6Vh9": {
           "type": "text",
           "settings": {
-            "text": "<p>Inspired by the way our mothers, grandmothers and sisters adapt effortlessly to many roles, we decided to make jewellery that would do the same thing. Creating pieces that would accompany life’s joys and challenges – little luxuries that could be reached for again and again.<\/p>",
+            "text": "<p>Inspired by the way our mothers, grandmothers and sisters adapt effortlessly to many roles, we decided to make jewellery that would do the same thing. Creating pieces that would accompany life’s joys and challenges – little luxuries that could be reached for again and again.</p>",
             "text_size": 3,
             "mobile_text_size": 4,
             "text_style": "font-body"
@@ -672,7 +672,7 @@
         "height": "screen-height-three-quarters",
         "mobile_height": "screen-height-one-half--mobile",
         "width": "wrapper--full-padded",
-        "image_1": "shopify:\/\/shop_images\/Screenshot_2024-03-20_at_13.49.30.png",
+        "image_1": "shopify://shop_images/Screenshot_2024-03-20_at_13.49.30.png",
         "image_width": "one-half",
         "text_alignment": "text-left",
         "bg_color": "",
@@ -692,7 +692,7 @@
             "icon_color": "#ffffff",
             "title": "Express Shipping on all EU orders and Easy Returns",
             "heading_size": 3,
-            "text": "<p><\/p><p><\/p>",
+            "text": "<p></p><p></p>",
             "text_size": 3
           }
         },
@@ -746,7 +746,7 @@
         "text_taxUMM": {
           "type": "text",
           "settings": {
-            "text": "<p>About Us<\/p>",
+            "text": "<p>About Us</p>",
             "text_size": 4,
             "mobile_text_size": 3,
             "text_style": "font-heading"
@@ -763,7 +763,7 @@
         "text_TQTAUQ": {
           "type": "text",
           "settings": {
-            "text": "<p>Inspired by the way our mothers, grandmothers and sisters adapt effortlessly to many roles, we decided to make jewellery that would do the same thing. Creating pieces that would accompany life’s joys and challenges – little luxuries that could be reached for again and again.<\/p>",
+            "text": "<p>Inspired by the way our mothers, grandmothers and sisters adapt effortlessly to many roles, we decided to make jewellery that would do the same thing. Creating pieces that would accompany life’s joys and challenges – little luxuries that could be reached for again and again.</p>",
             "text_size": 4,
             "mobile_text_size": 3,
             "text_style": "font-body"
@@ -782,7 +782,7 @@
           "type": "buttons",
           "settings": {
             "button_text": "Read our story",
-            "button_url": "shopify:\/\/pages\/our-story",
+            "button_url": "shopify://pages/our-story",
             "button_type": "btn--primary",
             "button_size": "btn--small",
             "button_style": "btn--text",
