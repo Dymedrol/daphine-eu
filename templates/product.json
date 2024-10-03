@@ -76,9 +76,9 @@
             "show_read_more": false,
             "style": "tabs",
             "title_1": "DETAILS",
-            "raw_content_1": "<p>{{ product.metafields.accordion[\"0_Details\"] | metafield_tag }}<\/p>",
+            "raw_content_1": "<p>{{ product.metafields.accordion[\"0_Details\"] | metafield_tag }}</p>",
             "title_2": "SHIPPING",
-            "raw_content_2": "<p>Free UK Shipping over £150<\/p><p>See our <a href=\"\/pages\/shipping-returns2\" title=\"SHIPPING\">Shipping Page<\/a> for more details and a full list of countries we ship to.<\/p><p>We offer free returns for our UK customers. Please see <a href=\"\/pages\/returns\" title=\"RETURNS INFORMATION | DAPHINE\">Returns<\/a> for details.<\/p>",
+            "raw_content_2": "<p>Free UK Shipping over £150</p><p>See our <a href=\"/pages/shipping-returns2\" title=\"SHIPPING\">Shipping Page</a> for more details and a full list of countries we ship to.</p><p>We offer free returns for our UK customers. Please see <a href=\"/pages/returns\" title=\"RETURNS INFORMATION | DAPHINE\">Returns</a> for details.</p>",
             "title_3": "",
             "raw_content_3": "",
             "title_4": "",
@@ -248,7 +248,7 @@
             "logo": "{{ product.metafields.custom_instagram.image_1.value }}",
             "logo_width": 180,
             "link": "",
-            "description": "<h6>{{ product.metafields.custom_instagram.title_1.value }}<\/h6>",
+            "description": "<h6>{{ product.metafields.custom_instagram.title_1.value }}</h6>",
             "heading_size": 1
           }
         },
@@ -258,7 +258,7 @@
             "logo": "{{ product.metafields.custom_instagram.image_2.value }}",
             "logo_width": 180,
             "link": "",
-            "description": "<h6>{{ product.metafields.custom_instagram.title_2.value }}<\/h6>",
+            "description": "<h6>{{ product.metafields.custom_instagram.title_2.value }}</h6>",
             "heading_size": 1
           }
         },
@@ -268,7 +268,7 @@
             "logo": "{{ product.metafields.custom_instagram.image_3.value }}",
             "logo_width": 180,
             "link": "",
-            "description": "<h6>{{ product.metafields.custom_instagram.title_3.value }}<\/h6>",
+            "description": "<h6>{{ product.metafields.custom_instagram.title_3.value }}</h6>",
             "heading_size": 1
           }
         },
@@ -278,7 +278,7 @@
             "logo": "{{ product.metafields.custom_instagram.image_4.value }}",
             "logo_width": 180,
             "link": "{{ product.metafields.custom_instagram.link_4.value }}",
-            "description": "<h6>{{ product.metafields.custom_instagram.title_4.value }}<\/h6>",
+            "description": "<h6>{{ product.metafields.custom_instagram.title_4.value }}</h6>",
             "heading_size": 1
           }
         }
@@ -362,7 +362,7 @@
             "title": "Secure transactions",
             "heading_size": 4,
             "mobile_heading_size": 4,
-            "text": "<p>Transactions are handled with bank-grade security.<\/p>",
+            "text": "<p>Transactions are handled with bank-grade security.</p>",
             "text_size": 3,
             "mobile_text_size": 3
           }
@@ -378,7 +378,7 @@
             "title": "Simple checkout",
             "heading_size": 4,
             "mobile_heading_size": 4,
-            "text": "<p>Our secure checkout is quick and easy to use.<\/p>",
+            "text": "<p>Our secure checkout is quick and easy to use.</p>",
             "text_size": 3,
             "mobile_text_size": 3
           }
@@ -394,7 +394,7 @@
             "title": "Get in touch",
             "heading_size": 4,
             "mobile_heading_size": 4,
-            "text": "<p>Have questions? Get in touch with us at any time.<\/p>",
+            "text": "<p>Have questions? Get in touch with us at any time.</p>",
             "text_size": 3,
             "mobile_text_size": 3
           }
@@ -505,7 +505,7 @@
             "title": "Our Ethos",
             "heading_size": 7,
             "mobile_heading_size": 4,
-            "text": "<p>Less really is more. We’re passionate about encouraging conscious consumption – we only want our customers to buy pieces that truly bring joy. <\/p><p>Daphine jewellery is intended to be loved for years to come, which is why we create timeless designs that can be worn season after season.<\/p>",
+            "text": "<p>Less really is more. We’re passionate about encouraging conscious consumption – we only want our customers to buy pieces that truly bring joy. </p><p>Daphine jewellery is intended to be loved for years to come, which is why we create timeless designs that can be worn season after season.</p>",
             "text_size": 3,
             "mobile_text_size": 3,
             "button_text": "Discover",
@@ -524,7 +524,7 @@
         "template--16822550462710__aa66146f-cfd1-42ec-a274-da71d05a28e1-16854463982141e191-0": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/DAPHINE_FRANCES_DAVISON_22.02.240739_45-INSTAGRAM.jpg",
+            "image": "shopify://shop_images/DAPHINE_FRANCES_DAVISON_22.02.240739_45-INSTAGRAM.jpg",
             "overlay_opacity": 0,
             "overlay_color": "#000000",
             "show_overlay_text": false,
@@ -572,6 +572,73 @@
         "padding_top": 0,
         "padding_bottom": 0
       }
+    },
+    "section_custom_content_BgKgq3": {
+      "type": "section-custom-content",
+      "blocks": {
+        "image_X4B6z7": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Thea_earrings.jpg",
+            "overlay_opacity": 0,
+            "overlay_color": "#000",
+            "show_overlay_text": false,
+            "title": "",
+            "heading_size": 7,
+            "mobile_heading_size": 4,
+            "description": "",
+            "text_size": 3,
+            "mobile_text_size": 3,
+            "flex_align": "align--middle-center",
+            "bg_color": "",
+            "color": "#FFFFFF",
+            "link_text": "",
+            "link": "",
+            "button_type": "btn--primary",
+            "button_size": "",
+            "button_style": "btn--solid",
+            "show_arrow": false
+          }
+        },
+        "text_F74yV9": {
+          "type": "text",
+          "settings": {
+            "subheading": "ABOUT US",
+            "subheading_size": 3,
+            "mobile_subheading_size": 3,
+            "title": "We believe in how a piece of jewellery can make you feel",
+            "heading_size": 7,
+            "mobile_heading_size": 4,
+            "text": "<p>We want our creations to be your daily companions, that won’t go out of fashion in a matter of months. Classic, timeless icons. For this reason, our collections explore the heritage design details that resonate now – giving them new, contemporary life.</p>",
+            "text_size": 3,
+            "mobile_text_size": 3,
+            "button_text": "DISCOVER",
+            "button_url": "shopify://pages/about-us",
+            "button_type": "btn--primary",
+            "button_size": "",
+            "button_style": "btn--text",
+            "show_arrow": false,
+            "show_social_links": false,
+            "text_columns": 1,
+            "align_text": "text-center",
+            "bg_color": "",
+            "color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_X4B6z7",
+        "text_F74yV9"
+      ],
+      "settings": {
+        "height": "screen-height-one-half",
+        "mobile_height": "screen-height-one-half--mobile",
+        "width": "wrapper--full-padded",
+        "borders": false,
+        "reverse_blocks": false,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
     }
   },
   "order": [
@@ -582,6 +649,7 @@
     "1119158d-7a19-4fdc-9140-c7ef58c51453",
     "7326fbf7-e688-46d3-863d-5904b49b6b03",
     "aa66146f-cfd1-42ec-a274-da71d05a28e1",
-    "fe7190ea-6830-492a-9ec7-565ffaf5645e"
+    "fe7190ea-6830-492a-9ec7-565ffaf5645e",
+    "section_custom_content_BgKgq3"
   ]
 }
