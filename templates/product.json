@@ -607,8 +607,8 @@
             "subheading_size": 3,
             "mobile_subheading_size": 3,
             "title": "We believe in how a piece of jewellery can make you feel",
-            "heading_size": 7,
-            "mobile_heading_size": 4,
+            "heading_size": 5,
+            "mobile_heading_size": 5,
             "text": "<p>We want our creations to be your daily companions, that won’t go out of fashion in a matter of months. Classic, timeless icons. For this reason, our collections explore the heritage design details that resonate now – giving them new, contemporary life.</p>",
             "text_size": 3,
             "mobile_text_size": 3,
@@ -621,7 +621,7 @@
             "show_social_links": false,
             "text_columns": 1,
             "align_text": "text-center",
-            "bg_color": "",
+            "bg_color": "#f5f3ef",
             "color": ""
           }
         }
@@ -637,7 +637,7 @@
         "borders": false,
         "reverse_blocks": false,
         "padding_top": 0,
-        "padding_bottom": 0
+        "padding_bottom": 50
       }
     }
   },
