@@ -88,6 +88,14 @@
             "padding_bottom": 0
           }
         },
+        "upsell": {
+          "type": "upsell",
+          "settings": {
+            "upsell_product": "{{ product.metafields.related_products.product1.value }}",
+            "bg_color": "rgba(0,0,0,0)",
+            "padding_bottom": 16
+          }
+        },
         "divider_1": {
           "type": "divider",
           "disabled": true,
@@ -99,6 +107,7 @@
         },
         "text_9PFz7U": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "title": "",
             "text": "{{ product.metafields.custom.gold_plating_description | metafield_tag }}",
@@ -119,6 +128,7 @@
         },
         "a0a8b781-007b-449f-96dc-8c58cf6e5f55": {
           "type": "icon",
+          "disabled": true,
           "settings": {
             "icon_name": "icon-fast-shipment",
             "icon_size": 20,
@@ -130,6 +140,7 @@
         },
         "8f79fd74-aa05-459e-9b5b-86bb1695422f": {
           "type": "icon",
+          "disabled": true,
           "settings": {
             "icon_name": "icon-tree",
             "icon_size": 20,
@@ -141,6 +152,7 @@
         },
         "icon_1": {
           "type": "icon",
+          "disabled": true,
           "settings": {
             "icon_name": "icon-email",
             "icon_size": 20,
@@ -152,6 +164,7 @@
         },
         "icon_EKrF8n": {
           "type": "icon",
+          "disabled": true,
           "settings": {
             "icon_name": "icon-tree",
             "icon_size": 20,
@@ -185,19 +198,24 @@
             "padding_bottom": 20
           }
         },
-        "upsell": {
-          "type": "upsell",
-          "settings": {
-            "upsell_product": "{{ product.metafields.related_products.product1.value }}",
-            "bg_color": "rgba(0,0,0,0)",
-            "padding_bottom": 16
-          }
-        },
         "5e8c2c50-6be8-439e-9c17-2d15838b33f6": {
           "type": "code",
           "disabled": true,
           "settings": {
             "code": "",
+            "padding_bottom": 16
+          }
+        },
+        "features_gpe9Xx": {
+          "type": "features",
+          "settings": {
+            "icon_name": "icon-award",
+            "icon_alt": "shopify://shop_images/logo-rjc-black.webp",
+            "icon_size": 80,
+            "title": "",
+            "text": "{{ product.metafields.custom.gold_plating_description | metafield_tag }}",
+            "bg_color": "#f8f7f6",
+            "color": "#212121",
             "padding_bottom": 16
           }
         }
@@ -211,6 +229,7 @@
         "text_Kexej3",
         "buttons",
         "tabs",
+        "upsell",
         "divider_1",
         "text_9PFz7U",
         "icon_2",
@@ -221,8 +240,8 @@
         "pickup",
         "514a386f-5539-4dea-ac18-97ee59d12052",
         "divider_gkxfDQ",
-        "upsell",
-        "5e8c2c50-6be8-439e-9c17-2d15838b33f6"
+        "5e8c2c50-6be8-439e-9c17-2d15838b33f6",
+        "features_gpe9Xx"
       ],
       "custom_css": [
 
