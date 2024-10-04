@@ -598,9 +598,9 @@
         "image_X4B6z7": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/IMG_9172.jpg",
+            "image": "shopify://shop_images/IMG_4662.jpg",
             "overlay_opacity": 0,
-            "overlay_color": "#000",
+            "overlay_color": "#000000",
             "show_overlay_text": false,
             "title": "",
             "heading_size": 7,
@@ -610,7 +610,7 @@
             "mobile_text_size": 3,
             "flex_align": "align--middle-center",
             "bg_color": "",
-            "color": "#FFFFFF",
+            "color": "#ffffff",
             "link_text": "",
             "link": "",
             "button_type": "btn--primary",
@@ -620,6 +620,73 @@
           }
         },
         "text_F74yV9": {
+          "type": "text",
+          "settings": {
+            "subheading": "MADE WITH CARE",
+            "subheading_size": 3,
+            "mobile_subheading_size": 3,
+            "title": "There's a special kind of magic to something crafted by hand",
+            "heading_size": 5,
+            "mobile_heading_size": 5,
+            "text": "<p>That’s why all of our pieces are handmade in our RJC atelier in Jaipur – an Indian city known for its long history of skilled craftsmanship and design. We are uncompromising in our commitment to working directly with local artisans, whose passion, dedication and care keeps quality as high as possible.</p>",
+            "text_size": 3,
+            "mobile_text_size": 3,
+            "button_text": "READ MORE",
+            "button_url": "shopify://pages/sustainability-ethics",
+            "button_type": "btn--primary",
+            "button_size": "",
+            "button_style": "btn--text",
+            "show_arrow": false,
+            "show_social_links": false,
+            "text_columns": 1,
+            "align_text": "text-center",
+            "bg_color": "#f5f3ef",
+            "color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_X4B6z7",
+        "text_F74yV9"
+      ],
+      "settings": {
+        "height": "screen-height-one-half",
+        "mobile_height": "screen-height-one-half--mobile",
+        "width": "wrapper--full-padded",
+        "borders": false,
+        "reverse_blocks": false,
+        "padding_top": 0,
+        "padding_bottom": 50
+      }
+    },
+    "section_custom_content_iU39fa": {
+      "type": "section-custom-content",
+      "blocks": {
+        "image_BME9Ur": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/IMG_9172.jpg",
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "show_overlay_text": false,
+            "title": "",
+            "heading_size": 7,
+            "mobile_heading_size": 4,
+            "description": "",
+            "text_size": 3,
+            "mobile_text_size": 3,
+            "flex_align": "align--middle-center",
+            "bg_color": "",
+            "color": "#ffffff",
+            "link_text": "",
+            "link": "",
+            "button_type": "btn--primary",
+            "button_size": "",
+            "button_style": "btn--solid",
+            "show_arrow": false
+          }
+        },
+        "text_dMftbF": {
           "type": "text",
           "settings": {
             "subheading": "ABOUT US",
@@ -646,15 +713,15 @@
         }
       },
       "block_order": [
-        "image_X4B6z7",
-        "text_F74yV9"
+        "image_BME9Ur",
+        "text_dMftbF"
       ],
       "settings": {
         "height": "screen-height-one-half",
         "mobile_height": "screen-height-one-half--mobile",
         "width": "wrapper--full-padded",
         "borders": false,
-        "reverse_blocks": false,
+        "reverse_blocks": true,
         "padding_top": 0,
         "padding_bottom": 50
       }
@@ -669,6 +736,7 @@
     "7326fbf7-e688-46d3-863d-5904b49b6b03",
     "aa66146f-cfd1-42ec-a274-da71d05a28e1",
     "fe7190ea-6830-492a-9ec7-565ffaf5645e",
-    "section_custom_content_BgKgq3"
+    "section_custom_content_BgKgq3",
+    "section_custom_content_iU39fa"
   ]
 }
