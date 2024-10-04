@@ -174,7 +174,7 @@
         ".announcement__slide {font-family: \"ITC Galliard\" !important; font-style: italic;}"
       ],
       "settings": {
-        "layout": "slider",
+        "layout": "marquee",
         "slider_speed": 5,
         "show_arrows": false,
         "marquee_speed": 50,
