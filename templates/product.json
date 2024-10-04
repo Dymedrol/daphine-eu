@@ -662,30 +662,6 @@
     "section_custom_content_iU39fa": {
       "type": "section-custom-content",
       "blocks": {
-        "image_BME9Ur": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/IMG_9172.jpg",
-            "overlay_opacity": 0,
-            "overlay_color": "#000000",
-            "show_overlay_text": false,
-            "title": "",
-            "heading_size": 7,
-            "mobile_heading_size": 4,
-            "description": "",
-            "text_size": 3,
-            "mobile_text_size": 3,
-            "flex_align": "align--middle-center",
-            "bg_color": "",
-            "color": "#ffffff",
-            "link_text": "",
-            "link": "",
-            "button_type": "btn--primary",
-            "button_size": "",
-            "button_style": "btn--solid",
-            "show_arrow": false
-          }
-        },
         "text_dMftbF": {
           "type": "text",
           "settings": {
@@ -710,11 +686,35 @@
             "bg_color": "#f5f3ef",
             "color": ""
           }
+        },
+        "image_BME9Ur": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/IMG_9172.jpg",
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "show_overlay_text": false,
+            "title": "",
+            "heading_size": 7,
+            "mobile_heading_size": 4,
+            "description": "",
+            "text_size": 3,
+            "mobile_text_size": 3,
+            "flex_align": "align--middle-center",
+            "bg_color": "",
+            "color": "#ffffff",
+            "link_text": "",
+            "link": "",
+            "button_type": "btn--primary",
+            "button_size": "",
+            "button_style": "btn--solid",
+            "show_arrow": false
+          }
         }
       },
       "block_order": [
-        "image_BME9Ur",
-        "text_dMftbF"
+        "text_dMftbF",
+        "image_BME9Ur"
       ],
       "settings": {
         "height": "screen-height-one-half",
