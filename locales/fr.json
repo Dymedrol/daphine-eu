@@ -46,7 +46,7 @@
       "submit": "S'inscrire",
       "placeholder": "Adresse e-mail",
       "thank_you": "Merci! Vous recevrez un email de notre part bientôt.",
-      "thank_you_with_code_html": "Merci pour votre inscription! Vous pouvez utiliser ce code <span>Remise de 10 %<\/span> pour votre prochaine commande !",
+      "thank_you_with_code_html": "Merci pour votre inscription! Vous pouvez utiliser ce code <span>Remise de 10 %</span> pour votre prochaine commande !",
       "error_message": "Ce client est déjà inscrit !"
     },
     "search": {
@@ -378,10 +378,10 @@
       "news_title": "Nouvelles récentes"
     },
     "onboarding": {
-      "no_products_html": "Vous n'avez pas de produit dans votre collection Frontpage. Ce message apparaitra jusqu'à ce qu'un produit soit <a href=\"\/admin\/custom_collections\">ajouté à cette collection<\/a>.",
+      "no_products_html": "Vous n'avez pas de produit dans votre collection Frontpage. Ce message apparaitra jusqu'à ce qu'un produit soit <a href=\"/admin/custom_collections\">ajouté à cette collection</a>.",
       "add_product": "Ajouter un produit",
       "product_title": "Titre du produit",
-      "no_collections_html": "Vous n'avez pas de collection à afficher ici. <a href=\"\/admin\/custom_collections\">Ajoutez une ou plusieurs collections<\/a> pour compléter la page d'accueil par défaut.",
+      "no_collections_html": "Vous n'avez pas de collection à afficher ici. <a href=\"/admin/custom_collections\">Ajoutez une ou plusieurs collections</a> pour compléter la page d'accueil par défaut.",
       "no_description": "Ceci est un exemple de description d'un produit. Une fois que vous avez ajouté un produit, ce texte va changer.",
       "no_content": "Cette section ne contient actuellement aucun contenu. Ajoutez-en en utilisant la barre latérale.",
       "collection_image": "Image de la collection",
@@ -437,7 +437,7 @@
       "see_all": "Voir tout",
       "to": "À",
       "complementary_products_title": "Se marie bien avec",
-      "upsell_title": "Complétez le look:",
+      "upsell_title": "Vous aimerez aussi:",
       "upsell_add_to_cart": "Ajouter",
       "upsell_out_of_stock": "Rupture de stock",
       "upsell_error_title": "Choisissez un produit de vente incitative",
@@ -483,8 +483,8 @@
         "view_store_info": "Afficher les informations de la boutique",
         "check_other_stores": "Vérifier la disponibilité dans d'autres boutiques",
         "pick_up_available": "Service de retrait disponible",
-        "pick_up_available_at_html": "Service de retrait disponible à <strong>{{ location_name }}<\/strong>",
-        "pick_up_unavailable_at_html": "Service de retrait non disponible actuellement à <strong>{{ location_name }}<\/strong>",
+        "pick_up_available_at_html": "Service de retrait disponible à <strong>{{ location_name }}</strong>",
+        "pick_up_unavailable_at_html": "Service de retrait non disponible actuellement à <strong>{{ location_name }}</strong>",
         "unavailable": "Impossible de charger la disponibilité du service de retrait",
         "refresh": "Actualiser"
       }
