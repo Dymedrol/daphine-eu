@@ -218,6 +218,11 @@
             "color": "#212121",
             "padding_bottom": 16
           }
+        },
+        "drop_hint_2_0_app_dah_WfNacY": {
+          "type": "shopify://apps/drop-hint-2-0/blocks/app_dah/2087e30d-3884-4008-9b6b-545028750b80",
+          "settings": {
+          }
         }
       },
       "block_order": [
@@ -241,7 +246,8 @@
         "514a386f-5539-4dea-ac18-97ee59d12052",
         "divider_gkxfDQ",
         "5e8c2c50-6be8-439e-9c17-2d15838b33f6",
-        "features_gpe9Xx"
+        "features_gpe9Xx",
+        "drop_hint_2_0_app_dah_WfNacY"
       ],
       "custom_css": [
 
