@@ -1,5 +1,34 @@
 <!-- /sections/product.liquid -->
 
+<style>
+  .product__block.product__block--buttons {
+    --block-padding-bottom: 12px !important;
+  }
+  
+  #u_content_button_cta {
+    font-weight: 500 !important; 
+    letter-spacing: 1px !important;
+  }
+  #u_content_button_cta span {
+    line-height: 23px !important;
+  }
+  
+  .v-text-align img {
+    width: 24px !important;
+    margin-right: 4px;
+  }
+
+  .u-popup-overlay {
+    background-color: rgba(245,243,239,0.09) !important;
+  }
+
+  .u-popup-main {
+    border-radius: 20px !important;
+    border: 1px solid #f5f3ef !important;
+  }
+  
+</style>
+
 {%- liquid
   assign current_variant = product.selected_or_first_available_variant
   assign show_cart_bar = false
