@@ -75,6 +75,14 @@
           "settings": {
           }
         },
+        "514a386f-5539-4dea-ac18-97ee59d12052": {
+          "type": "divider",
+          "settings": {
+            "show_line": true,
+            "padding_top": 20,
+            "padding_bottom": 20
+          }
+        },
         "tabs": {
           "type": "tab_richtext",
           "settings": {
@@ -186,15 +194,6 @@
             "padding_bottom": 32
           }
         },
-        "514a386f-5539-4dea-ac18-97ee59d12052": {
-          "type": "divider",
-          "disabled": true,
-          "settings": {
-            "show_line": true,
-            "padding_top": 20,
-            "padding_bottom": 20
-          }
-        },
         "divider_gkxfDQ": {
           "type": "divider",
           "settings": {
@@ -234,6 +233,7 @@
         "text_Kexej3",
         "buttons",
         "drop_hint_2_0_app_dah_WfNacY",
+        "514a386f-5539-4dea-ac18-97ee59d12052",
         "tabs",
         "upsell",
         "divider_1",
@@ -244,7 +244,6 @@
         "icon_1",
         "icon_EKrF8n",
         "pickup",
-        "514a386f-5539-4dea-ac18-97ee59d12052",
         "divider_gkxfDQ",
         "5e8c2c50-6be8-439e-9c17-2d15838b33f6",
         "features_gpe9Xx"
