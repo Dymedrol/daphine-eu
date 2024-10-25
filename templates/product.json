@@ -61,6 +61,14 @@
             "padding_bottom": 16
           }
         },
+        "siblings_8a4VCJ": {
+          "type": "siblings",
+          "settings": {
+            "siblings_collection": "",
+            "sibling_color": "",
+            "padding_bottom": 16
+          }
+        },
         "buttons": {
           "type": "buttons",
           "settings": {
@@ -231,6 +239,7 @@
         "variants",
         "26009e0d-38df-4486-a189-272664f3a0d7",
         "text_Kexej3",
+        "siblings_8a4VCJ",
         "buttons",
         "drop_hint_2_0_app_dah_WfNacY",
         "514a386f-5539-4dea-ac18-97ee59d12052",
