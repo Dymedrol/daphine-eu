@@ -69,6 +69,14 @@
             "padding_bottom": 16
           }
         },
+        "divider_1": {
+          "type": "divider",
+          "settings": {
+            "show_line": true,
+            "padding_top": 20,
+            "padding_bottom": 10
+          }
+        },
         "buttons": {
           "type": "buttons",
           "settings": {
@@ -114,15 +122,6 @@
           "settings": {
             "upsell_product": "{{ product.metafields.related_products.product1.value }}",
             "bg_color": "rgba(0,0,0,0)",
-            "padding_bottom": 16
-          }
-        },
-        "divider_1": {
-          "type": "divider",
-          "disabled": true,
-          "settings": {
-            "show_line": true,
-            "padding_top": 20,
             "padding_bottom": 16
           }
         },
@@ -240,12 +239,12 @@
         "26009e0d-38df-4486-a189-272664f3a0d7",
         "text_Kexej3",
         "siblings_8a4VCJ",
+        "divider_1",
         "buttons",
         "drop_hint_2_0_app_dah_WfNacY",
         "514a386f-5539-4dea-ac18-97ee59d12052",
         "tabs",
         "upsell",
-        "divider_1",
         "text_9PFz7U",
         "icon_2",
         "a0a8b781-007b-449f-96dc-8c58cf6e5f55",
