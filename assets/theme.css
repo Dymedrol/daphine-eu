@@ -10988,6 +10988,9 @@ body {
   padding: 0 calc(var(--inner) / 2);
   background-color: var(--COLOR-BG);
   transition: opacity 0.3s ease, visibility 0.3s;
+  visibility: visible;
+  opacity: 1;
+  pointer-events: auto;
 }
 .radio__fieldset--small .radio__button label {
   padding: 5px;
@@ -11010,6 +11013,14 @@ body {
   padding: 5px 0;
   margin: 0 5px;
   cursor: pointer;
+}
+@media only screen and (max-width: 480px) {
+  .radio__fieldset--small .swatch__button {
+    --swatch-size: 20px;
+    padding: 7px 0;
+    margin: 0 3px;
+    cursor: pointer;
+  }
 }
 .radio__fieldset--small .swatch__button input:checked ~ label {
   margin: 0;
@@ -11186,6 +11197,7 @@ body {
 .swatch__button .sibling__link--current,
 .swatch__button input:checked ~ label {
   overflow: initial;
+  border: 1px solid #000;
 }
 
 .swatch__button .sibling__link--current:after,
@@ -11482,6 +11494,7 @@ body {
   font-style: var(--FONT-STYLE-BODY-ITALIC);
   transition: opacity 0.3s ease, visibility 0.3s;
   cursor: pointer;
+  opacity: 0;
 }
 .no-js .product-item__swatches__count {
   position: relative;

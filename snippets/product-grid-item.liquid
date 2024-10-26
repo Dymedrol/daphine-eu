@@ -140,8 +140,10 @@
                 data-sibling-price="{{ sib_product_price | strip_html }}"
                 data-sibling-cutline="{{ sib_product.metafields.theme.cutline | strip_html | escape }}"
                 data-sibling-image="{{ sib_product.featured_media.preview_image.src | image_url }}">
-                <div class="sibling__link{{ current_class }}">
-                  {%- render 'image', image: sib_product.featured_media.preview_image, widths: '26, 52, 78, 104', aspect_ratio: 1 -%}
+                <div class="sibling__link{{ current_class }}" style="background-color: {{ sib_product.metafields.theme.sibling-color-hex.value }}">
+                  {% if  sib_product.metafields.theme.siblings_image.value %}
+                    {%- render 'image', image:  sib_product.metafields.theme.siblings_image.value, widths: '26, 52, 78, 104', aspect_ratio: 1 -%}
+                  {% endif %}
                 </div>
               </div>
             {%- endfor -%}
@@ -418,13 +420,6 @@
         <p class="product-item__title">{{ product.title | strip_html | escape }}</p>
 
         <div class="product-item__price__holder{% if has_siblings %} has-siblings{% endif %}">
-          {%- if has_siblings or product_item_cutline != blank -%}
-            <span class="product-item__cutline" data-product-cutline>{{ product_item_cutline }}</span>
-          {%- endif -%}
-
-          {%- if has_siblings -%}
-            <span class="product-item__sep">&#8212;</span>
-          {%- endif -%}
 
           <div class="product-item__price" data-product-price>
             {% comment %} Price on product grid item {% endcomment %}
