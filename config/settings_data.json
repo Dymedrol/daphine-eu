@@ -61,7 +61,7 @@
     "quickview_enable": true,
     "form_style": "modern",
     "show_lines": false,
-    "swatch_style": "square",
+    "swatch_style": "circle",
     "favicon": "shopify://shop_images/FAVICON_LOGO.png",
     "enable_order_notes": false,
     "enable_gift_notes": false,
