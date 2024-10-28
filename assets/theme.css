@@ -11139,7 +11139,7 @@ body {
 /* = swatch button specific = */
 .swatch__button {
   --swatch: #CCC;
-  --swatch-size: 32px;
+  --swatch-size: 26px;
   --swatch-outline-offset: 3px;
   display: inline-block;
   padding: 5px 0;
