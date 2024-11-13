@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "type": "footer",
   "name": "Footer",
@@ -44,7 +44,7 @@
           "type": "newsletter",
           "settings": {
             "title": "",
-            "text": "<h6>Receive 15% off your first order </h6><p>By signing up, you agree to our <a href=\"/pages/privacy-policy\" target=\"_blank\" title=\"PRIVACY POLICY\">Privacy & Policy *</a></p>",
+            "text": "<h6>Receive 10% off your first order </h6><p>By signing up, you agree to our <a href=\"/pages/privacy-policy\" target=\"_blank\" title=\"PRIVACY POLICY\">Privacy & Policy *</a></p>",
             "show_name": false,
             "button_text": "Join",
             "show_arrow": false,
