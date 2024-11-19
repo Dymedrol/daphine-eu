@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "section_hero_kUNNiF": {
@@ -15,7 +15,7 @@
         "heading_CJyGjY": {
           "type": "heading",
           "settings": {
-            "title": "Inspired by the classics",
+            "title": "The Gift Shop",
             "heading_size": 8,
             "mobile_heading_size": 7
           }
@@ -33,10 +33,10 @@
         "button_y9YkFT": {
           "type": "button",
           "settings": {
-            "link_text": "DISCOVER",
-            "link": "shopify://collections/aw24",
+            "link_text": "EXPLORE NOW",
+            "link": "shopify://pages/gift-guide-1",
             "button_type": "btn--white",
-            "button_size": "",
+            "button_size": "btn--small",
             "button_style": "btn--text",
             "show_arrow": false
           }
@@ -50,10 +50,10 @@
       "settings": {
         "height": "image-height",
         "width": "wrapper--full",
-        "image_1": "shopify://shop_images/Screenshot_2024-09-27_at_11.41.48.png",
-        "mobile_height": "screen-height-two-thirds--mobile",
-        "mobile_image": "shopify://shop_images/Daphine_Cleo-earrings-4_c6530df3-2e28-493b-a5e1-735ffb776a03.jpg",
-        "flex_align": "align--bottom-center",
+        "image_1": "shopify://shop_images/Chris_tennis_necklace_1.jpg",
+        "mobile_height": "image-height--mobile",
+        "mobile_image": "shopify://shop_images/Daphine_Chris_tennis_necklace_15.45.54.jpg",
+        "flex_align": "align--middle-center",
         "overlay_opacity": 0,
         "overlay_color": "#000000",
         "show_overlay_text": false,
@@ -108,16 +108,16 @@
     "section_collection_rQrqQm": {
       "type": "section-collection",
       "settings": {
-        "heading": "New Arrivals",
+        "heading": "Bestsellers",
         "description": "",
         "layout": "inline",
         "link_text": "Explore All",
-        "link_url": "shopify://collections/aw24",
+        "link_url": "shopify://collections/classics",
         "button_type": "btn--primary",
         "button_size": "btn--small",
         "button_style": "btn--text",
         "show_arrow": false,
-        "featured_collection": "aw24",
+        "featured_collection": "classics",
         "style": "slider",
         "grid": 3,
         "rows": 3,
@@ -131,15 +131,15 @@
     "21a05252-aed6-490f-aa5f-589a9685314f": {
       "type": "section-highlights",
       "blocks": {
-        "template--17234605211894__21a05252-aed6-490f-aa5f-589a9685314f-highlight-1": {
+        "template--17234605211894__21a05252-aed6-490f-aa5f-589a9685314f-highlight-3": {
           "type": "highlight",
           "settings": {
-            "heading": "New In",
-            "url": "shopify://collections/aw24",
-            "image": "shopify://shop_images/Daphine_Sabine-ear-cuff_2_2.jpg",
-            "color": "#000000",
-            "bg_color": "#f5f3ef",
-            "border_color": "rgba(0,0,0,0)"
+            "heading": "Earrings",
+            "url": "shopify://collections/earrings",
+            "image": "shopify://shop_images/Daphine_Oli_hoops_Oli_hoops_mini.jpg",
+            "color": "#ffffff",
+            "bg_color": "#f0f0f0",
+            "border_color": ""
           }
         },
         "template--17234605211894__21a05252-aed6-490f-aa5f-589a9685314f-highlight-2": {
@@ -147,21 +147,33 @@
           "settings": {
             "heading": "Necklaces",
             "url": "shopify://collections/necklaces",
-            "image": "shopify://shop_images/Daphine_Agathe-necklace_gold-2_2d5a3e48-11fe-4217-abf5-8cfad243bf89.jpg",
-            "color": "#212121",
+            "image": "shopify://shop_images/Vita_necklace_Steffi_necklace.jpg",
+            "color": "#ffffff",
             "bg_color": "#f5f3ef",
             "border_color": ""
           }
         },
-        "template--17234605211894__21a05252-aed6-490f-aa5f-589a9685314f-highlight-3": {
+        "highlight_e7xX9L": {
           "type": "highlight",
           "settings": {
-            "heading": "Earrings",
-            "url": "shopify://collections/earrings",
-            "image": "shopify://shop_images/Daphine_Ella-earrings_cdbe9aee-1add-43c3-8291-9e897021ecfa.jpg",
-            "color": "#000000",
+            "heading": "Bracelets",
+            "url": "shopify://collections/bracelets",
+            "image": "shopify://shop_images/Daphine_Mene_bangle.jpg",
+            "color": "#ffffff",
             "bg_color": "#f0f0f0",
             "border_color": ""
+          }
+        },
+        "template--17234605211894__21a05252-aed6-490f-aa5f-589a9685314f-highlight-1": {
+          "type": "highlight",
+          "disabled": true,
+          "settings": {
+            "heading": "New In",
+            "url": "shopify://collections/aw24",
+            "image": "shopify://shop_images/Daphine_Sabine-ear-cuff_2_2.jpg",
+            "color": "#000000",
+            "bg_color": "#f5f3ef",
+            "border_color": "rgba(0,0,0,0)"
           }
         },
         "highlight_eEQKjR": {
@@ -175,26 +187,14 @@
             "bg_color": "#f0f0f0",
             "border_color": ""
           }
-        },
-        "highlight_e7xX9L": {
-          "type": "highlight",
-          "disabled": true,
-          "settings": {
-            "heading": "Bracelets",
-            "url": "shopify://collections/bracelets",
-            "image": "shopify://shop_images/Daphine_Chris_Bracelet_5mm_2.jpg",
-            "color": "#ffffff",
-            "bg_color": "#f0f0f0",
-            "border_color": ""
-          }
         }
       },
       "block_order": [
-        "template--17234605211894__21a05252-aed6-490f-aa5f-589a9685314f-highlight-1",
-        "template--17234605211894__21a05252-aed6-490f-aa5f-589a9685314f-highlight-2",
         "template--17234605211894__21a05252-aed6-490f-aa5f-589a9685314f-highlight-3",
-        "highlight_eEQKjR",
-        "highlight_e7xX9L"
+        "template--17234605211894__21a05252-aed6-490f-aa5f-589a9685314f-highlight-2",
+        "highlight_e7xX9L",
+        "template--17234605211894__21a05252-aed6-490f-aa5f-589a9685314f-highlight-1",
+        "highlight_eEQKjR"
       ],
       "custom_css": [
         ".highlights__item__content {top: unset !important; bottom: 0; font-family: var(--FONT-STACK-HEADING); font-style: var(--FONT-STYLE-HEADING); font-weight: var(--FONT-WEIGHT-HEADING); font-size: calc(var(--font-5) * var(--FONT-ADJUST-HEADING));}"
@@ -211,17 +211,6 @@
         "bg_color": "#ffffff",
         "layout_mobile": "1",
         "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
-    "section_divider_BxE4qe": {
-      "type": "section-divider",
-      "settings": {
-        "show_line": true,
-        "width": "wrapper",
-        "border_color": "",
-        "bg_color": "",
-        "padding_top": 64,
         "padding_bottom": 0
       }
     },
@@ -263,9 +252,7 @@
         "button"
       ],
       "disabled": true,
-      "custom_css": [
-
-      ],
+      "custom_css": [],
       "settings": {
         "height": "sixty-fifty-height-hero",
         "width": "wrapper--full",
@@ -280,10 +267,85 @@
         "color": "#ffffff"
       }
     },
+    "featured-collection": {
+      "type": "section-collection",
+      "settings": {
+        "heading": "New Arrivals",
+        "description": "",
+        "layout": "inline",
+        "link_text": "explore all",
+        "link_url": "shopify://collections/aw24",
+        "button_type": "btn--primary",
+        "button_size": "btn--small",
+        "button_style": "btn--text",
+        "show_arrow": false,
+        "featured_collection": "aw24",
+        "style": "slider",
+        "grid": 4,
+        "rows": 1,
+        "layout_mobile": "carousel",
+        "bg_color": "#ffffff",
+        "color": "#212121",
+        "padding_top": 60,
+        "padding_bottom": 50
+      }
+    },
     "section_hero_URDUxU": {
       "type": "section-hero",
       "blocks": {
         "heading_aGHd8j": {
+          "type": "heading",
+          "settings": {
+            "title": "Our Gift Edit",
+            "heading_size": 7,
+            "mobile_heading_size": 6
+          }
+        },
+        "button_ih9XxF": {
+          "type": "button",
+          "settings": {
+            "link_text": "EXPLORE",
+            "link": "shopify://pages/gift-guide-1",
+            "button_type": "btn--white",
+            "button_size": "",
+            "button_style": "btn--text",
+            "show_arrow": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_aGHd8j",
+        "button_ih9XxF"
+      ],
+      "settings": {
+        "height": "image-height",
+        "width": "wrapper--full",
+        "image_1": "shopify://shop_images/Daphine_Packaging_pink_pouch_gift_box_2.jpg",
+        "mobile_height": "image-height--mobile",
+        "mobile_image": "shopify://shop_images/Daphine_Packaging_pink_pouch_gift_box.jpg",
+        "flex_align": "align--middle-center",
+        "overlay_opacity": 0,
+        "overlay_color": "#000000",
+        "show_overlay_text": false,
+        "bg_color": "",
+        "color": "#ffffff"
+      }
+    },
+    "section_divider_KBcpKn": {
+      "type": "section-divider",
+      "settings": {
+        "show_line": false,
+        "width": "wrapper",
+        "border_color": "",
+        "bg_color": "",
+        "padding_top": 64,
+        "padding_bottom": 0
+      }
+    },
+    "section_hero_zKYGnw": {
+      "type": "section-hero",
+      "blocks": {
+        "heading_AxptQF": {
           "type": "heading",
           "settings": {
             "title": "Daphine x Monikh Vol.ii",
@@ -291,7 +353,7 @@
             "mobile_heading_size": 6
           }
         },
-        "button_ih9XxF": {
+        "button_ymXiiq": {
           "type": "button",
           "settings": {
             "link_text": "DISCOVER",
@@ -304,8 +366,8 @@
         }
       },
       "block_order": [
-        "heading_aGHd8j",
-        "button_ih9XxF"
+        "heading_AxptQF",
+        "button_ymXiiq"
       ],
       "settings": {
         "height": "sixty-fifty-height-hero",
@@ -321,27 +383,15 @@
         "color": "#ffffff"
       }
     },
-    "featured-collection": {
-      "type": "section-collection",
+    "section_divider_FPKRhz": {
+      "type": "section-divider",
       "settings": {
-        "heading": "Bestsellers",
-        "description": "",
-        "layout": "inline",
-        "link_text": "explore all",
-        "link_url": "shopify://collections/classics",
-        "button_type": "btn--primary",
-        "button_size": "btn--small",
-        "button_style": "btn--text",
-        "show_arrow": false,
-        "featured_collection": "classics",
-        "style": "slider",
-        "grid": 4,
-        "rows": 1,
-        "layout_mobile": "carousel",
-        "bg_color": "#ffffff",
-        "color": "#212121",
-        "padding_top": 60,
-        "padding_bottom": 50
+        "show_line": false,
+        "width": "wrapper",
+        "border_color": "",
+        "bg_color": "",
+        "padding_top": 64,
+        "padding_bottom": 0
       }
     },
     "image-with-text": {
@@ -611,6 +661,7 @@
         "highlight_8pLMV9",
         "highlight_HzXViV"
       ],
+      "disabled": true,
       "custom_css": [
         ".highlights__item__content {top: unset !important; bottom: 0px; font-family: var(--FONT-STACK-HEADING); font-style: var(--FONT-STYLE-HEADING); font-weight: var(--FONT-WEIGHT-HEADING); font-size: 20px; padding-bottom: 10px;}"
       ],
@@ -798,9 +849,7 @@
         "9e819c58-40e4-4d4f-81f3-7dd5f365c5f8"
       ],
       "disabled": true,
-      "custom_css": [
-
-      ],
+      "custom_css": [],
       "settings": {
         "width": "wrapper",
         "align_text": "text-left",
@@ -816,10 +865,12 @@
     "080de123-cd67-4a8f-b095-390fa30c932d",
     "section_collection_rQrqQm",
     "21a05252-aed6-490f-aa5f-589a9685314f",
-    "section_divider_BxE4qe",
     "hero",
-    "section_hero_URDUxU",
     "featured-collection",
+    "section_hero_URDUxU",
+    "section_divider_KBcpKn",
+    "section_hero_zKYGnw",
+    "section_divider_FPKRhz",
     "image-with-text",
     "8c3fa3c0-64fa-406c-9f65-ced0a2e3da8f",
     "fe493672-9f35-432d-b991-0e3cbb9a08ba",
