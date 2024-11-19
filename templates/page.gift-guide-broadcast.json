@@ -33,46 +33,24 @@
         "template--16858200375542__9c12760c-73cd-48e6-8e16-45e5f3c30e40-heading-1": {
           "type": "heading",
           "settings": {
-            "title": "",
-            "heading_size": 11,
-            "mobile_heading_size": 11
-          }
-        },
-        "template--16858200375542__9c12760c-73cd-48e6-8e16-45e5f3c30e40-text-1": {
-          "type": "text",
-          "settings": {
-            "description": "",
-            "text_size": 5,
-            "mobile_text_size": 5,
-            "text_style": "font-body"
-          }
-        },
-        "template--16858200375542__9c12760c-73cd-48e6-8e16-45e5f3c30e40-button-1": {
-          "type": "button",
-          "settings": {
-            "link_text": "",
-            "link": "",
-            "button_type": "btn--primary",
-            "button_size": "",
-            "button_style": "btn--solid",
-            "show_arrow": false
+            "title": "The Gift Shop",
+            "heading_size": 9,
+            "mobile_heading_size": 6
           }
         }
       },
       "block_order": [
-        "template--16858200375542__9c12760c-73cd-48e6-8e16-45e5f3c30e40-heading-1",
-        "template--16858200375542__9c12760c-73cd-48e6-8e16-45e5f3c30e40-text-1",
-        "template--16858200375542__9c12760c-73cd-48e6-8e16-45e5f3c30e40-button-1"
+        "template--16858200375542__9c12760c-73cd-48e6-8e16-45e5f3c30e40-heading-1"
       ],
       "settings": {
         "height": "image-height",
         "width": "wrapper--full-padded",
-        "image_1": "shopify://shop_images/aw24_banner.png",
+        "image_1": "shopify://shop_images/Daphine_Chris_tennis_bracelet_2.jpg",
         "mobile_height": "image-height--mobile",
-        "flex_align": "align--middle-center",
-        "overlay_opacity": 0,
+        "flex_align": "align--bottom-center",
+        "overlay_opacity": 20,
         "overlay_color": "#000000",
-        "show_overlay_text": false,
+        "show_overlay_text": true,
         "bg_color": "",
         "color": "#ffffff"
       }
@@ -83,7 +61,7 @@
         "subheading_UJdRVf": {
           "type": "subheading",
           "settings": {
-            "subheading": "Introducing",
+            "subheading": "Featuring",
             "text_size": 3,
             "mobile_text_size": 3
           }
@@ -91,16 +69,16 @@
         "heading_XngMkz": {
           "type": "heading",
           "settings": {
-            "title": "Autumn/Winter '24",
-            "text_size": 6,
-            "mobile_text_size": 2
+            "title": "Gift With Meaning",
+            "text_size": 5,
+            "mobile_text_size": 3
           }
         },
         "text_9tMAM7": {
           "type": "text",
           "settings": {
-            "text": "<p>A celebration of the enduring allure of simple, strong design—crafted for the woman who knows the power of less. A harmonious combination of timeless elegance with modern glamour, redefining contemporary jewellery with an unwavering commitment to timelessness and modern sophistication.</p>",
-            "text_size": 4,
+            "text": "<p>Discover treasures filled with meaning and intention. Each piece, from sculptural forms to timeless essentials, designed to transcend seasons and resonate deeply. It’s a gesture, a keepsake, a memory waiting to unfold.</p>",
+            "text_size": 3,
             "mobile_text_size": 3,
             "text_style": "font-body"
           }
@@ -120,72 +98,21 @@
         "padding_bottom": 50
       }
     },
-    "section_collection_ah83E8": {
-      "type": "section-collection",
-      "settings": {
-        "heading": "",
-        "description": "",
-        "layout": "inline",
-        "link_text": "",
-        "link_url": "",
-        "button_type": "btn--primary",
-        "button_size": "",
-        "button_style": "btn--solid",
-        "show_arrow": false,
-        "featured_collection": "aw24-edit-1",
-        "style": "grid",
-        "grid": 4,
-        "rows": 1,
-        "layout_mobile": "2",
-        "bg_color": "",
-        "color": "",
-        "padding_top": 0,
-        "padding_bottom": 50
-      }
-    },
-    "section_hero_VUYWci": {
-      "type": "section-hero",
-      "blocks": {
-        "heading_kTFJ9b": {
-          "type": "heading",
-          "settings": {
-            "title": "Agathe Earrings",
-            "heading_size": 4,
-            "mobile_heading_size": 3
-          }
-        }
-      },
-      "block_order": [
-        "heading_kTFJ9b"
-      ],
-      "settings": {
-        "height": "seven-fifty-height-hero",
-        "width": "wrapper--full-padded",
-        "image_1": "shopify://shop_images/Still_2024-08-20_162725_1.167.2_copybw_1.jpg",
-        "mobile_height": "screen-height-one-half--mobile",
-        "flex_align": "align--bottom-left",
-        "overlay_opacity": 0,
-        "overlay_color": "#000000",
-        "show_overlay_text": false,
-        "bg_color": "",
-        "color": "#212121"
-      }
-    },
     "section_columns_zzqxbM": {
       "type": "section-columns",
       "blocks": {
         "image_dzAB3i": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Daphine_Agathe-earrings_silver_f53ba7aa-b0c0-4a70-83b8-0cd405c84d37.jpg",
+            "image": "shopify://shop_images/1300_1_11.22.37.jpg",
             "title": "",
             "heading_size": 3,
             "mobile_heading_size": 2,
-            "text": "<h6>Agathe Earrings in Silver</h6>",
+            "text": "<h6>Chris Tennis Necklace</h6>",
             "text_size": 3,
-            "mobile_text_size": 3,
+            "mobile_text_size": 2,
             "button_text": "SHOP",
-            "button_url": "shopify://products/agathe-earrings-silver",
+            "button_url": "shopify://products/chris-tennis-necklace",
             "button_type": "btn--primary",
             "button_size": "",
             "button_style": "btn--text",
@@ -195,15 +122,15 @@
         "image_pkVXwe": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Daphine_Agathe-necklace_gold-2_2d5a3e48-11fe-4217-abf5-8cfad243bf89.jpg",
+            "image": "shopify://shop_images/Daphine_Christy_Earrings_d15391a7-5cd3-4309-bc4f-1d0789f0c252.jpg",
             "title": "",
             "heading_size": 4,
             "mobile_heading_size": 4,
-            "text": "<h6>Agathe Necklace in Gold</h6>",
+            "text": "<h6>Christy Hoops</h6>",
             "text_size": 3,
-            "mobile_text_size": 3,
+            "mobile_text_size": 2,
             "button_text": "SHOP",
-            "button_url": "shopify://products/agathe-necklace-gold",
+            "button_url": "shopify://products/christy-hoops",
             "button_type": "btn--primary",
             "button_size": "",
             "button_style": "btn--text",
@@ -222,99 +149,111 @@
         "align_text": "text-center",
         "align_columns": "flex-align-center",
         "width": "wrapper",
-        "image_aspect_ratio": 1,
-        "mobile_image_aspect_ratio": 1,
+        "image_aspect_ratio": 1.2,
+        "mobile_image_aspect_ratio": 1.2,
         "bg_color": "",
         "color": "",
-        "padding_top": 50,
+        "padding_top": 0,
         "padding_bottom": 50,
         "layout_mobile": "grid"
       }
     },
-    "section_collection_RLtm6K": {
+    "section_collection_ah83E8": {
       "type": "section-collection",
       "settings": {
         "heading": "",
-        "description": "",
+        "description": "<h6>Most Wanted</h6>",
         "layout": "inline",
-        "link_text": "",
-        "link_url": "",
+        "link_text": "EXPLORE ALL",
+        "link_url": "shopify://collections/tennis-collection",
         "button_type": "btn--primary",
-        "button_size": "",
-        "button_style": "btn--solid",
+        "button_size": "btn--small",
+        "button_style": "btn--text",
         "show_arrow": false,
-        "featured_collection": "aw24-edit-2",
-        "style": "grid",
+        "featured_collection": "tennis-collection",
+        "style": "slider",
         "grid": 4,
         "rows": 1,
-        "layout_mobile": "2",
+        "layout_mobile": "carousel",
         "bg_color": "",
         "color": "",
-        "padding_top": 0,
+        "padding_top": 30,
         "padding_bottom": 50
       }
     },
-    "section_hero_gyHQxU": {
+    "section_hero_VUYWci": {
       "type": "section-hero",
       "blocks": {
-        "heading_tR6X3g": {
+        "heading_kTFJ9b": {
           "type": "heading",
           "settings": {
-            "title": "Sabine Ear Cuff",
+            "title": "Mene Bangle",
             "heading_size": 4,
             "mobile_heading_size": 3
+          }
+        },
+        "button_R3ViQy": {
+          "type": "button",
+          "settings": {
+            "link_text": "SHOP",
+            "link": "shopify://products/bangle",
+            "button_type": "btn--white",
+            "button_size": "btn--small",
+            "button_style": "btn--text",
+            "show_arrow": false
           }
         }
       },
       "block_order": [
-        "heading_tR6X3g"
+        "heading_kTFJ9b",
+        "button_R3ViQy"
       ],
       "settings": {
-        "height": "seven-fifty-height-hero",
+        "height": "image-height",
         "width": "wrapper--full-padded",
-        "image_1": "shopify://shop_images/Daphine_Sabine-ear-cuff_2.jpg",
-        "mobile_height": "screen-height-one-half--mobile",
+        "image_1": "shopify://shop_images/Daphine_Mene_bangle.jpg",
+        "mobile_height": "image-height--mobile",
         "flex_align": "align--bottom-left",
         "overlay_opacity": 0,
         "overlay_color": "#000000",
         "show_overlay_text": false,
         "bg_color": "",
-        "color": "#212121"
+        "color": "#ffffff"
       }
     },
-    "section_columns_4mq8DU": {
+    "section_columns_UQ6qG3": {
       "type": "section-columns",
       "blocks": {
-        "image_RdGLTT": {
+        "image_MHXffM": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Daphine_Fran-earrings_gold-2_201c13c3-8b4e-4cbd-a90a-c5671a15b1ff.jpg",
+            "image": "shopify://shop_images/Daphine017_MouneBangles.png",
             "title": "",
             "heading_size": 3,
             "mobile_heading_size": 2,
-            "text": "<h6>Fran Earrings in Gold</h6>",
+            "text": "<h6>Moune Bangles</h6>",
             "text_size": 3,
-            "mobile_text_size": 3,
+            "mobile_text_size": 2,
             "button_text": "SHOP",
-            "button_url": "shopify://products/fran-earrings-gold",
+            "button_url": "shopify://products/moune-bangles",
             "button_type": "btn--primary",
             "button_size": "",
             "button_style": "btn--text",
             "show_arrow": false
           }
         },
-        "image_gLxCpp": {
+        "image_ijx4hj": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Daphine_Fran-earrings_silver_fea19034-13a6-4956-a1d2-a73b5f621961.jpg",
+            "image": "shopify://shop_images/Copy_of_Daphine04_Mini_Oli_Hoops.png",
             "title": "",
             "heading_size": 4,
             "mobile_heading_size": 4,
-            "text": "<h6>Fran Earrings in Silver</h6>",
+            "text": "<h6>Oli Hoops Mini</h6>",
             "text_size": 3,
-            "mobile_text_size": 3,
+            "mobile_text_size": 2,
             "button_text": "SHOP",
-            "button_url": "shopify://products/fran-earrings-silver",
+            "button_url": "shopify://products/mini-oli-hoops",
             "button_type": "btn--primary",
             "button_size": "",
             "button_style": "btn--text",
@@ -323,8 +262,8 @@
         }
       },
       "block_order": [
-        "image_RdGLTT",
-        "image_gLxCpp"
+        "image_MHXffM",
+        "image_ijx4hj"
       ],
       "settings": {
         "title": "",
@@ -333,8 +272,8 @@
         "align_text": "text-center",
         "align_columns": "flex-align-center",
         "width": "wrapper",
-        "image_aspect_ratio": 1,
-        "mobile_image_aspect_ratio": 1,
+        "image_aspect_ratio": 1.2,
+        "mobile_image_aspect_ratio": 1.2,
         "bg_color": "",
         "color": "",
         "padding_top": 50,
@@ -342,90 +281,104 @@
         "layout_mobile": "grid"
       }
     },
-    "section_collection_idyqiA": {
-      "type": "section-collection",
-      "settings": {
-        "heading": "",
-        "description": "",
-        "layout": "inline",
-        "link_text": "",
-        "link_url": "",
-        "button_type": "btn--primary",
-        "button_size": "",
-        "button_style": "btn--solid",
-        "show_arrow": false,
-        "featured_collection": "aw24-edit-3",
-        "style": "grid",
-        "grid": 4,
-        "rows": 1,
-        "layout_mobile": "2",
-        "bg_color": "",
-        "color": "",
-        "padding_top": 0,
-        "padding_bottom": 50
-      }
-    },
-    "section_hero_E7YGiJ": {
+    "section_hero_6gRDy4": {
       "type": "section-hero",
       "blocks": {
-        "heading_DBAhhH": {
+        "heading_cDAEed": {
           "type": "heading",
+          "disabled": true,
           "settings": {
-            "title": "Ella Ring",
+            "title": "Mene Bangle",
             "heading_size": 4,
             "mobile_heading_size": 3
+          }
+        },
+        "button_hCLQ6L": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "link_text": "SHOP",
+            "link": "shopify://products/bangle",
+            "button_type": "btn--white",
+            "button_size": "btn--small",
+            "button_style": "btn--text",
+            "show_arrow": false
           }
         }
       },
       "block_order": [
-        "heading_DBAhhH"
+        "heading_cDAEed",
+        "button_hCLQ6L"
       ],
       "settings": {
-        "height": "seven-fifty-height-hero",
+        "height": "image-height",
         "width": "wrapper--full-padded",
-        "image_1": "shopify://shop_images/Daphine_Ella-ring_Ella-earrings.jpg",
-        "mobile_height": "screen-height-one-half--mobile",
+        "image_1": "shopify://shop_images/Daphine_Jewellery_0393_copy_2.jpg",
+        "mobile_height": "image-height--mobile",
         "flex_align": "align--bottom-left",
         "overlay_opacity": 0,
         "overlay_color": "#000000",
         "show_overlay_text": false,
         "bg_color": "",
-        "color": "#212121"
+        "color": "#ffffff"
       }
     },
-    "section_columns_mBtf8m": {
+    "section_collection_WYgVHn": {
+      "type": "section-collection",
+      "settings": {
+        "heading": "",
+        "description": "<h6>Statement Earrings</h6>",
+        "layout": "inline",
+        "link_text": "EXPLORE ALL",
+        "link_url": "shopify://collections/statement-earrings-1",
+        "button_type": "btn--primary",
+        "button_size": "btn--small",
+        "button_style": "btn--text",
+        "show_arrow": false,
+        "featured_collection": "statement-earrings-1",
+        "style": "slider",
+        "grid": 4,
+        "rows": 1,
+        "layout_mobile": "carousel",
+        "bg_color": "",
+        "color": "",
+        "padding_top": 30,
+        "padding_bottom": 0
+      }
+    },
+    "section_columns_PaymGa": {
       "type": "section-columns",
       "blocks": {
-        "image_T9Y4KN": {
+        "image_fiQLYX": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Daphine_Cleo-earrings-4_3184c312-2616-4cfc-bb90-86f4ce6cf192.jpg",
+            "image": "shopify://shop_images/Daphine_Chris_tennis_bracelet_3.jpg",
             "title": "",
             "heading_size": 3,
             "mobile_heading_size": 2,
-            "text": "<h6>Cleo Earrings</h6>",
+            "text": "<h6>Chris Tennis Bracelet</h6>",
             "text_size": 3,
-            "mobile_text_size": 3,
+            "mobile_text_size": 2,
             "button_text": "SHOP",
-            "button_url": "shopify://products/cleo-earrings",
+            "button_url": "shopify://products/chris-tennis-bracelet",
             "button_type": "btn--primary",
             "button_size": "",
             "button_style": "btn--text",
             "show_arrow": false
           }
         },
-        "image_xLUVnV": {
+        "image_CrFYya": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Still_2024-08-17_212505_1.170.1_copybw_1_copy.jpg",
+            "image": "shopify://shop_images/Daphine_Chris_tennis_necklace_Laurita_pinky_ring_Chris_tennis_bracelet_2.jpg",
             "title": "",
             "heading_size": 4,
             "mobile_heading_size": 4,
-            "text": "<h6>Agathe Necklace in Silver</h6>",
+            "text": "<h6>Laurita Pinky Ring</h6>",
             "text_size": 3,
-            "mobile_text_size": 3,
+            "mobile_text_size": 2,
             "button_text": "SHOP",
-            "button_url": "shopify://products/agathe-necklace-silver",
+            "button_url": "shopify://products/laurita-pinky-bling-ring",
             "button_type": "btn--primary",
             "button_size": "",
             "button_style": "btn--text",
@@ -434,8 +387,8 @@
         }
       },
       "block_order": [
-        "image_T9Y4KN",
-        "image_xLUVnV"
+        "image_fiQLYX",
+        "image_CrFYya"
       ],
       "settings": {
         "title": "",
@@ -444,13 +397,118 @@
         "align_text": "text-center",
         "align_columns": "flex-align-center",
         "width": "wrapper",
-        "image_aspect_ratio": 1,
-        "mobile_image_aspect_ratio": 1,
+        "image_aspect_ratio": 1.2,
+        "mobile_image_aspect_ratio": 1.2,
         "bg_color": "",
         "color": "",
         "padding_top": 50,
         "padding_bottom": 50,
         "layout_mobile": "grid"
+      }
+    },
+    "section_hero_pLzh9H": {
+      "type": "section-hero",
+      "blocks": {
+        "heading_AKUkQh": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "title": "Mene Bangle",
+            "heading_size": 4,
+            "mobile_heading_size": 3
+          }
+        },
+        "button_q7bpzX": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "link_text": "SHOP",
+            "link": "shopify://products/bangle",
+            "button_type": "btn--white",
+            "button_size": "btn--small",
+            "button_style": "btn--text",
+            "show_arrow": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_AKUkQh",
+        "button_q7bpzX"
+      ],
+      "settings": {
+        "height": "image-height",
+        "width": "wrapper--full-padded",
+        "image_1": "shopify://shop_images/NECKLACES_ON_BROWN_2.jpg",
+        "mobile_height": "image-height--mobile",
+        "flex_align": "align--bottom-left",
+        "overlay_opacity": 0,
+        "overlay_color": "#000000",
+        "show_overlay_text": false,
+        "bg_color": "",
+        "color": "#ffffff"
+      }
+    },
+    "section_collection_Txj4ii": {
+      "type": "section-collection",
+      "settings": {
+        "heading": "",
+        "description": "<h6>Statement Necklaces</h6>",
+        "layout": "inline",
+        "link_text": "EXPLORE ALL",
+        "link_url": "shopify://collections/statement-necklaces",
+        "button_type": "btn--primary",
+        "button_size": "btn--small",
+        "button_style": "btn--text",
+        "show_arrow": false,
+        "featured_collection": "statement-necklaces",
+        "style": "slider",
+        "grid": 4,
+        "rows": 1,
+        "layout_mobile": "carousel",
+        "bg_color": "",
+        "color": "",
+        "padding_top": 50,
+        "padding_bottom": 0
+      }
+    },
+    "section_hero_JEi3b8": {
+      "type": "section-hero",
+      "blocks": {
+        "heading_tA9CeW": {
+          "type": "heading",
+          "settings": {
+            "title": "Chris Tennis Necklace",
+            "heading_size": 4,
+            "mobile_heading_size": 3
+          }
+        },
+        "button_G8Pk3y": {
+          "type": "button",
+          "settings": {
+            "link_text": "SHOP",
+            "link": "shopify://products/bangle",
+            "button_type": "btn--white",
+            "button_size": "btn--small",
+            "button_style": "btn--text",
+            "show_arrow": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_tA9CeW",
+        "button_G8Pk3y"
+      ],
+      "settings": {
+        "height": "image-height",
+        "width": "wrapper--full-padded",
+        "image_1": "shopify://shop_images/NECKLACES_ON_BROWN_2.jpg",
+        "mobile_height": "image-height--mobile",
+        "flex_align": "align--bottom-left",
+        "overlay_opacity": 0,
+        "overlay_color": "#000000",
+        "show_overlay_text": false,
+        "bg_color": "",
+        "color": "#ffffff"
       }
     },
     "text_promo_NBcJRi": {
@@ -488,15 +546,16 @@
     "main",
     "9c12760c-73cd-48e6-8e16-45e5f3c30e40",
     "section_rich_text_QqaqCd",
+    "section_columns_zzqxbM",
     "section_collection_ah83E8",
     "section_hero_VUYWci",
-    "section_columns_zzqxbM",
-    "section_collection_RLtm6K",
-    "section_hero_gyHQxU",
-    "section_columns_4mq8DU",
-    "section_collection_idyqiA",
-    "section_hero_E7YGiJ",
-    "section_columns_mBtf8m",
+    "section_columns_UQ6qG3",
+    "section_hero_6gRDy4",
+    "section_collection_WYgVHn",
+    "section_columns_PaymGa",
+    "section_hero_pLzh9H",
+    "section_collection_Txj4ii",
+    "section_hero_JEi3b8",
     "text_promo_NBcJRi"
   ]
 }
