@@ -448,27 +448,27 @@
         "color": "#ffffff"
       }
     },
-    "section_collection_Txj4ii": {
+    "section_collection_H3fTM6": {
       "type": "section-collection",
       "settings": {
-        "heading": "Bestsellers",
-        "description": "",
-        "layout": "center",
-        "link_text": "",
-        "link_url": "",
+        "heading": "",
+        "description": "<h6>Statement Necklaces</h6>",
+        "layout": "inline",
+        "link_text": "EXPLORE ALL",
+        "link_url": "shopify://collections/statement-necklaces",
         "button_type": "btn--primary",
-        "button_size": "",
-        "button_style": "btn--solid",
+        "button_size": "btn--small",
+        "button_style": "btn--text",
         "show_arrow": false,
-        "featured_collection": "gift-guide-bestsellers",
-        "style": "grid",
+        "featured_collection": "statement-necklaces",
+        "style": "slider",
         "grid": 4,
-        "rows": 2,
-        "layout_mobile": "2",
+        "rows": 1,
+        "layout_mobile": "carousel",
         "bg_color": "",
         "color": "",
-        "padding_top": 50,
-        "padding_bottom": 50
+        "padding_top": 30,
+        "padding_bottom": 0
       }
     },
     "section_hero_JEi3b8": {
@@ -509,6 +509,29 @@
         "show_overlay_text": false,
         "bg_color": "",
         "color": "#ffffff"
+      }
+    },
+    "section_collection_Txj4ii": {
+      "type": "section-collection",
+      "settings": {
+        "heading": "Bestsellers",
+        "description": "",
+        "layout": "center",
+        "link_text": "",
+        "link_url": "",
+        "button_type": "btn--primary",
+        "button_size": "",
+        "button_style": "btn--solid",
+        "show_arrow": false,
+        "featured_collection": "gift-guide-bestsellers",
+        "style": "grid",
+        "grid": 4,
+        "rows": 2,
+        "layout_mobile": "2",
+        "bg_color": "",
+        "color": "",
+        "padding_top": 50,
+        "padding_bottom": 50
       }
     },
     "text_promo_NBcJRi": {
@@ -554,8 +577,9 @@
     "section_collection_WYgVHn",
     "section_columns_PaymGa",
     "section_hero_pLzh9H",
-    "section_collection_Txj4ii",
+    "section_collection_H3fTM6",
     "section_hero_JEi3b8",
+    "section_collection_Txj4ii",
     "text_promo_NBcJRi"
   ]
 }
