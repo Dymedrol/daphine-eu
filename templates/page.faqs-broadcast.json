@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "section_multicolumn_y3VDjL": {
@@ -19,7 +19,7 @@
             "title": "FAQs",
             "heading_size": 6,
             "mobile_heading_size": 4,
-            "text": "<p>Have a question?<\/p><p>Read our FAQs or <a href=\"\/pages\/contact-us\" target=\"_blank\" title=\"CONTACT US\">contact us<\/a><\/p>",
+            "text": "<p>Have a question?</p><p>Read our FAQs or <a href=\"/pages/contact-us\" target=\"_blank\" title=\"CONTACT US\">contact us</a></p>",
             "text_size": 3,
             "mobile_text_size": 3,
             "text_style": "font-body",
@@ -53,7 +53,7 @@
           "type": "image",
           "settings": {
             "column_width": 40,
-            "image": "shopify:\/\/shop_images\/DAPHINE_SCAN_5-Edit.jpg",
+            "image": "shopify://shop_images/DAPHINE_SCAN_5-Edit.jpg",
             "image_aspect_ratio": 0.7,
             "mobile_image_aspect_ratio": 0.7,
             "title": "",
@@ -95,7 +95,7 @@
         "image_fzNFXR": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/DAPHINE_SCAN_5-Edit.jpg",
+            "image": "shopify://shop_images/DAPHINE_SCAN_5-Edit.jpg",
             "overlay_opacity": 0,
             "overlay_color": "#000000",
             "show_overlay_text": false,
@@ -125,7 +125,7 @@
             "title": "FAQ's",
             "heading_size": 6,
             "mobile_heading_size": 4,
-            "text": "<p>How can we help you? Read some of our most common questions. If you didn't find the answer, please do not hesitate to <a href=\"mailto:info@shop-daphine.com\" target=\"_blank\" title=\"mailto:info@shop-daphine.com\">Contact Us<\/a>.<\/p>",
+            "text": "<p>How can we help you? Read some of our most common questions. If you didn't find the answer, please do not hesitate to <a href=\"mailto:info@shop-daphine.com\" target=\"_blank\" title=\"mailto:info@shop-daphine.com\">Contact Us</a>.</p>",
             "text_size": 3,
             "mobile_text_size": 3,
             "button_text": "",
@@ -172,10 +172,21 @@
         "template--16858200375542__b5de629f-24af-4cf1-a72a-0551b1f61ea0-question-1": {
           "type": "question",
           "settings": {
+            "title": "Black Friday FAQs",
+            "heading_size": 5,
+            "mobile_heading_size": 5,
+            "content": "<p>Our official Black Friday event runs from Monday November 25th at midnight (CET) and ends on Monday December 2nd at midnight (CET).</p><p>Promo codes are not redeemable on items on the site that have been marked down from their original price.</p><p>This offer cannot be applied retrospectively to previous orders and we are unable to refund the difference to past purchases.</p><p>We will try our best to send out your orders on time however the volume of orders we receive over Black Friday means that some orders may be sent out slower than usual. You will be receiving a shipping confirmation email when your order is on its way.</p><p>Returns will be extended until January 31st for all orders placed during this holiday period.</p>",
+            "text_size": 3,
+            "mobile_text_size": 3
+          }
+        },
+        "question_RWt4NU": {
+          "type": "question",
+          "settings": {
             "title": "What forms of payment do we accept?",
             "heading_size": 5,
             "mobile_heading_size": 5,
-            "content": "<p>We accept all major credit cards (Visa, MasterCard, AMEX), PayPal, ApplePay, Google Pay and Klarna. Payment will be taken from your credit or debit card as soon as the order has been placed. If you have ordered an engraved item or purchased a pre-order item, the payment will also be taken at the time of ordering.<\/p>",
+            "content": "<p>We accept all major credit cards (Visa, MasterCard, AMEX), PayPal, ApplePay, Google Pay and Klarna. Payment will be taken from your credit or debit card as soon as the order has been placed. If you have ordered an engraved item or purchased a pre-order item, the payment will also be taken at the time of ordering.</p>",
             "text_size": 3,
             "mobile_text_size": 3
           }
@@ -186,7 +197,7 @@
             "title": "What material is our jewellery made of?",
             "heading_size": 5,
             "mobile_heading_size": 5,
-            "content": "<p>We invest in the production of our <a href=\"\/collections\/all\" title=\"ALL\">jewellery <\/a>so that it’s made to last. Every piece is handmade in our Jaipur atelier, with 18ct gold laid over recycled brass that is Responsible Jewellery Council certified. The methods we use produce a resilient layer of gold that doesn’t easily wear away (and also happens to be hypoallergenic and nickel-free).<\/p>",
+            "content": "<p>We invest in the production of our <a href=\"/collections/all\" title=\"ALL\">jewellery </a>so that it’s made to last. Every piece is handmade in our Jaipur atelier, with 18ct gold laid over recycled brass that is Responsible Jewellery Council certified. The methods we use produce a resilient layer of gold that doesn’t easily wear away (and also happens to be hypoallergenic and nickel-free).</p>",
             "text_size": 3,
             "mobile_text_size": 3
           }
@@ -197,7 +208,7 @@
             "title": "What types of jewellery do we offer?",
             "heading_size": 5,
             "mobile_heading_size": 5,
-            "content": "<p>Each of our pieces are handmade to perfection. Browse <a href=\"\/collections\/rings\" title=\"RINGS\">chunky gold rings <\/a>drizzled in 18k gold, carefully designed <a href=\"\/collections\/earrings\" title=\"EARRINGS\">gold plated hoops<\/a>; <a href=\"\/collections\/necklaces\" title=\"NECKLACES\">gold chain necklaces<\/a>; <a href=\"\/collections\/tennis\" title=\"Tennis Jewellery\">tennis inspired pieces<\/a> and more.<\/p>",
+            "content": "<p>Each of our pieces are handmade to perfection. Browse <a href=\"/collections/rings\" title=\"RINGS\">chunky gold rings </a>drizzled in 18k gold, carefully designed <a href=\"/collections/earrings\" title=\"EARRINGS\">gold plated hoops</a>; <a href=\"/collections/necklaces\" title=\"NECKLACES\">gold chain necklaces</a>; <a href=\"/collections/tennis\" title=\"Tennis Jewellery\">tennis inspired pieces</a> and more.</p>",
             "text_size": 3,
             "mobile_text_size": 3
           }
@@ -208,7 +219,7 @@
             "title": "How long does the plating last for?",
             "heading_size": 5,
             "mobile_heading_size": 5,
-            "content": "<p>We’re committed to creating pieces that will stand the test of time. So if your plating fades, or something comes loose, we promise to repair or replate your Daphine jewellery for free within a year of purchase or receipt under standard conditions of normal wear-and-tear.<\/p>",
+            "content": "<p>We’re committed to creating pieces that will stand the test of time. So if your plating fades, or something comes loose, we promise to repair or replate your Daphine jewellery for free within a year of purchase or receipt under standard conditions of normal wear-and-tear.</p>",
             "text_size": 3,
             "mobile_text_size": 3
           }
@@ -219,7 +230,7 @@
             "title": "What does our guarantee cover?",
             "heading_size": 5,
             "mobile_heading_size": 5,
-            "content": "<p>The gold plating of your jewellery is guaranteed for 1 year of purchase or receipt and only applicable on the original order. In case of abnormal wear within the first year, we will replate your piece for free. If after 1 year your jewellery needs replating or repair, this service will always be available for a small fee. Please email us at <a href=\"mailto:info@shop-daphine.com\">info@shop-daphine.com <\/a>to resolve this matter.<\/p><p>**Please note this does not apply to: damage caused by a handling error, excessive or incorrect use, a lack of maintenance or hygiene, accidental or intentional physical changes, use for professional or commercial purposes, or purchase from a retailer. The guarantee is only valid on original purchases and will not be applied to pieces that have already been replated.<\/p>",
+            "content": "<p>The gold plating of your jewellery is guaranteed for 1 year of purchase or receipt and only applicable on the original order. In case of abnormal wear within the first year, we will replate your piece for free. If after 1 year your jewellery needs replating or repair, this service will always be available for a small fee. Please email us at <a href=\"mailto:info@shop-daphine.com\">info@shop-daphine.com </a>to resolve this matter.</p><p>**Please note this does not apply to: damage caused by a handling error, excessive or incorrect use, a lack of maintenance or hygiene, accidental or intentional physical changes, use for professional or commercial purposes, or purchase from a retailer. The guarantee is only valid on original purchases and will not be applied to pieces that have already been replated.</p>",
             "text_size": 3,
             "mobile_text_size": 3
           }
@@ -230,7 +241,7 @@
             "title": "Repair & Restore",
             "heading_size": 5,
             "mobile_heading_size": 5,
-            "content": "<p>At Daphine, sustainability is always on our minds - we believe in encouraging conscious consumption - that is why we offer a repair and restore service for a fee for those pieces that need a bit of extra care, from re-plating to stone replacement. <a href=\"https:\/\/finematter.com\/en\/services\/daphine\/\" target=\"_blank\" title=\"Repair and restore jewellery service Daphine.\">Please click here to book your service.<\/a><\/p>",
+            "content": "<p>At Daphine, sustainability is always on our minds - we believe in encouraging conscious consumption - that is why we offer a repair and restore service for a fee for those pieces that need a bit of extra care, from re-plating to stone replacement. <a href=\"https://finematter.com/en/services/daphine/\" target=\"_blank\" title=\"Repair and restore jewellery service Daphine.\">Please click here to book your service.</a></p>",
             "text_size": 3,
             "mobile_text_size": 3
           }
@@ -241,7 +252,7 @@
             "title": "What are our silver styles made of?",
             "heading_size": 5,
             "mobile_heading_size": 5,
-            "content": "<p>Our <a href=\"\/collections\/silver\" title=\"STERLING SILVER\">silver jewellery<\/a> is silver plated over sterling silver, making them incredibly durable. Timeless pieces to last a lifetime, handcraftetd in our Jaipur atelier.<br\/><br\/>All sterling silver pieces are also stamped with the '925' mark - indicating the purity of the metal.<\/p>",
+            "content": "<p>Our <a href=\"/collections/silver\" title=\"STERLING SILVER\">silver jewellery</a> is silver plated over sterling silver, making them incredibly durable. Timeless pieces to last a lifetime, handcraftetd in our Jaipur atelier.<br/><br/>All sterling silver pieces are also stamped with the '925' mark - indicating the purity of the metal.</p>",
             "text_size": 3,
             "mobile_text_size": 3
           }
@@ -252,7 +263,7 @@
             "title": "What is 925 Sterling?",
             "heading_size": 5,
             "mobile_heading_size": 5,
-            "content": "<p>925 Sterling Silver is a lightweight metal made of 92.5% pure silver. It’s highly durable and designed for everyday wear.<br\/><br\/>Your silver jewellery can be simply cleaned by wiping with a soft, damp cloth or if needed, with a silver dip solution. Dip your silver jewellery in the solution only a couple of seconds and then rinse thoroughly in warm soapy water.<\/p>",
+            "content": "<p>925 Sterling Silver is a lightweight metal made of 92.5% pure silver. It’s highly durable and designed for everyday wear.<br/><br/>Your silver jewellery can be simply cleaned by wiping with a soft, damp cloth or if needed, with a silver dip solution. Dip your silver jewellery in the solution only a couple of seconds and then rinse thoroughly in warm soapy water.</p>",
             "text_size": 3,
             "mobile_text_size": 3
           }
@@ -263,7 +274,7 @@
             "title": "Is Daphine a sustainable brand?",
             "heading_size": 5,
             "mobile_heading_size": 5,
-            "content": "<p>At Daphine, sustainability is always on our minds – because we believe that producing pieces to treasure shouldn’t come at the expense of the planet.<\/p><p>Less really is more. We’re passionate about encouraging conscious consumption – we only want our customers to buy pieces that truly bring joy. Daphine jewellery is intended to be loved for years to come, which is why we create timeless designs that can be worn season after season.<\/p><p>You can find more information in our <a href=\"\/pages\/sustainability-ethics\" target=\"_blank\" title=\"OUR ETHOS\">Sustainability<\/a> page.<\/p>",
+            "content": "<p>At Daphine, sustainability is always on our minds – because we believe that producing pieces to treasure shouldn’t come at the expense of the planet.</p><p>Less really is more. We’re passionate about encouraging conscious consumption – we only want our customers to buy pieces that truly bring joy. Daphine jewellery is intended to be loved for years to come, which is why we create timeless designs that can be worn season after season.</p><p>You can find more information in our <a href=\"/pages/sustainability-ethics\" target=\"_blank\" title=\"OUR ETHOS\">Sustainability</a> page.</p>",
             "text_size": 3,
             "mobile_text_size": 3
           }
@@ -274,7 +285,7 @@
             "title": "How do I determine my ring size?",
             "heading_size": 5,
             "mobile_heading_size": 5,
-            "content": "<p>Our <a href=\"\/pages\/size-guide\" title=\"Size Guide\">Ring Sizing Guide<\/a> gives you several ways to measure your own ring size, or find out someone else's ring size if the ring is a gift.<\/p>",
+            "content": "<p>Our <a href=\"/pages/size-guide\" title=\"Size Guide\">Ring Sizing Guide</a> gives you several ways to measure your own ring size, or find out someone else's ring size if the ring is a gift.</p>",
             "text_size": 3,
             "mobile_text_size": 3
           }
@@ -285,7 +296,7 @@
             "title": "How do I determine my bangle size?",
             "heading_size": 5,
             "mobile_heading_size": 5,
-            "content": "<p><strong>1.<\/strong> Measure your palm at its widest<\/p><p><strong>2.<\/strong> Add 0.4mm<\/p><p><strong>3.<\/strong> If the total size of your palm (including the 0.4mm) is :<\/p><p> - 8.1 to 8.3cm, you are a size S (60mm) in our <a href=\"\/collections\/bracelets\" title=\"BRACELETS\">bangles<\/a>.   <\/p><p> - 8.4 to 8.6cm, you are a size M (64mm) in our bangles.   <\/p><p> - 8.6 to 8.8cm, you are a size L (68mm) in our bangles. <\/p>",
+            "content": "<p><strong>1.</strong> Measure your palm at its widest</p><p><strong>2.</strong> Add 0.4mm</p><p><strong>3.</strong> If the total size of your palm (including the 0.4mm) is :</p><p> - 8.1 to 8.3cm, you are a size S (60mm) in our <a href=\"/collections/bracelets\" title=\"BRACELETS\">bangles</a>.   </p><p> - 8.4 to 8.6cm, you are a size M (64mm) in our bangles.   </p><p> - 8.6 to 8.8cm, you are a size L (68mm) in our bangles. </p>",
             "text_size": 3,
             "mobile_text_size": 3
           }
@@ -296,7 +307,7 @@
             "title": "How do I care for my jewellery?",
             "heading_size": 5,
             "mobile_heading_size": 5,
-            "content": "<p>To make sure that they stay looking their best and can be worn again and again, it’s a good idea to show your pieces a little love. We recommend taking jewellery off while exercising, bathing, swimming or applying lotions and perfumes. Store each piece individually – preferably in its Daphine pouch – and in a cool, dry place. <\/p>",
+            "content": "<p>To make sure that they stay looking their best and can be worn again and again, it’s a good idea to show your pieces a little love. We recommend taking jewellery off while exercising, bathing, swimming or applying lotions and perfumes. Store each piece individually – preferably in its Daphine pouch – and in a cool, dry place. </p>",
             "text_size": 3,
             "mobile_text_size": 3
           }
@@ -307,7 +318,7 @@
             "title": "What happens if my jewellery is faulty?",
             "heading_size": 5,
             "mobile_heading_size": 5,
-            "content": "<p>We sincerely apologise if you have experienced any fault with your jewellery. We offer free returns on faulty goods if returned within 14 days of the initial order date. Please contact our customer service for a return label: <a href=\"mailto:info@shop-daphine.com\">info@shop-daphine.com<\/a>. If you should need a repair on any Daphine piece, please email us at <a href=\"mailto:info@shop-daphine.com\">info@shop-daphine.com<\/a>. Please reference your Name, Address, Order Number and Repair Issue. We will then send you a Repair Authorisation Number, which must be clearly labelled on the package. All repairs will be assessed on an individual basis.<\/p>",
+            "content": "<p>We sincerely apologise if you have experienced any fault with your jewellery. We offer free returns on faulty goods if returned within 14 days of the initial order date. Please contact our customer service for a return label: <a href=\"mailto:info@shop-daphine.com\">info@shop-daphine.com</a>. If you should need a repair on any Daphine piece, please email us at <a href=\"mailto:info@shop-daphine.com\">info@shop-daphine.com</a>. Please reference your Name, Address, Order Number and Repair Issue. We will then send you a Repair Authorisation Number, which must be clearly labelled on the package. All repairs will be assessed on an individual basis.</p>",
             "text_size": 3,
             "mobile_text_size": 3
           }
@@ -318,7 +329,7 @@
             "title": "How do I receive my 10% discount?",
             "heading_size": 5,
             "mobile_heading_size": 5,
-            "content": "<p>Once you’ve signed up to receive our newsletter, your discount code will be emailed to you. It may have gone to your junk folder, so please check there too. If you have any issues, please email us at <a href=\"mailto:info@shop-daphine.com\" target=\"_blank\" title=\"Customer service email\">info@shop-daphine.com<\/a>.<\/p>",
+            "content": "<p>Once you’ve signed up to receive our newsletter, your discount code will be emailed to you. It may have gone to your junk folder, so please check there too. If you have any issues, please email us at <a href=\"mailto:info@shop-daphine.com\" target=\"_blank\" title=\"Customer service email\">info@shop-daphine.com</a>.</p>",
             "text_size": 3,
             "mobile_text_size": 3
           }
@@ -329,7 +340,7 @@
             "title": "Do you offer gift wrapping?",
             "heading_size": 5,
             "mobile_heading_size": 5,
-            "content": "<p>We offer a beautiful branded gift box. Simply select the 'Gift Packaging' option at checkout.<\/p>",
+            "content": "<p>We offer a beautiful branded gift box. Simply select the 'Gift Packaging' option at checkout.</p>",
             "text_size": 3,
             "mobile_text_size": 3
           }
@@ -340,7 +351,7 @@
             "title": "Brexit: will I have to pay customs duty to the EU?",
             "heading_size": 5,
             "mobile_heading_size": 5,
-            "content": "<p>All charges will be covered by us! Daphine will continue delivering directly to your door with no additional charges.<\/p><p>We will handle all VAT and customs declarations for you on a DDP (delivery duty paid) basis.<\/p><p>For more information, please visit our <a href=\"\/pages\/shipping-returns2\" title=\"SHIPPING\">Shipping<\/a> page.<\/p>",
+            "content": "<p>All charges will be covered by us! Daphine will continue delivering directly to your door with no additional charges.</p><p>We will handle all VAT and customs declarations for you on a DDP (delivery duty paid) basis.</p><p>For more information, please visit our <a href=\"/pages/shipping-returns2\" title=\"SHIPPING\">Shipping</a> page.</p>",
             "text_size": 3,
             "mobile_text_size": 3
           }
@@ -349,6 +360,7 @@
       "block_order": [
         "template--16858200375542__b5de629f-24af-4cf1-a72a-0551b1f61ea0-heading-1",
         "template--16858200375542__b5de629f-24af-4cf1-a72a-0551b1f61ea0-question-1",
+        "question_RWt4NU",
         "template--16858200375542__b5de629f-24af-4cf1-a72a-0551b1f61ea0-question-2",
         "template--16858200375542__b5de629f-24af-4cf1-a72a-0551b1f61ea0-question-3",
         "628276ff-126c-4281-baa7-6e5b0a0d0db8",
@@ -399,7 +411,7 @@
           "type": "buttons",
           "settings": {
             "button_text": "DISCOVER OUR RETURN POLICY",
-            "button_url": "shopify:\/\/pages\/returns",
+            "button_url": "shopify://pages/returns",
             "button_type": "btn--primary",
             "button_size": "",
             "button_style": "btn--outline",
