@@ -154,11 +154,10 @@
         },
         "text_jrm3GG": {
           "type": "text",
-          "disabled": true,
           "settings": {
-            "text": "<p><a href=\"/collections/sale-1\" title=\"SALE\">SALE SALE SALE</a></p>",
+            "text": "<p>OUR ONLY SALE IS HERE</p>",
             "target_url_enabled": false,
-            "target_url": "shopify://collections/summer-sale",
+            "target_url": "shopify://collections/all",
             "target_referrer_enabled": false,
             "target_referrer": "",
             "target_device_enabled": false,
@@ -180,7 +179,7 @@
         "show_arrows": false,
         "marquee_speed": 50,
         "text_size": 3,
-        "bg_color": "#4d5038",
+        "bg_color": "#212121",
         "color": "#ffffff"
       }
     },
