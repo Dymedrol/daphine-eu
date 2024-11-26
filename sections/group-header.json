@@ -155,7 +155,7 @@
         "text_jrm3GG": {
           "type": "text",
           "settings": {
-            "text": "<p>OUR ONLY SALE IS HERE</p>",
+            "text": "<p>OUR ONLY SALE IS HERE </p>",
             "target_url_enabled": false,
             "target_url": "shopify://collections/all",
             "target_referrer_enabled": false,
