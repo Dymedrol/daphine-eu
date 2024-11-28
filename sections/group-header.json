@@ -154,7 +154,6 @@
         },
         "text_jrm3GG": {
           "type": "text",
-          "disabled": true,
           "settings": {
             "text": "<p>OUR ONLY SALE IS HERE </p>",
             "target_url_enabled": false,
