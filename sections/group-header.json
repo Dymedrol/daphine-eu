@@ -167,6 +167,7 @@
         },
         "text_hYpbMK": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "<p>Order before Dec. 18th for guaranteed Christmas delivery</p>",
             "target_url_enabled": false,
