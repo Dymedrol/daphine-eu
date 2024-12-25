@@ -393,6 +393,48 @@
         "heading_AxptQF",
         "button_ymXiiq"
       ],
+      "disabled": true,
+      "settings": {
+        "height": "sixty-fifty-height-hero",
+        "width": "wrapper--full",
+        "image_1": "shopify://shop_images/Screenshot_2024-09-27_at_11.53.11.png",
+        "mobile_height": "image-height--mobile",
+        "mobile_image": "shopify://shop_images/Daphine_Monikh-pt.II_Swin-necklace-2.jpg",
+        "flex_align": "align--middle-center",
+        "overlay_opacity": 0,
+        "overlay_color": "#000000",
+        "show_overlay_text": false,
+        "bg_color": "",
+        "color": "#ffffff"
+      }
+    },
+    "section_hero_Nqt9yV": {
+      "type": "section-hero",
+      "blocks": {
+        "heading_hHknYP": {
+          "type": "heading",
+          "settings": {
+            "title": "Archive Sale",
+            "heading_size": 7,
+            "mobile_heading_size": 6
+          }
+        },
+        "button_cwPXQe": {
+          "type": "button",
+          "settings": {
+            "link_text": "UP TO 50% OFF",
+            "link": "shopify://collections/archieve",
+            "button_type": "btn--white",
+            "button_size": "",
+            "button_style": "btn--text",
+            "show_arrow": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_hHknYP",
+        "button_cwPXQe"
+      ],
       "settings": {
         "height": "sixty-fifty-height-hero",
         "width": "wrapper--full",
@@ -896,6 +938,7 @@
     "featured-collection",
     "section_divider_KBcpKn",
     "section_hero_zKYGnw",
+    "section_hero_Nqt9yV",
     "section_divider_FPKRhz",
     "image-with-text",
     "8c3fa3c0-64fa-406c-9f65-ced0a2e3da8f",
