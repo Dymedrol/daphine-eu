@@ -122,15 +122,15 @@
         "image_pkVXwe": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Daphine_Christy_Earrings_d15391a7-5cd3-4309-bc4f-1d0789f0c252.jpg",
+            "image": "shopify://shop_images/Daphine_Annanecklace1.png",
             "title": "",
             "heading_size": 4,
             "mobile_heading_size": 4,
-            "text": "<h6>Christy Hoops</h6>",
+            "text": "<h6>Anna Necklace</h6>",
             "text_size": 3,
             "mobile_text_size": 2,
             "button_text": "SHOP",
-            "button_url": "shopify://products/christy-hoops",
+            "button_url": "shopify://products/anna-necklace",
             "button_type": "btn--primary",
             "button_size": "",
             "button_style": "btn--text",
