@@ -245,15 +245,15 @@
         "image_ijx4hj": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Copy_of_Daphine04_Mini_Oli_Hoops.png",
+            "image": "shopify://shop_images/Daphine_Antoinetteearrings1.jpg",
             "title": "",
             "heading_size": 4,
             "mobile_heading_size": 4,
-            "text": "<h6>Antoinette Bracelet</h6>",
+            "text": "<h6>Antoinette Earring</h6>",
             "text_size": 3,
             "mobile_text_size": 2,
             "button_text": "SHOP",
-            "button_url": "shopify://products/antoinette-bracelet",
+            "button_url": "shopify://products/antoinette-earrings",
             "button_type": "btn--primary",
             "button_size": "",
             "button_style": "btn--text",
@@ -514,7 +514,7 @@
     "section_collection_Txj4ii": {
       "type": "section-collection",
       "settings": {
-        "heading": "Bestsellers",
+        "heading": "Vday Edit",
         "description": "",
         "layout": "center",
         "link_text": "",
@@ -523,7 +523,7 @@
         "button_size": "",
         "button_style": "btn--solid",
         "show_arrow": false,
-        "featured_collection": "gift-guide-bestsellers",
+        "featured_collection": "pre-spring-2025",
         "style": "grid",
         "grid": 4,
         "rows": 2,
