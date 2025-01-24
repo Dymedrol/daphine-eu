@@ -9,39 +9,50 @@
  */
 {
   "sections": {
-    "section_hero_Nqt9yV": {
+    "section_hero_kUNNiF": {
       "type": "section-hero",
       "blocks": {
-        "heading_hHknYP": {
+        "heading_CJyGjY": {
           "type": "heading",
           "settings": {
-            "title": "Archive Sale",
-            "heading_size": 7,
-            "mobile_heading_size": 6
+            "title": "Pre-Spring",
+            "heading_size": 8,
+            "mobile_heading_size": 7
           }
         },
-        "button_cwPXQe": {
+        "text_rnLxDT": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "description": "Tell your brand's story through images.",
+            "text_size": 5,
+            "mobile_text_size": 5,
+            "text_style": "font-body"
+          }
+        },
+        "button_y9YkFT": {
           "type": "button",
           "settings": {
-            "link_text": "UP TO 50% OFF",
-            "link": "shopify://collections/archive-sale",
+            "link_text": "discover our new arrivals",
+            "link": "shopify://collections/all",
             "button_type": "btn--white",
-            "button_size": "",
+            "button_size": "btn--small",
             "button_style": "btn--text",
             "show_arrow": false
           }
         }
       },
       "block_order": [
-        "heading_hHknYP",
-        "button_cwPXQe"
+        "heading_CJyGjY",
+        "text_rnLxDT",
+        "button_y9YkFT"
       ],
       "settings": {
-        "height": "sixty-fifty-height-hero",
+        "height": "image-height",
         "width": "wrapper--full",
-        "image_1": "shopify://shop_images/Moune_bangles_desktop.jpg",
+        "image_1": "shopify://shop_images/Daphine_Cora_cuff_Ella_necklace_banner.png",
         "mobile_height": "image-height--mobile",
-        "mobile_image": "shopify://shop_images/05-Daphine_Moune_Bangles_Single.jpg",
+        "mobile_image": "shopify://shop_images/Daphine_Ellanecklace_small_medium_3bf1cc4d-1113-4be3-b3ad-04384c52b565.png",
         "flex_align": "align--middle-center",
         "overlay_opacity": 0,
         "overlay_color": "#000000",
@@ -109,16 +120,16 @@
     "section_collection_rQrqQm": {
       "type": "section-collection",
       "settings": {
-        "heading": "Bestsellers",
+        "heading": "New In",
         "description": "",
         "layout": "inline",
         "link_text": "Explore All",
-        "link_url": "shopify://collections/classics",
+        "link_url": "shopify://collections/pre-spring-2025",
         "button_type": "btn--primary",
         "button_size": "btn--small",
         "button_style": "btn--text",
         "show_arrow": false,
-        "featured_collection": "classics",
+        "featured_collection": "pre-spring-2025",
         "style": "slider",
         "grid": 3,
         "rows": 3,
@@ -137,7 +148,7 @@
           "settings": {
             "heading": "Earrings",
             "url": "shopify://collections/earrings",
-            "image": "shopify://shop_images/Daphine_Oli_hoops_Oli_hoops_mini.jpg",
+            "image": "shopify://shop_images/Daphine_Antoinetteearrings1.jpg",
             "color": "#ffffff",
             "bg_color": "#f0f0f0",
             "border_color": ""
@@ -148,7 +159,7 @@
           "settings": {
             "heading": "Necklaces",
             "url": "shopify://collections/necklaces",
-            "image": "shopify://shop_images/Daphine_Steffi-necklace_flat-lay.jpg",
+            "image": "shopify://shop_images/Daphine_Ella_necklace_medium_square.jpg",
             "color": "#ffffff",
             "bg_color": "#f5f3ef",
             "border_color": ""
@@ -159,7 +170,7 @@
           "settings": {
             "heading": "Bracelets",
             "url": "shopify://collections/bracelets",
-            "image": "shopify://shop_images/Daphine_Mene_bangle.jpg",
+            "image": "shopify://shop_images/Daphine_Ellabracelet_90a3e5d3-f20c-4b8f-8d6d-fc6596e98277.png",
             "color": "#ffffff",
             "bg_color": "#f0f0f0",
             "border_color": ""
@@ -226,58 +237,6 @@
         "padding_bottom": 0
       }
     },
-    "section_hero_kUNNiF": {
-      "type": "section-hero",
-      "blocks": {
-        "heading_CJyGjY": {
-          "type": "heading",
-          "settings": {
-            "title": "The Winter Edit",
-            "heading_size": 8,
-            "mobile_heading_size": 7
-          }
-        },
-        "text_rnLxDT": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "description": "Tell your brand's story through images.",
-            "text_size": 5,
-            "mobile_text_size": 5,
-            "text_style": "font-body"
-          }
-        },
-        "button_y9YkFT": {
-          "type": "button",
-          "settings": {
-            "link_text": "DISCOVER",
-            "link": "shopify://collections/all",
-            "button_type": "btn--white",
-            "button_size": "btn--small",
-            "button_style": "btn--text",
-            "show_arrow": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_CJyGjY",
-        "text_rnLxDT",
-        "button_y9YkFT"
-      ],
-      "settings": {
-        "height": "image-height",
-        "width": "wrapper--full",
-        "image_1": "shopify://shop_images/Screenshot_2024-12-03_at_09.46.09.png",
-        "mobile_height": "image-height--mobile",
-        "mobile_image": "shopify://shop_images/chris_tennis_necklace.jpg",
-        "flex_align": "align--middle-center",
-        "overlay_opacity": 0,
-        "overlay_color": "#000000",
-        "show_overlay_text": false,
-        "bg_color": "",
-        "color": "#ffffff"
-      }
-    },
     "hero": {
       "type": "section-hero",
       "blocks": {
@@ -331,29 +290,6 @@
         "color": "#ffffff"
       }
     },
-    "featured-collection": {
-      "type": "section-collection",
-      "settings": {
-        "heading": "New Arrivals",
-        "description": "",
-        "layout": "inline",
-        "link_text": "explore all",
-        "link_url": "shopify://collections/aw24",
-        "button_type": "btn--primary",
-        "button_size": "btn--small",
-        "button_style": "btn--text",
-        "show_arrow": false,
-        "featured_collection": "aw24",
-        "style": "slider",
-        "grid": 4,
-        "rows": 1,
-        "layout_mobile": "carousel",
-        "bg_color": "#ffffff",
-        "color": "#212121",
-        "padding_top": 60,
-        "padding_bottom": 50
-      }
-    },
     "section_hero_URDUxU": {
       "type": "section-hero",
       "blocks": {
@@ -387,6 +323,70 @@
         "image_1": "shopify://shop_images/Daphine_Packaging_pink_pouch_gift_box_2.jpg",
         "mobile_height": "image-height--mobile",
         "mobile_image": "shopify://shop_images/Daphine_Packaging_pink_pouch_gift_box.jpg",
+        "flex_align": "align--middle-center",
+        "overlay_opacity": 0,
+        "overlay_color": "#000000",
+        "show_overlay_text": false,
+        "bg_color": "",
+        "color": "#ffffff"
+      }
+    },
+    "featured-collection": {
+      "type": "section-collection",
+      "settings": {
+        "heading": "Trending",
+        "description": "",
+        "layout": "inline",
+        "link_text": "explore all",
+        "link_url": "shopify://collections/trending",
+        "button_type": "btn--primary",
+        "button_size": "btn--small",
+        "button_style": "btn--text",
+        "show_arrow": false,
+        "featured_collection": "trending",
+        "style": "slider",
+        "grid": 4,
+        "rows": 1,
+        "layout_mobile": "carousel",
+        "bg_color": "#ffffff",
+        "color": "#212121",
+        "padding_top": 60,
+        "padding_bottom": 50
+      }
+    },
+    "section_hero_Nqt9yV": {
+      "type": "section-hero",
+      "blocks": {
+        "heading_hHknYP": {
+          "type": "heading",
+          "settings": {
+            "title": "Archive Sale",
+            "heading_size": 7,
+            "mobile_heading_size": 6
+          }
+        },
+        "button_cwPXQe": {
+          "type": "button",
+          "settings": {
+            "link_text": "UP TO 50% OFF",
+            "link": "shopify://collections/archive-sale",
+            "button_type": "btn--white",
+            "button_size": "",
+            "button_style": "btn--text",
+            "show_arrow": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_hHknYP",
+        "button_cwPXQe"
+      ],
+      "settings": {
+        "height": "sixty-fifty-height-hero",
+        "width": "wrapper--full",
+        "image_1": "shopify://shop_images/Moune_bangles_desktop.jpg",
+        "mobile_height": "image-height--mobile",
+        "mobile_image": "shopify://shop_images/05-Daphine_Moune_Bangles_Single.jpg",
         "flex_align": "align--middle-center",
         "overlay_opacity": 0,
         "overlay_color": "#000000",
@@ -457,344 +457,6 @@
         "border_color": "",
         "bg_color": "",
         "padding_top": 64,
-        "padding_bottom": 0
-      }
-    },
-    "image-with-text": {
-      "type": "section-custom-content",
-      "blocks": {
-        "image": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Webp.net-gifmaker_4.gif",
-            "overlay_opacity": 0,
-            "overlay_color": "#000000",
-            "show_overlay_text": false,
-            "title": "",
-            "heading_size": 7,
-            "mobile_heading_size": 4,
-            "description": "",
-            "text_size": 3,
-            "mobile_text_size": 3,
-            "flex_align": "align--middle-left",
-            "bg_color": "",
-            "color": "#ffffff",
-            "link_text": "",
-            "link": "shopify://collections/all",
-            "button_type": "btn--white",
-            "button_size": "",
-            "button_style": "btn--outline",
-            "show_arrow": false
-          }
-        },
-        "text": {
-          "type": "text",
-          "settings": {
-            "subheading": "",
-            "subheading_size": 3,
-            "mobile_subheading_size": 3,
-            "title": "Vintage Treasures",
-            "heading_size": 7,
-            "mobile_heading_size": 4,
-            "text": "<p><em>Daphine offers traditional hand engraving as a way of personalising your pieces. All of our engraved gold rings and bangles are hand engraved by our master engraver, a third generation engraver based in Bournemouth, England.</em></p>",
-            "text_size": 3,
-            "mobile_text_size": 3,
-            "button_text": "",
-            "button_url": "",
-            "button_type": "btn--primary",
-            "button_size": "",
-            "button_style": "btn--solid",
-            "show_arrow": false,
-            "show_social_links": false,
-            "text_columns": 1,
-            "align_text": "text-left",
-            "bg_color": "#f5f3ef",
-            "color": ""
-          }
-        }
-      },
-      "block_order": [
-        "image",
-        "text"
-      ],
-      "disabled": true,
-      "settings": {
-        "height": "screen-height-one-half",
-        "mobile_height": "screen-height-one-half--mobile",
-        "width": "wrapper--full-padded",
-        "borders": false,
-        "reverse_blocks": false,
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
-    "8c3fa3c0-64fa-406c-9f65-ced0a2e3da8f": {
-      "type": "section-collections-list",
-      "blocks": {
-        "template--16822550495478__8c3fa3c0-64fa-406c-9f65-ced0a2e3da8f-1684853415e82eebc5-0": {
-          "type": "collection",
-          "settings": {
-            "collection": "everyday-classics",
-            "collection_image": "shopify://shop_images/Moune_bangles_5_3b723fa8-c437-4c81-bcc7-eeada2d7db78.jpg",
-            "title": ""
-          }
-        },
-        "template--16822550495478__8c3fa3c0-64fa-406c-9f65-ced0a2e3da8f-1684853415e82eebc5-1": {
-          "type": "collection",
-          "settings": {
-            "collection": "favourites-of-the-week",
-            "collection_image": "shopify://shop_images/AM9A9787.jpg",
-            "title": ""
-          }
-        },
-        "template--16822550495478__8c3fa3c0-64fa-406c-9f65-ced0a2e3da8f-1684853415e82eebc5-2": {
-          "type": "collection",
-          "settings": {
-            "collection": "fallwinter23",
-            "title": ""
-          }
-        },
-        "template--16822550495478__8c3fa3c0-64fa-406c-9f65-ced0a2e3da8f-1684853415e82eebc5-3": {
-          "type": "collection",
-          "disabled": true,
-          "settings": {
-            "collection": "gift-edit",
-            "title": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--16822550495478__8c3fa3c0-64fa-406c-9f65-ced0a2e3da8f-1684853415e82eebc5-0",
-        "template--16822550495478__8c3fa3c0-64fa-406c-9f65-ced0a2e3da8f-1684853415e82eebc5-1",
-        "template--16822550495478__8c3fa3c0-64fa-406c-9f65-ced0a2e3da8f-1684853415e82eebc5-2",
-        "template--16822550495478__8c3fa3c0-64fa-406c-9f65-ced0a2e3da8f-1684853415e82eebc5-3"
-      ],
-      "disabled": true,
-      "settings": {
-        "title": "Browse by collection",
-        "description": "",
-        "layout": "slider",
-        "aspect_ratio": 1,
-        "grid": 2,
-        "layout_mobile": "slider",
-        "bg_color": "#f5f3ef",
-        "color": "",
-        "padding_top": 50,
-        "padding_bottom": 50
-      }
-    },
-    "fe493672-9f35-432d-b991-0e3cbb9a08ba": {
-      "type": "section-collections-list",
-      "blocks": {
-        "template--17234605211894__fe493672-9f35-432d-b991-0e3cbb9a08ba-collection-2": {
-          "type": "collection",
-          "settings": {
-            "collection": "rings",
-            "collection_image": "shopify://shop_images/Screenshot_2024-01-26_at_13.14.23.png",
-            "title": ""
-          }
-        },
-        "template--17234605211894__fe493672-9f35-432d-b991-0e3cbb9a08ba-collection-3": {
-          "type": "collection",
-          "settings": {
-            "collection": "earrings",
-            "collection_image": "shopify://shop_images/Daphine0020783.jpg",
-            "title": ""
-          }
-        },
-        "template--17234605211894__fe493672-9f35-432d-b991-0e3cbb9a08ba-collection-1": {
-          "type": "collection",
-          "settings": {
-            "collection": "bracelets",
-            "collection_image": "shopify://shop_images/Untitled.jpg",
-            "title": ""
-          }
-        },
-        "template--17234605211894__fe493672-9f35-432d-b991-0e3cbb9a08ba-collection-4": {
-          "type": "collection",
-          "settings": {
-            "collection": "necklaces",
-            "title": ""
-          }
-        },
-        "653e62cd-793c-4db2-af0f-bd3294267d6a": {
-          "type": "collection",
-          "disabled": true,
-          "settings": {
-            "collection": "damas-picks",
-            "title": ""
-          }
-        },
-        "d1cc0002-1c3f-4a2c-9f6c-a584ba36995c": {
-          "type": "collection",
-          "settings": {
-            "collection": "everyday-classics",
-            "title": ""
-          }
-        },
-        "f1516ffd-4104-489b-a57b-5068f5350ded": {
-          "type": "collection",
-          "settings": {
-            "collection": "favourites-of-the-week",
-            "title": ""
-          }
-        },
-        "507f6890-155a-477a-b7ad-9a7763e45fc1": {
-          "type": "collection",
-          "disabled": true,
-          "settings": {
-            "collection": "most-gifted",
-            "title": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--17234605211894__fe493672-9f35-432d-b991-0e3cbb9a08ba-collection-2",
-        "template--17234605211894__fe493672-9f35-432d-b991-0e3cbb9a08ba-collection-3",
-        "template--17234605211894__fe493672-9f35-432d-b991-0e3cbb9a08ba-collection-1",
-        "template--17234605211894__fe493672-9f35-432d-b991-0e3cbb9a08ba-collection-4",
-        "653e62cd-793c-4db2-af0f-bd3294267d6a",
-        "d1cc0002-1c3f-4a2c-9f6c-a584ba36995c",
-        "f1516ffd-4104-489b-a57b-5068f5350ded",
-        "507f6890-155a-477a-b7ad-9a7763e45fc1"
-      ],
-      "disabled": true,
-      "settings": {
-        "title": "",
-        "description": "",
-        "layout": "grid",
-        "aspect_ratio": 1,
-        "grid": 3,
-        "layout_mobile": "2",
-        "bg_color": "#f5f3ef",
-        "color": "#212121",
-        "padding_top": 98,
-        "padding_bottom": 32
-      }
-    },
-    "section_highlights_RXgML9": {
-      "type": "section-highlights",
-      "blocks": {
-        "highlight_xb7YjD": {
-          "type": "highlight",
-          "settings": {
-            "heading": "Statement Earrings",
-            "url": "shopify://collections/statement-earrings-1",
-            "image": "shopify://shop_images/Daphine_Cleo-earrings.jpg",
-            "color": "#ffffff",
-            "bg_color": "#f0f0f0",
-            "border_color": ""
-          }
-        },
-        "highlight_7aww7n": {
-          "type": "highlight",
-          "settings": {
-            "heading": "Bestsellers",
-            "url": "shopify://collections/classics",
-            "image": "shopify://shop_images/Daphine_Christy_Ring_Laurita_Ring.jpg",
-            "color": "#ffffff",
-            "bg_color": "#f0f0f0",
-            "border_color": ""
-          }
-        },
-        "highlight_8pLMV9": {
-          "type": "highlight",
-          "disabled": true,
-          "settings": {
-            "heading": "Our Collective",
-            "url": "shopify://collections/daphine-collective-vol-i",
-            "image": "shopify://shop_images/MONIKH_DAPHINE-9_3a5603ea-6e32-40c9-8a56-d0ba025f2071.jpg",
-            "color": "#212121",
-            "bg_color": "#f5f3ef",
-            "border_color": ""
-          }
-        },
-        "highlight_HzXViV": {
-          "type": "highlight",
-          "settings": {
-            "heading": "Our Story",
-            "url": "shopify://pages/our-story",
-            "image": "shopify://shop_images/Daphine_Founders-Portraits_1_3.jpg",
-            "color": "#ffffff",
-            "bg_color": "#f0f0f0",
-            "border_color": ""
-          }
-        }
-      },
-      "block_order": [
-        "highlight_xb7YjD",
-        "highlight_7aww7n",
-        "highlight_8pLMV9",
-        "highlight_HzXViV"
-      ],
-      "disabled": true,
-      "custom_css": [
-        ".highlights__item__content {top: unset !important; bottom: 0px; font-family: var(--FONT-STACK-HEADING); font-style: var(--FONT-STYLE-HEADING); font-weight: var(--FONT-WEIGHT-HEADING); font-size: 20px; padding-bottom: 10px;}"
-      ],
-      "settings": {
-        "style": "square",
-        "grid": 3,
-        "width": "wrapper--full-padded",
-        "heading": "",
-        "heading_position": "text-center",
-        "heading_size": 8,
-        "text_size": 6,
-        "color": "#212121",
-        "bg_color": "#ffffff",
-        "layout_mobile": "1",
-        "padding_top": 0,
-        "padding_bottom": 70
-      }
-    },
-    "section_double_q8mYfx": {
-      "type": "section-double",
-      "blocks": {
-        "heading_WLwTwQ": {
-          "type": "heading",
-          "settings": {
-            "title": "About Us",
-            "text_size": 5,
-            "mobile_text_size": 4
-          }
-        },
-        "text_jC6Vh9": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Inspired by the way our mothers, grandmothers and sisters adapt effortlessly to many roles, we decided to make jewellery that would do the same thing. Creating pieces that would accompany life’s joys and challenges – little luxuries that could be reached for again and again.</p>",
-            "text_size": 3,
-            "mobile_text_size": 4,
-            "text_style": "font-body"
-          }
-        },
-        "buttons_dKazt7": {
-          "type": "buttons",
-          "settings": {
-            "button_text": "Read more",
-            "button_url": "",
-            "button_type": "btn--primary",
-            "button_size": "btn--small",
-            "button_style": "btn--text",
-            "show_arrow": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_WLwTwQ",
-        "text_jC6Vh9",
-        "buttons_dKazt7"
-      ],
-      "disabled": true,
-      "settings": {
-        "layout": "",
-        "height": "screen-height-three-quarters",
-        "mobile_height": "screen-height-one-half--mobile",
-        "width": "wrapper--full-padded",
-        "image_1": "shopify://shop_images/Screenshot_2024-03-20_at_13.49.30.png",
-        "image_width": "one-half",
-        "text_alignment": "text-left",
-        "bg_color": "",
-        "color": "",
-        "padding_top": 0,
         "padding_bottom": 0
       }
     },
@@ -927,24 +589,19 @@
     }
   },
   "order": [
-    "section_hero_Nqt9yV",
+    "section_hero_kUNNiF",
     "080de123-cd67-4a8f-b095-390fa30c932d",
     "section_divider_iiaRVd",
     "section_collection_rQrqQm",
     "21a05252-aed6-490f-aa5f-589a9685314f",
     "section_divider_qwihgT",
-    "section_hero_kUNNiF",
     "hero",
-    "featured-collection",
     "section_hero_URDUxU",
+    "featured-collection",
+    "section_hero_Nqt9yV",
     "section_divider_KBcpKn",
     "section_hero_zKYGnw",
     "section_divider_FPKRhz",
-    "image-with-text",
-    "8c3fa3c0-64fa-406c-9f65-ced0a2e3da8f",
-    "fe493672-9f35-432d-b991-0e3cbb9a08ba",
-    "section_highlights_RXgML9",
-    "section_double_q8mYfx",
     "icons",
     "docs"
   ]
