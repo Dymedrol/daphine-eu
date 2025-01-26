@@ -175,38 +175,12 @@
             "bg_color": "#f0f0f0",
             "border_color": ""
           }
-        },
-        "template--17234605211894__21a05252-aed6-490f-aa5f-589a9685314f-highlight-1": {
-          "type": "highlight",
-          "disabled": true,
-          "settings": {
-            "heading": "New In",
-            "url": "shopify://collections/aw24",
-            "image": "shopify://shop_images/Daphine_Sabine-ear-cuff_2_2.jpg",
-            "color": "#000000",
-            "bg_color": "#f5f3ef",
-            "border_color": "rgba(0,0,0,0)"
-          }
-        },
-        "highlight_eEQKjR": {
-          "type": "highlight",
-          "disabled": true,
-          "settings": {
-            "heading": "Rings",
-            "url": "shopify://collections/rings",
-            "image": "shopify://shop_images/Daphine_Monikh-pt.II_Reena-rings_80b17f49-797c-4a29-9977-67c9e24d82fe.jpg",
-            "color": "#ffffff",
-            "bg_color": "#f0f0f0",
-            "border_color": ""
-          }
         }
       },
       "block_order": [
         "template--17234605211894__21a05252-aed6-490f-aa5f-589a9685314f-highlight-3",
         "template--17234605211894__21a05252-aed6-490f-aa5f-589a9685314f-highlight-2",
-        "highlight_e7xX9L",
-        "template--17234605211894__21a05252-aed6-490f-aa5f-589a9685314f-highlight-1",
-        "highlight_eEQKjR"
+        "highlight_e7xX9L"
       ],
       "custom_css": [
         ".highlights__item__content {top: unset !important; bottom: 0; font-family: var(--FONT-STACK-HEADING); font-style: var(--FONT-STYLE-HEADING); font-weight: var(--FONT-WEIGHT-HEADING); font-size: calc(var(--font-5) * var(--FONT-ADJUST-HEADING));}"
