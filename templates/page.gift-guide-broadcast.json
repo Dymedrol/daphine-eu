@@ -55,6 +55,17 @@
         "color": "#ffffff"
       }
     },
+    "section_divider_Krwb7X": {
+      "type": "section-divider",
+      "settings": {
+        "show_line": true,
+        "width": "wrapper",
+        "border_color": "",
+        "bg_color": "",
+        "padding_top": 50,
+        "padding_bottom": 0
+      }
+    },
     "section_rich_text_QqaqCd": {
       "type": "section-rich-text",
       "blocks": {
@@ -98,21 +109,32 @@
         "padding_bottom": 50
       }
     },
+    "section_divider_9Q48Cf": {
+      "type": "section-divider",
+      "settings": {
+        "show_line": true,
+        "width": "wrapper",
+        "border_color": "",
+        "bg_color": "",
+        "padding_top": 50,
+        "padding_bottom": 0
+      }
+    },
     "section_columns_zzqxbM": {
       "type": "section-columns",
       "blocks": {
         "image_dzAB3i": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Daphine_Ella-earrings_cdbe9aee-1add-43c3-8291-9e897021ecfa.jpg",
+            "image": "shopify://shop_images/Daphine_Adeleearrings1.png",
             "title": "",
             "heading_size": 3,
             "mobile_heading_size": 2,
-            "text": "<h6>Ella Earrings</h6>",
+            "text": "<h6>Adele Earrings</h6>",
             "text_size": 3,
             "mobile_text_size": 2,
             "button_text": "SHOP",
-            "button_url": "shopify://products/ella-earrings",
+            "button_url": "shopify://products/adele-earrings",
             "button_type": "btn--primary",
             "button_size": "",
             "button_style": "btn--text",
@@ -621,7 +643,9 @@
   "order": [
     "main",
     "9c12760c-73cd-48e6-8e16-45e5f3c30e40",
+    "section_divider_Krwb7X",
     "section_rich_text_QqaqCd",
+    "section_divider_9Q48Cf",
     "section_columns_zzqxbM",
     "section_collection_ah83E8",
     "section_hero_VUYWci",
