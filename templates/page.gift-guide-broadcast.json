@@ -374,15 +374,15 @@
         "image_fiQLYX": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Daphine_Adeleearrings1.png",
+            "image": "shopify://shop_images/Daphine_Cleonecklace_7610963d-a449-4b67-babc-3e2359b8f7c5.png",
             "title": "",
             "heading_size": 3,
             "mobile_heading_size": 2,
-            "text": "<h6>Adele Earrings</h6>",
+            "text": "<h6>Cleo Necklace</h6>",
             "text_size": 3,
             "mobile_text_size": 2,
             "button_text": "SHOP",
-            "button_url": "shopify://products/adele-earrings",
+            "button_url": "shopify://products/cleo-necklace",
             "button_type": "btn--primary",
             "button_size": "",
             "button_style": "btn--text",
