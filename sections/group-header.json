@@ -128,11 +128,10 @@
       "blocks": {
         "b89b8dee-c00f-47b0-a4ef-e4683116dfb3": {
           "type": "text",
-          "disabled": true,
           "settings": {
             "text": "<p>Sign up for 10% off your first order | Express Shipping on all EU orders</p>",
             "target_url_enabled": false,
-            "target_url": "",
+            "target_url": "shopify://pages/newsletter-sign-up",
             "target_referrer_enabled": false,
             "target_referrer": "",
             "target_device_enabled": false,

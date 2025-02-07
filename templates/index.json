@@ -50,9 +50,9 @@
       "settings": {
         "height": "image-height",
         "width": "wrapper--full",
-        "image_1": "shopify://shop_images/Daphine_Cora_cuff_Ella_necklace_banner.png",
+        "image_1": "shopify://shop_images/banner_for_eu.png",
         "mobile_height": "image-height--mobile",
-        "mobile_image": "shopify://shop_images/Daphine_Ellanecklace_small_medium_3bf1cc4d-1113-4be3-b3ad-04384c52b565.png",
+        "mobile_image": "shopify://shop_images/banner_for_eu_mobile.jpg",
         "flex_align": "align--middle-center",
         "overlay_opacity": 0,
         "overlay_color": "#000000",
