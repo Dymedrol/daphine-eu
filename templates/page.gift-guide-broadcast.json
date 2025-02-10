@@ -436,7 +436,7 @@
           "type": "heading",
           "disabled": true,
           "settings": {
-            "title": "Mene Bangle",
+            "title": "Vita Necklace",
             "heading_size": 4,
             "mobile_heading_size": 3
           }
@@ -461,8 +461,9 @@
       "settings": {
         "height": "image-height",
         "width": "wrapper--full-padded",
-        "image_1": "shopify://shop_images/NECKLACES_ON_BROWN_2.jpg",
+        "image_1": "shopify://shop_images/Daphine_Packaging_pink_pouch_gift_box_2.jpg",
         "mobile_height": "image-height--mobile",
+        "mobile_image": "shopify://shop_images/Daphine_Packaging_pinkpouch_giftbox.jpg",
         "flex_align": "align--bottom-left",
         "overlay_opacity": 0,
         "overlay_color": "#000000",
