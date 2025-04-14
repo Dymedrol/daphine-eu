@@ -48,7 +48,7 @@ $( document ).ready(function() {
         $(`.constructor-result-chain[data-count='${targetCount}']`).removeClass('constructor-result-chain_hidden');
         chainItems.removeClass('constructor-choice-item_active');
         target.addClass('constructor-choice-item_active');
-        chainPrice = Number(target.attr('data-price'));
+        chainPrice = Number(target.attr('data-price').replace(/,/g, "."));
         renderPrice();
     }
 
@@ -60,7 +60,7 @@ $( document ).ready(function() {
             selectedCharmsCount--;
             target.removeClass('constructor-choice-item_active');
             $('.constructor-result-charms').find(`.constructor-result-charm[data-count='${targetCount}']`).remove();
-            charmsPrice = charmsPrice - Number(target.attr('data-price'));
+            charmsPrice = charmsPrice - Number(target.attr('data-price').replace(/,/g, "."));
             $('.constructor-result-charms').removeClass('constructor-result-charms-1');
             $('.constructor-result-charms').removeClass('constructor-result-charms-2');
             $('.constructor-result-charms').removeClass('constructor-result-charms-3');
@@ -70,7 +70,7 @@ $( document ).ready(function() {
                 selectedCharmsCount++;
                 target.addClass('constructor-choice-item_active');
                 charmsTemplates.find(`.constructor-result-charm[data-count='${targetCount}']`).clone().appendTo('.constructor-result-charms');
-                charmsPrice = charmsPrice + Number(target.attr('data-price'));
+                charmsPrice = charmsPrice + Number(target.attr('data-price').replace(/,/g, "."));
 
                 $('.constructor-result-charms').removeClass('constructor-result-charms-1');
                 $('.constructor-result-charms').removeClass('constructor-result-charms-2');
