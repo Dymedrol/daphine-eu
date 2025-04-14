@@ -26,9 +26,26 @@
         "padding_top": 50,
         "padding_bottom": 0
       }
+    },
+    "constructor_j3irmA": {
+      "type": "constructor",
+      "settings": {
+        "chains": [
+          "ada-necklace",
+          "agathe-necklace-gold",
+          "agathe-necklace-silver"
+        ],
+        "charms": [
+          "agathe-earrings-silver",
+          "agathe-earrings-gold",
+          "aida-ring",
+          "baby-eddie-ring"
+        ]
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "constructor_j3irmA"
   ]
 }
