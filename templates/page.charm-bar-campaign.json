@@ -255,6 +255,29 @@
         "color": "#ffffff"
       }
     },
+    "section_collection_WYgVHn": {
+      "type": "section-collection",
+      "settings": {
+        "heading": "",
+        "description": "",
+        "layout": "inline",
+        "link_text": "",
+        "link_url": "",
+        "button_type": "btn--primary",
+        "button_size": "btn--small",
+        "button_style": "btn--text",
+        "show_arrow": false,
+        "featured_collection": "chains-charm-bar",
+        "style": "slider",
+        "grid": 4,
+        "rows": 1,
+        "layout_mobile": "carousel",
+        "bg_color": "",
+        "color": "",
+        "padding_top": 50,
+        "padding_bottom": 50
+      }
+    },
     "section_hero_pkjTEj": {
       "type": "section-hero",
       "settings": {
@@ -271,29 +294,6 @@
         "color": "#ffffff"
       }
     },
-    "section_collection_WYgVHn": {
-      "type": "section-collection",
-      "settings": {
-        "heading": "",
-        "description": "",
-        "layout": "inline",
-        "link_text": "",
-        "link_url": "",
-        "button_type": "btn--primary",
-        "button_size": "btn--small",
-        "button_style": "btn--text",
-        "show_arrow": false,
-        "featured_collection": "pre-spring-25-edit-2",
-        "style": "slider",
-        "grid": 4,
-        "rows": 1,
-        "layout_mobile": "carousel",
-        "bg_color": "",
-        "color": "",
-        "padding_top": 30,
-        "padding_bottom": 0
-      }
-    },
     "section_divider_8VDBhG": {
       "type": "section-divider",
       "settings": {
@@ -302,69 +302,6 @@
         "border_color": "",
         "bg_color": "",
         "padding_top": 0,
-        "padding_bottom": 50
-      }
-    },
-    "section_hero_pLzh9H": {
-      "type": "section-hero",
-      "blocks": {
-        "heading_AKUkQh": {
-          "type": "heading",
-          "settings": {
-            "title": "Antoinette Earrings",
-            "heading_size": 4,
-            "mobile_heading_size": 3
-          }
-        },
-        "button_q7bpzX": {
-          "type": "button",
-          "settings": {
-            "link_text": "SHOP",
-            "link": "shopify://products/antoinette-earrings",
-            "button_type": "btn--white",
-            "button_size": "btn--small",
-            "button_style": "btn--text",
-            "show_arrow": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_AKUkQh",
-        "button_q7bpzX"
-      ],
-      "settings": {
-        "height": "image-height",
-        "width": "wrapper--full-padded",
-        "image_1": "shopify://shop_images/Daphine_Antoinetteearrings_50e65538-7f82-4843-befe-da5b0bb20fa0.png",
-        "mobile_height": "image-height--mobile",
-        "flex_align": "align--bottom-left",
-        "overlay_opacity": 0,
-        "overlay_color": "#000000",
-        "show_overlay_text": false,
-        "bg_color": "",
-        "color": "#ffffff"
-      }
-    },
-    "section_collection_dVDi73": {
-      "type": "section-collection",
-      "settings": {
-        "heading": "",
-        "description": "",
-        "layout": "inline",
-        "link_text": "",
-        "link_url": "",
-        "button_type": "btn--primary",
-        "button_size": "btn--small",
-        "button_style": "btn--text",
-        "show_arrow": false,
-        "featured_collection": "pre-spring-25-edit-3",
-        "style": "slider",
-        "grid": 4,
-        "rows": 1,
-        "layout_mobile": "carousel",
-        "bg_color": "",
-        "color": "",
-        "padding_top": 50,
         "padding_bottom": 50
       }
     },
@@ -395,6 +332,7 @@
         "heading_tA9CeW",
         "button_G8Pk3y"
       ],
+      "disabled": true,
       "settings": {
         "height": "image-height",
         "width": "wrapper--full-padded",
@@ -408,39 +346,39 @@
         "color": "#ffffff"
       }
     },
-    "section_columns_naN7LL": {
+    "section_columns_tVGc9L": {
       "type": "section-columns",
       "blocks": {
-        "image_E7DwJ6": {
+        "image_agbtCt": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Daphine_Ellanecklace_small_e3b8039d-83e2-4768-9627-513a83f06925.png",
+            "image": "shopify://shop_images/Double-vintage-chain-and-gemini-zodiac-coin-bw.jpg",
             "title": "",
             "heading_size": 3,
             "mobile_heading_size": 2,
-            "text": "<h6>Ella Necklace</h6>",
+            "text": "",
             "text_size": 3,
             "mobile_text_size": 2,
-            "button_text": "SHOP",
-            "button_url": "shopify://products/ella-necklace",
+            "button_text": "",
+            "button_url": "",
             "button_type": "btn--primary",
             "button_size": "",
             "button_style": "btn--text",
             "show_arrow": false
           }
         },
-        "image_zWPLz8": {
+        "image_mTfret": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Daphine_Evanecklace1.png",
+            "image": "shopify://shop_images/double-vnitage-chain-and-gemini-zodiac-coin.jpg",
             "title": "",
             "heading_size": 4,
             "mobile_heading_size": 4,
-            "text": "<h6>Eva Necklace</h6>",
+            "text": "",
             "text_size": 3,
             "mobile_text_size": 2,
-            "button_text": "SHOP",
-            "button_url": "shopify://products/eva-necklace",
+            "button_text": "",
+            "button_url": "",
             "button_type": "btn--primary",
             "button_size": "",
             "button_style": "btn--text",
@@ -449,8 +387,8 @@
         }
       },
       "block_order": [
-        "image_E7DwJ6",
-        "image_zWPLz8"
+        "image_agbtCt",
+        "image_mTfret"
       ],
       "settings": {
         "title": "",
@@ -463,7 +401,7 @@
         "mobile_image_aspect_ratio": 1.2,
         "bg_color": "",
         "color": "",
-        "padding_top": 50,
+        "padding_top": 0,
         "padding_bottom": 50,
         "layout_mobile": "grid"
       }
@@ -480,8 +418,8 @@
         "button_size": "btn--small",
         "button_style": "btn--text",
         "show_arrow": false,
-        "featured_collection": "pre-spring-25-edit-4",
-        "style": "slider",
+        "featured_collection": "zodiac-coins",
+        "style": "grid",
         "grid": 4,
         "rows": 1,
         "layout_mobile": "carousel",
@@ -535,6 +473,7 @@
         "image_TYBpqV",
         "image_gHrwEG"
       ],
+      "disabled": true,
       "settings": {
         "title": "",
         "heading_size": 5,
@@ -629,13 +568,11 @@
     "section_collection_ah83E8",
     "section_rich_text_KARPMU",
     "section_hero_VUYWci",
-    "section_hero_pkjTEj",
     "section_collection_WYgVHn",
+    "section_hero_pkjTEj",
     "section_divider_8VDBhG",
-    "section_hero_pLzh9H",
-    "section_collection_dVDi73",
     "section_hero_JEi3b8",
-    "section_columns_naN7LL",
+    "section_columns_tVGc9L",
     "section_collection_H3fTM6",
     "section_columns_jFhcJz",
     "section_rich_text_VGMN6z",
