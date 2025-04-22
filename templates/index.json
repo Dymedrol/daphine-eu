@@ -61,6 +61,59 @@
         "color": "#ffffff"
       }
     },
+    "section_hero_WXWFcr": {
+      "type": "section-hero",
+      "blocks": {
+        "heading_kq3LNp": {
+          "type": "heading",
+          "settings": {
+            "title": "The Charm Bar",
+            "heading_size": 8,
+            "mobile_heading_size": 7
+          }
+        },
+        "text_UhjaNx": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "description": "Tell your brand's story through images.",
+            "text_size": 5,
+            "mobile_text_size": 5,
+            "text_style": "font-body"
+          }
+        },
+        "button_rTKNfw": {
+          "type": "button",
+          "settings": {
+            "link_text": "discover chapter one",
+            "link": "shopify://pages/about-charm-bar",
+            "button_type": "btn--white",
+            "button_size": "btn--small",
+            "button_style": "btn--text",
+            "show_arrow": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_kq3LNp",
+        "text_UhjaNx",
+        "button_rTKNfw"
+      ],
+      "disabled": true,
+      "settings": {
+        "height": "image-height",
+        "width": "wrapper--full",
+        "image_1": "shopify://shop_images/zodiac_coins_banner.png",
+        "mobile_height": "image-height--mobile",
+        "mobile_image": "shopify://shop_images/zodiac_coins_banner_mob.jpg",
+        "flex_align": "align--middle-center",
+        "overlay_opacity": 0,
+        "overlay_color": "#000000",
+        "show_overlay_text": false,
+        "bg_color": "",
+        "color": "#ffffff"
+      }
+    },
     "080de123-cd67-4a8f-b095-390fa30c932d": {
       "type": "section-announcement",
       "blocks": {
@@ -605,6 +658,7 @@
   },
   "order": [
     "section_hero_kUNNiF",
+    "section_hero_WXWFcr",
     "080de123-cd67-4a8f-b095-390fa30c932d",
     "section_divider_iiaRVd",
     "section_collection_rQrqQm",
