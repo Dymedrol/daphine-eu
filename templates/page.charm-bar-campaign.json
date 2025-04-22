@@ -46,7 +46,7 @@
       "settings": {
         "height": "image-height",
         "width": "wrapper--full-padded",
-        "image_1": "shopify://shop_images/Daphine_Cora_cuff_Ella_necklace_banner.png",
+        "image_1": "shopify://shop_images/Daphine_horoscope_coins_1.jpg",
         "mobile_height": "image-height--mobile",
         "flex_align": "align--bottom-center",
         "overlay_opacity": 20,
@@ -70,15 +70,23 @@
         "heading_XngMkz": {
           "type": "heading",
           "settings": {
-            "title": "PRE-SPRING 2025",
+            "title": "THE CHARM BAR",
             "text_size": 5,
+            "mobile_text_size": 3
+          }
+        },
+        "heading_wdEip4": {
+          "type": "heading",
+          "settings": {
+            "title": "Chapter One | Zodiac",
+            "text_size": 3,
             "mobile_text_size": 3
           }
         },
         "text_9tMAM7": {
           "type": "text",
           "settings": {
-            "text": "<p>The Pre-Spring 2025 collection celebrates everyday elegance through delicate design. Dainty zirconia accents and burgundy cord necklaces bring a fresh perspective to daily wear, while sculptural pieces are designed to seamlessly complement every moment. Crafted for effortless layering and timeless appeal - everyday treasures.</p>",
+            "text": "<p>A collection designed to evolve with you. </p><p>The Charm Bar embodies a simple philosophy: meaningful jewellery should reflect your individual story. Whether purchased for yourself or shared with friends, this is a collection that acknowledges personal style as something that grows and adapts over time—just like you do.</p>",
             "text_size": 3,
             "mobile_text_size": 3,
             "text_style": "font-body"
@@ -87,8 +95,8 @@
         "buttons_dixte7": {
           "type": "buttons",
           "settings": {
-            "button_text": "DISCOVER THE COLLECTION",
-            "button_url": "shopify://collections/pre-spring-2025",
+            "button_text": "CREATE YOUR NECKLACE",
+            "button_url": "shopify://pages/daphine-charm-bar",
             "button_type": "btn--primary",
             "button_size": "btn--small",
             "button_style": "btn--text",
@@ -99,35 +107,9 @@
       "block_order": [
         "subheading_UJdRVf",
         "heading_XngMkz",
+        "heading_wdEip4",
         "text_9tMAM7",
         "buttons_dixte7"
-      ],
-      "settings": {
-        "width": "wrapper--narrow",
-        "align_text": "text-center",
-        "bg_color": "",
-        "color": "",
-        "padding_top": 50,
-        "padding_bottom": 50
-      }
-    },
-    "section_rich_text_VGMN6z": {
-      "type": "section-rich-text",
-      "blocks": {
-        "buttons_xjdi6T": {
-          "type": "buttons",
-          "settings": {
-            "button_text": "DISCOVER THE COLLECTION",
-            "button_url": "shopify://collections/pre-spring-2025",
-            "button_type": "btn--primary",
-            "button_size": "btn--small",
-            "button_style": "btn--text",
-            "show_arrow": false
-          }
-        }
-      },
-      "block_order": [
-        "buttons_xjdi6T"
       ],
       "settings": {
         "width": "wrapper--narrow",
@@ -144,15 +126,15 @@
         "image_dzAB3i": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Daphine_Elodieearrings_1025b121-c6b6-4c0d-a3ae-168f3be18064.png",
+            "image": "shopify://shop_images/Daphine-paperclip_chain-aquarius_zodiac_coin.jpg",
             "title": "",
             "heading_size": 3,
             "mobile_heading_size": 2,
-            "text": "<h6>Elodie Earrings</h6>",
+            "text": "",
             "text_size": 3,
             "mobile_text_size": 2,
-            "button_text": "SHOP",
-            "button_url": "shopify://products/elodie-earrings",
+            "button_text": "",
+            "button_url": "",
             "button_type": "btn--primary",
             "button_size": "",
             "button_style": "btn--text",
@@ -162,15 +144,15 @@
         "image_pkVXwe": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Daphine_Cleonecklace_7610963d-a449-4b67-babc-3e2359b8f7c5.png",
+            "image": "shopify://shop_images/Daphine_aries_on_forcat_chain.jpg",
             "title": "",
             "heading_size": 4,
             "mobile_heading_size": 4,
-            "text": "<h6>Cleo Necklace</h6>",
+            "text": "",
             "text_size": 3,
             "mobile_text_size": 2,
-            "button_text": "SHOP",
-            "button_url": "shopify://products/cleo-necklace",
+            "button_text": "",
+            "button_url": "",
             "button_type": "btn--primary",
             "button_size": "",
             "button_style": "btn--text",
@@ -210,34 +192,35 @@
         "button_size": "btn--small",
         "button_style": "btn--text",
         "show_arrow": false,
-        "featured_collection": "pre-spring-25-edit-1",
+        "featured_collection": "charm-bar-drop-1",
         "style": "slider",
         "grid": 4,
-        "rows": 1,
+        "rows": 3,
         "layout_mobile": "carousel",
         "bg_color": "",
         "color": "",
-        "padding_top": 30,
+        "padding_top": 0,
         "padding_bottom": 50
       }
     },
-    "section_hero_VUYWci": {
-      "type": "section-hero",
+    "section_rich_text_KARPMU": {
+      "type": "section-rich-text",
       "blocks": {
-        "heading_kTFJ9b": {
-          "type": "heading",
+        "text_FLpBfc": {
+          "type": "text",
           "settings": {
-            "title": "Anna Necklace",
-            "heading_size": 4,
-            "mobile_heading_size": 3
+            "text": "<p>Begin with your choice of chains, then start building your narrative with zodiac symbols that mark life's quiet revelations and celebrated milestones. Your collection can continue to evolve as we introduce new ways to tell your story. As your life changes, your necklace can transform too, becoming a visual timeline of your experiences.</p>",
+            "text_size": 3,
+            "mobile_text_size": 3,
+            "text_style": "font-body"
           }
         },
-        "button_R3ViQy": {
-          "type": "button",
+        "buttons_VKGgMX": {
+          "type": "buttons",
           "settings": {
-            "link_text": "SHOP",
-            "link": "shopify://products/anna-necklace",
-            "button_type": "btn--white",
+            "button_text": "CREATE YOUR NECKLACE",
+            "button_url": "shopify://pages/daphine-charm-bar",
+            "button_type": "btn--primary",
             "button_size": "btn--small",
             "button_style": "btn--text",
             "show_arrow": false
@@ -245,13 +228,24 @@
         }
       },
       "block_order": [
-        "heading_kTFJ9b",
-        "button_R3ViQy"
+        "text_FLpBfc",
+        "buttons_VKGgMX"
       ],
+      "settings": {
+        "width": "wrapper--narrow",
+        "align_text": "text-center",
+        "bg_color": "",
+        "color": "",
+        "padding_top": 50,
+        "padding_bottom": 50
+      }
+    },
+    "section_hero_VUYWci": {
+      "type": "section-hero",
       "settings": {
         "height": "image-height",
         "width": "wrapper--full-padded",
-        "image_1": "shopify://shop_images/Daphine_Anna_necklace.png",
+        "image_1": "shopify://shop_images/Still-2025-04-01-135049_1.276-banner-4x5.jpg",
         "mobile_height": "image-height--mobile",
         "flex_align": "align--bottom-left",
         "overlay_opacity": 0,
@@ -261,64 +255,20 @@
         "color": "#ffffff"
       }
     },
-    "section_columns_UQ6qG3": {
-      "type": "section-columns",
-      "blocks": {
-        "image_MHXffM": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Daphine_Adeleearrings_510ad8f2-418f-44da-bbf0-4841f94b624b.png",
-            "title": "",
-            "heading_size": 3,
-            "mobile_heading_size": 2,
-            "text": "<h6>Adele Earrings</h6>",
-            "text_size": 3,
-            "mobile_text_size": 2,
-            "button_text": "SHOP",
-            "button_url": "shopify://products/adele-earrings",
-            "button_type": "btn--primary",
-            "button_size": "",
-            "button_style": "btn--text",
-            "show_arrow": false
-          }
-        },
-        "image_ijx4hj": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Still_2025-01-19_001005_1.23.1_copy.png",
-            "title": "",
-            "heading_size": 4,
-            "mobile_heading_size": 4,
-            "text": "<h6>Anna Necklace</h6>",
-            "text_size": 3,
-            "mobile_text_size": 2,
-            "button_text": "SHOP",
-            "button_url": "shopify://products/anna-necklace",
-            "button_type": "btn--primary",
-            "button_size": "",
-            "button_style": "btn--text",
-            "show_arrow": false
-          }
-        }
-      },
-      "block_order": [
-        "image_MHXffM",
-        "image_ijx4hj"
-      ],
+    "section_hero_pkjTEj": {
+      "type": "section-hero",
       "settings": {
-        "title": "",
-        "heading_size": 5,
-        "mobile_heading_size": 5,
-        "align_text": "text-center",
-        "align_columns": "flex-align-center",
-        "width": "wrapper",
-        "image_aspect_ratio": 1.2,
-        "mobile_image_aspect_ratio": 1.2,
+        "height": "image-height",
+        "width": "wrapper--full-padded",
+        "image_1": "shopify://shop_images/forcat-chain-with-capricorn-zodiac-coin.jpg",
+        "mobile_height": "image-height--mobile",
+        "mobile_image": "shopify://shop_images/forcat-chain-with-capricorn_zodiac-coin_mobile.jpg",
+        "flex_align": "align--bottom-left",
+        "overlay_opacity": 0,
+        "overlay_color": "#000000",
+        "show_overlay_text": false,
         "bg_color": "",
-        "color": "",
-        "padding_top": 50,
-        "padding_bottom": 50,
-        "layout_mobile": "grid"
+        "color": "#ffffff"
       }
     },
     "section_collection_WYgVHn": {
@@ -601,6 +551,33 @@
         "layout_mobile": "grid"
       }
     },
+    "section_rich_text_VGMN6z": {
+      "type": "section-rich-text",
+      "blocks": {
+        "buttons_xjdi6T": {
+          "type": "buttons",
+          "settings": {
+            "button_text": "DISCOVER THE COLLECTION",
+            "button_url": "shopify://collections/pre-spring-2025",
+            "button_type": "btn--primary",
+            "button_size": "btn--small",
+            "button_style": "btn--text",
+            "show_arrow": false
+          }
+        }
+      },
+      "block_order": [
+        "buttons_xjdi6T"
+      ],
+      "settings": {
+        "width": "wrapper--narrow",
+        "align_text": "text-center",
+        "bg_color": "",
+        "color": "",
+        "padding_top": 50,
+        "padding_bottom": 50
+      }
+    },
     "section_divider_RhK3TA": {
       "type": "section-divider",
       "settings": {
@@ -650,8 +627,9 @@
     "section_rich_text_QqaqCd",
     "section_columns_zzqxbM",
     "section_collection_ah83E8",
+    "section_rich_text_KARPMU",
     "section_hero_VUYWci",
-    "section_columns_UQ6qG3",
+    "section_hero_pkjTEj",
     "section_collection_WYgVHn",
     "section_divider_8VDBhG",
     "section_hero_pLzh9H",
