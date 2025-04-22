@@ -83,6 +83,14 @@
             "mobile_text_size": 3
           }
         },
+        "divider_d96GT3": {
+          "type": "divider",
+          "settings": {
+            "show_line": true,
+            "padding_top": 20,
+            "padding_bottom": 0
+          }
+        },
         "text_9tMAM7": {
           "type": "text",
           "settings": {
@@ -108,6 +116,7 @@
         "subheading_UJdRVf",
         "heading_XngMkz",
         "heading_wdEip4",
+        "divider_d96GT3",
         "text_9tMAM7",
         "buttons_dixte7"
       ],
