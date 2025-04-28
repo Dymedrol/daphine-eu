@@ -120,6 +120,80 @@
         "text_9tMAM7",
         "buttons_dixte7"
       ],
+      "disabled": true,
+      "settings": {
+        "width": "wrapper--narrow",
+        "align_text": "text-center",
+        "bg_color": "",
+        "color": "",
+        "padding_top": 50,
+        "padding_bottom": 50
+      }
+    },
+    "section_rich_text_Xqa9Q4": {
+      "type": "section-rich-text",
+      "blocks": {
+        "subheading_fQYCcb": {
+          "type": "subheading",
+          "settings": {
+            "subheading": "Introducing",
+            "text_size": 3,
+            "mobile_text_size": 3
+          }
+        },
+        "heading_gkDmA8": {
+          "type": "heading",
+          "settings": {
+            "title": "ZODIAC COIN CHARMS",
+            "text_size": 5,
+            "mobile_text_size": 3
+          }
+        },
+        "heading_Cxknkk": {
+          "type": "heading",
+          "settings": {
+            "title": "Chapter One",
+            "text_size": 3,
+            "mobile_text_size": 3
+          }
+        },
+        "divider_3KF8fb": {
+          "type": "divider",
+          "settings": {
+            "show_line": true,
+            "padding_top": 20,
+            "padding_bottom": 0
+          }
+        },
+        "text_JmUBhe": {
+          "type": "text",
+          "settings": {
+            "text": "<p>A collection designed to evolve with you. </p><p>Meaningful jewellery should reflect your individual story. Whether purchased for yourself or shared with friends, this is a collection that acknowledges personal style as something that grows and adapts over time—just like you do.</p>",
+            "text_size": 3,
+            "mobile_text_size": 3,
+            "text_style": "font-body"
+          }
+        },
+        "buttons_x7mCpz": {
+          "type": "buttons",
+          "settings": {
+            "button_text": "CREATE YOUR NECKLACE",
+            "button_url": "shopify://pages/daphine-charm-bar",
+            "button_type": "btn--primary",
+            "button_size": "btn--small",
+            "button_style": "btn--text",
+            "show_arrow": false
+          }
+        }
+      },
+      "block_order": [
+        "subheading_fQYCcb",
+        "heading_gkDmA8",
+        "heading_Cxknkk",
+        "divider_3KF8fb",
+        "text_JmUBhe",
+        "buttons_x7mCpz"
+      ],
       "settings": {
         "width": "wrapper--narrow",
         "align_text": "text-center",
@@ -218,7 +292,7 @@
         "text_FLpBfc": {
           "type": "text",
           "settings": {
-            "text": "<p>Begin with your choice of chains, then start building your narrative with zodiac symbols that mark life's quiet revelations and celebrated milestones. Your collection can continue to evolve as we introduce new ways to tell your story. As your life changes, your necklace can transform too, becoming a visual timeline of your experiences.</p>",
+            "text": "<p>Begin with your choice of chains, then start building your narrative with zodiac symbols–inspired by vintage coins–that mark life's quiet revelations and celebrated milestones. Your collection can continue to evolve as we introduce new ways to tell your story. As your life changes, your necklace can transform too, becoming a visual timeline of your experiences.</p>",
             "text_size": 3,
             "mobile_text_size": 3,
             "text_style": "font-body"
@@ -254,14 +328,27 @@
       "settings": {
         "height": "image-height",
         "width": "wrapper--full-padded",
-        "image_1": "shopify://shop_images/Still-2025-04-01-135049_1.276-banner-4x5.jpg",
+        "image_1": "shopify://shop_images/daphine_charm-bar-zodiac-signs-names-banner.png",
         "mobile_height": "image-height--mobile",
+        "mobile_image": "shopify://shop_images/daphine_charm-bar-zodiac-signs-names-4x5.png",
         "flex_align": "align--bottom-left",
         "overlay_opacity": 0,
         "overlay_color": "#000000",
         "show_overlay_text": false,
         "bg_color": "",
         "color": "#ffffff"
+      }
+    },
+    "section_divider_fGQkkh": {
+      "type": "section-divider",
+      "name": "Divider",
+      "settings": {
+        "show_line": true,
+        "width": "wrapper",
+        "border_color": "",
+        "bg_color": "",
+        "padding_top": 0,
+        "padding_bottom": 50
       }
     },
     "section_collection_WYgVHn": {
@@ -376,6 +463,7 @@
     },
     "section_collection_H3fTM6": {
       "type": "section-collection",
+      "disabled": true,
       "settings": {
         "heading": "",
         "description": "",
@@ -517,6 +605,7 @@
       "block_order": [
         "buttons_xjdi6T"
       ],
+      "disabled": true,
       "settings": {
         "width": "wrapper--narrow",
         "align_text": "text-center",
@@ -573,10 +662,12 @@
     "main",
     "9c12760c-73cd-48e6-8e16-45e5f3c30e40",
     "section_rich_text_QqaqCd",
+    "section_rich_text_Xqa9Q4",
     "section_columns_zzqxbM",
     "section_collection_ah83E8",
     "section_rich_text_KARPMU",
     "section_hero_VUYWci",
+    "section_divider_fGQkkh",
     "section_collection_WYgVHn",
     "section_hero_pkjTEj",
     "section_divider_8VDBhG",
