@@ -95,7 +95,7 @@
           }
         },
         "drop_hint_2_0_app_dah_WfNacY": {
-          "type": "shopify://apps/drop-hint-2-0/blocks/app_dah/2087e30d-3884-4008-9b6b-545028750b80",
+          "type": "shopify://apps/drop-hint/blocks/app_dah/2087e30d-3884-4008-9b6b-545028750b80",
           "settings": {}
         },
         "514a386f-5539-4dea-ac18-97ee59d12052": {
@@ -122,6 +122,14 @@
             "title_5": "",
             "raw_content_5": "",
             "padding_bottom": 0
+          }
+        },
+        "divider_gkxfDQ": {
+          "type": "divider",
+          "settings": {
+            "show_line": true,
+            "padding_top": 20,
+            "padding_bottom": 20
           }
         },
         "upsell": {
@@ -208,14 +216,6 @@
             "padding_bottom": 32
           }
         },
-        "divider_gkxfDQ": {
-          "type": "divider",
-          "settings": {
-            "show_line": true,
-            "padding_top": 20,
-            "padding_bottom": 20
-          }
-        },
         "5e8c2c50-6be8-439e-9c17-2d15838b33f6": {
           "type": "code",
           "disabled": true,
@@ -252,6 +252,7 @@
         "drop_hint_2_0_app_dah_WfNacY",
         "514a386f-5539-4dea-ac18-97ee59d12052",
         "tabs",
+        "divider_gkxfDQ",
         "upsell",
         "text_9PFz7U",
         "icon_2",
@@ -260,7 +261,6 @@
         "icon_1",
         "icon_EKrF8n",
         "pickup",
-        "divider_gkxfDQ",
         "5e8c2c50-6be8-439e-9c17-2d15838b33f6",
         "features_gpe9Xx"
       ],
