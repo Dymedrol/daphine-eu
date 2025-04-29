@@ -94,9 +94,7 @@
     "footer_link_hover": "#212121",
     "enable_free_shipping_message": true,
     "sale_background_color": "#be563f",
-    "content_for_index": [
-
-    ],
+    "content_for_index": [],
     "blocks": {
       "5858961087409699889": {
         "type": "shopify://apps/geolocation-orbe/blocks/app-embed-footer-selector/7cb09287-cd2b-4646-837c-f1f9b6ea703e",
@@ -126,8 +124,7 @@
       "855628211100114053": {
         "type": "shopify://apps/klaviyo-email-marketing-sms/blocks/klaviyo-onsite-embed/2632fe16-c075-4321-a88b-50b567f42507",
         "disabled": false,
-        "settings": {
-        }
+        "settings": {}
       },
       "15912215999290715800": {
         "type": "shopify://apps/geolocation-orbe/blocks/app-embed-modal/7cb09287-cd2b-4646-837c-f1f9b6ea703e",
@@ -161,8 +158,7 @@
       "17550530943902319648": {
         "type": "shopify://apps/appikon-back-in-stock/blocks/subscribe_it_helper/eb949c69-b3e6-4216-a322-1cd63915d46d",
         "disabled": false,
-        "settings": {
-        }
+        "settings": {}
       }
     }
   },
@@ -431,7 +427,7 @@
   },
   "platform_customizations": {
     "custom_css": [
-
+      ".image-wrapper img {background-color: #f5f3ef !important;}"
     ]
   }
 }
