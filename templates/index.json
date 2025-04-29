@@ -47,6 +47,7 @@
         "text_rnLxDT",
         "button_y9YkFT"
       ],
+      "disabled": true,
       "settings": {
         "height": "image-height",
         "width": "wrapper--full",
@@ -99,7 +100,6 @@
         "text_UhjaNx",
         "button_rTKNfw"
       ],
-      "disabled": true,
       "settings": {
         "height": "image-height",
         "width": "wrapper--full",
