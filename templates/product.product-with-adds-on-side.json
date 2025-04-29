@@ -49,6 +49,14 @@
           "type": "shopify://apps/drop-hint/blocks/app_dah/2087e30d-3884-4008-9b6b-545028750b80",
           "settings": {}
         },
+        "divider_1": {
+          "type": "divider",
+          "settings": {
+            "show_line": true,
+            "padding_top": 20,
+            "padding_bottom": 10
+          }
+        },
         "text_Kexej3": {
           "type": "text",
           "settings": {
@@ -90,7 +98,7 @@
             "padding_bottom": 0
           }
         },
-        "divider_1": {
+        "divider_b3Qp9P": {
           "type": "divider",
           "settings": {
             "show_line": true,
@@ -253,12 +261,13 @@
         "price",
         "buttons",
         "drop_hint_2_0_app_dah_WfNacY",
+        "divider_1",
         "text_Kexej3",
         "variants",
         "26009e0d-38df-4486-a189-272664f3a0d7",
         "siblings_8a4VCJ",
         "text_e8RRjp",
-        "divider_1",
+        "divider_b3Qp9P",
         "complementary_products_wLTPTc",
         "514a386f-5539-4dea-ac18-97ee59d12052",
         "tabs",
