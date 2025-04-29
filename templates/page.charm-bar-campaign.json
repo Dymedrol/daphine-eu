@@ -176,6 +176,7 @@
         },
         "buttons_x7mCpz": {
           "type": "buttons",
+          "disabled": true,
           "settings": {
             "button_text": "CREATE YOUR NECKLACE",
             "button_url": "shopify://pages/daphine-charm-bar",
@@ -354,6 +355,7 @@
     },
     "section_collection_WYgVHn": {
       "type": "section-collection",
+      "disabled": true,
       "settings": {
         "heading": "",
         "description": "",
