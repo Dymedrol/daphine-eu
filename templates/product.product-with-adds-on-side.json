@@ -98,6 +98,13 @@
           "type": "shopify://apps/drop-hint/blocks/app_dah/2087e30d-3884-4008-9b6b-545028750b80",
           "settings": {}
         },
+        "complementary_products_wLTPTc": {
+          "type": "complementary-products",
+          "settings": {
+            "bg_color": "",
+            "padding_bottom": 16
+          }
+        },
         "514a386f-5539-4dea-ac18-97ee59d12052": {
           "type": "divider",
           "settings": {
@@ -126,6 +133,7 @@
         },
         "upsell": {
           "type": "upsell",
+          "disabled": true,
           "settings": {
             "upsell_product": "{{ product.metafields.related_products.product1.value }}",
             "bg_color": "rgba(0,0,0,0)",
@@ -250,6 +258,7 @@
         "text_Kexej3",
         "buttons",
         "drop_hint_2_0_app_dah_WfNacY",
+        "complementary_products_wLTPTc",
         "514a386f-5539-4dea-ac18-97ee59d12052",
         "tabs",
         "upsell",
