@@ -36,12 +36,25 @@
             "padding_bottom": 16
           }
         },
-        "text_e8RRjp": {
-          "type": "text",
+        "buttons": {
+          "type": "buttons",
           "settings": {
-            "title": "",
-            "text": "{{ product.metafields.custom.stone_size_ella_nk_ | metafield_tag }}",
-            "padding_bottom": 0
+            "show_quantity": false,
+            "show_payment_button": true,
+            "show_gift_card_recipient": true,
+            "padding_bottom": 32
+          }
+        },
+        "drop_hint_2_0_app_dah_WfNacY": {
+          "type": "shopify://apps/drop-hint/blocks/app_dah/2087e30d-3884-4008-9b6b-545028750b80",
+          "settings": {}
+        },
+        "divider_1": {
+          "type": "divider",
+          "settings": {
+            "show_line": true,
+            "padding_top": 20,
+            "padding_bottom": 10
           }
         },
         "variants": {
@@ -50,6 +63,14 @@
             "info_page": "faqs",
             "subscriptions_enable_selectors": false,
             "padding_bottom": 16
+          }
+        },
+        "text_e8RRjp": {
+          "type": "text",
+          "settings": {
+            "title": "",
+            "text": "{{ product.metafields.custom.stone_size_ella_nk_ | metafield_tag }}",
+            "padding_bottom": 0
           }
         },
         "26009e0d-38df-4486-a189-272664f3a0d7": {
@@ -69,14 +90,6 @@
             "padding_bottom": 16
           }
         },
-        "divider_1": {
-          "type": "divider",
-          "settings": {
-            "show_line": true,
-            "padding_top": 20,
-            "padding_bottom": 10
-          }
-        },
         "text_Kexej3": {
           "type": "text",
           "settings": {
@@ -84,19 +97,6 @@
             "text": "{{ product.metafields.custom.cutline_2_pre_order_date | metafield_tag }}",
             "padding_bottom": 16
           }
-        },
-        "buttons": {
-          "type": "buttons",
-          "settings": {
-            "show_quantity": false,
-            "show_payment_button": true,
-            "show_gift_card_recipient": true,
-            "padding_bottom": 32
-          }
-        },
-        "drop_hint_2_0_app_dah_WfNacY": {
-          "type": "shopify://apps/drop-hint/blocks/app_dah/2087e30d-3884-4008-9b6b-545028750b80",
-          "settings": {}
         },
         "complementary_products_wLTPTc": {
           "type": "complementary-products",
@@ -218,6 +218,7 @@
         },
         "divider_gkxfDQ": {
           "type": "divider",
+          "disabled": true,
           "settings": {
             "show_line": true,
             "padding_top": 20,
@@ -250,14 +251,14 @@
         "title",
         "text_mafTwb",
         "price",
-        "text_e8RRjp",
-        "variants",
-        "26009e0d-38df-4486-a189-272664f3a0d7",
-        "siblings_8a4VCJ",
-        "divider_1",
-        "text_Kexej3",
         "buttons",
         "drop_hint_2_0_app_dah_WfNacY",
+        "divider_1",
+        "variants",
+        "text_e8RRjp",
+        "26009e0d-38df-4486-a189-272664f3a0d7",
+        "siblings_8a4VCJ",
+        "text_Kexej3",
         "complementary_products_wLTPTc",
         "514a386f-5539-4dea-ac18-97ee59d12052",
         "tabs",
