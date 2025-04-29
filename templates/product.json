@@ -44,6 +44,14 @@
             "padding_bottom": 0
           }
         },
+        "text_Kexej3": {
+          "type": "text",
+          "settings": {
+            "title": "",
+            "text": "{{ product.metafields.custom.cutline_2_pre_order_date | metafield_tag }}",
+            "padding_bottom": 16
+          }
+        },
         "variants": {
           "type": "variants",
           "settings": {
@@ -75,14 +83,6 @@
             "show_line": true,
             "padding_top": 20,
             "padding_bottom": 10
-          }
-        },
-        "text_Kexej3": {
-          "type": "text",
-          "settings": {
-            "title": "",
-            "text": "{{ product.metafields.custom.cutline_2_pre_order_date | metafield_tag }}",
-            "padding_bottom": 16
           }
         },
         "buttons": {
@@ -243,11 +243,11 @@
         "text_mafTwb",
         "price",
         "text_e8RRjp",
+        "text_Kexej3",
         "variants",
         "26009e0d-38df-4486-a189-272664f3a0d7",
         "siblings_8a4VCJ",
         "divider_1",
-        "text_Kexej3",
         "buttons",
         "drop_hint_2_0_app_dah_WfNacY",
         "514a386f-5539-4dea-ac18-97ee59d12052",
