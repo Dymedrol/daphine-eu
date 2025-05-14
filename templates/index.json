@@ -87,7 +87,7 @@
           "type": "button",
           "settings": {
             "link_text": "DISCOVER CHAPTER TWO",
-            "link": "shopify://products/zodiac-coin-charms",
+            "link": "shopify://products/initial-charms",
             "button_type": "btn--white",
             "button_size": "btn--small",
             "button_style": "btn--text",
