@@ -44,9 +44,9 @@
         "template--16858200375542__9c12760c-73cd-48e6-8e16-45e5f3c30e40-heading-1"
       ],
       "settings": {
-        "height": "image-height",
+        "height": "screen-height-three-quarters",
         "width": "wrapper--full-padded",
-        "image_1": "shopify://shop_images/Daphine_horoscope_coins_1.jpg",
+        "image_1": "shopify://shop_images/Daphine_zodiac-coins_initial-charms.jpg",
         "mobile_height": "image-height--mobile",
         "flex_align": "align--bottom-center",
         "overlay_opacity": 20,
@@ -144,13 +144,14 @@
         "heading_gkDmA8": {
           "type": "heading",
           "settings": {
-            "title": "ZODIAC COIN CHARMS",
+            "title": "CHARM BAR",
             "text_size": 5,
             "mobile_text_size": 3
           }
         },
         "heading_Cxknkk": {
           "type": "heading",
+          "disabled": true,
           "settings": {
             "title": "Chapter One",
             "text_size": 3,
@@ -210,7 +211,7 @@
         "image_dzAB3i": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Daphine-paperclip_chain-aquarius_zodiac_coin.jpg",
+            "image": "shopify://shop_images/Daphine_initial-zodiac-charms-forcat-double-link-chain.png",
             "title": "",
             "heading_size": 3,
             "mobile_heading_size": 2,
@@ -228,7 +229,7 @@
         "image_pkVXwe": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Daphine_aries_on_forcat_chain.jpg",
+            "image": "shopify://shop_images/Daphine_forcat-chain_paperclip-chain_zodiac_initial-J.jpg",
             "title": "",
             "heading_size": 4,
             "mobile_heading_size": 4,
@@ -264,6 +265,218 @@
         "layout_mobile": "grid"
       }
     },
+    "section_rich_text_Xw9yrF": {
+      "type": "section-rich-text",
+      "blocks": {
+        "subheading_FVRHyp": {
+          "type": "subheading",
+          "settings": {
+            "subheading": "Chapter One",
+            "text_size": 3,
+            "mobile_text_size": 3
+          }
+        },
+        "heading_nihNye": {
+          "type": "heading",
+          "settings": {
+            "title": "ZODIAC COIN CHARMS",
+            "text_size": 5,
+            "mobile_text_size": 3
+          }
+        },
+        "heading_pbAJKe": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "title": "Chapter One",
+            "text_size": 3,
+            "mobile_text_size": 3
+          }
+        },
+        "divider_ztU8Rf": {
+          "type": "divider",
+          "disabled": true,
+          "settings": {
+            "show_line": true,
+            "padding_top": 20,
+            "padding_bottom": 0
+          }
+        },
+        "text_nkzjrQ": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>A collection designed to evolve with you. </p><p>Meaningful jewellery should reflect your individual story. Whether purchased for yourself or shared with friends, this is a collection that acknowledges personal style as something that grows and adapts over time—just like you do.</p>",
+            "text_size": 3,
+            "mobile_text_size": 3,
+            "text_style": "font-body"
+          }
+        },
+        "buttons_EeYeEb": {
+          "type": "buttons",
+          "settings": {
+            "button_text": "shop",
+            "button_url": "shopify://products/zodiac-coin-charms",
+            "button_type": "btn--primary",
+            "button_size": "btn--small",
+            "button_style": "btn--text",
+            "show_arrow": false
+          }
+        }
+      },
+      "block_order": [
+        "subheading_FVRHyp",
+        "heading_nihNye",
+        "heading_pbAJKe",
+        "divider_ztU8Rf",
+        "text_nkzjrQ",
+        "buttons_EeYeEb"
+      ],
+      "settings": {
+        "width": "wrapper--narrow",
+        "align_text": "text-center",
+        "bg_color": "",
+        "color": "",
+        "padding_top": 0,
+        "padding_bottom": 50
+      }
+    },
+    "section_columns_dfMteg": {
+      "type": "section-columns",
+      "blocks": {
+        "image_dfD4mm": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Daphine-paperclip_chain-aquarius_zodiac_coin.jpg",
+            "title": "",
+            "heading_size": 3,
+            "mobile_heading_size": 2,
+            "text": "",
+            "text_size": 3,
+            "mobile_text_size": 2,
+            "button_text": "",
+            "button_url": "",
+            "button_type": "btn--primary",
+            "button_size": "",
+            "button_style": "btn--text",
+            "show_arrow": false
+          }
+        },
+        "image_HrVG4i": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Daphine_aries_on_forcat_chain.jpg",
+            "title": "",
+            "heading_size": 4,
+            "mobile_heading_size": 4,
+            "text": "",
+            "text_size": 3,
+            "mobile_text_size": 2,
+            "button_text": "",
+            "button_url": "",
+            "button_type": "btn--primary",
+            "button_size": "",
+            "button_style": "btn--text",
+            "show_arrow": false
+          }
+        }
+      },
+      "block_order": [
+        "image_dfD4mm",
+        "image_HrVG4i"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": 5,
+        "mobile_heading_size": 5,
+        "align_text": "text-center",
+        "align_columns": "flex-align-center",
+        "width": "wrapper",
+        "image_aspect_ratio": 1.2,
+        "mobile_image_aspect_ratio": 1.2,
+        "bg_color": "",
+        "color": "",
+        "padding_top": 0,
+        "padding_bottom": 50,
+        "layout_mobile": "grid"
+      }
+    },
+    "section_rich_text_wXQRTM": {
+      "type": "section-rich-text",
+      "blocks": {
+        "subheading_KeWaQ8": {
+          "type": "subheading",
+          "settings": {
+            "subheading": "Chapter Two",
+            "text_size": 3,
+            "mobile_text_size": 3
+          }
+        },
+        "heading_JpfL8a": {
+          "type": "heading",
+          "settings": {
+            "title": "INITIAL CHARMS",
+            "text_size": 5,
+            "mobile_text_size": 3
+          }
+        },
+        "heading_tzqHDt": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "title": "Chapter One",
+            "text_size": 3,
+            "mobile_text_size": 3
+          }
+        },
+        "divider_pta3Ym": {
+          "type": "divider",
+          "disabled": true,
+          "settings": {
+            "show_line": true,
+            "padding_top": 20,
+            "padding_bottom": 0
+          }
+        },
+        "text_iqPEji": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>A collection designed to evolve with you. </p><p>Meaningful jewellery should reflect your individual story. Whether purchased for yourself or shared with friends, this is a collection that acknowledges personal style as something that grows and adapts over time—just like you do.</p>",
+            "text_size": 3,
+            "mobile_text_size": 3,
+            "text_style": "font-body"
+          }
+        },
+        "buttons_VbikJk": {
+          "type": "buttons",
+          "settings": {
+            "button_text": "shop",
+            "button_url": "shopify://products/initial-charms",
+            "button_type": "btn--primary",
+            "button_size": "btn--small",
+            "button_style": "btn--text",
+            "show_arrow": false
+          }
+        }
+      },
+      "block_order": [
+        "subheading_KeWaQ8",
+        "heading_JpfL8a",
+        "heading_tzqHDt",
+        "divider_pta3Ym",
+        "text_iqPEji",
+        "buttons_VbikJk"
+      ],
+      "settings": {
+        "width": "wrapper--narrow",
+        "align_text": "text-center",
+        "bg_color": "",
+        "color": "",
+        "padding_top": 0,
+        "padding_bottom": 50
+      }
+    },
     "section_collection_ah83E8": {
       "type": "section-collection",
       "disabled": true,
@@ -288,13 +501,89 @@
         "padding_bottom": 50
       }
     },
+    "section_hero_YN8H6t": {
+      "type": "section-hero",
+      "settings": {
+        "height": "image-height",
+        "width": "wrapper--full-padded",
+        "image_1": "shopify://shop_images/Daphine_alphabet.jpg",
+        "mobile_height": "image-height--mobile",
+        "mobile_image": "shopify://shop_images/Daphine_initialscharms.jpg",
+        "flex_align": "align--bottom-left",
+        "overlay_opacity": 0,
+        "overlay_color": "#000000",
+        "show_overlay_text": false,
+        "bg_color": "",
+        "color": "#ffffff"
+      }
+    },
+    "section_columns_h6X4wV": {
+      "type": "section-columns",
+      "blocks": {
+        "image_aqwAYL": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Daphine_initials-on-forcat-chain.jpg",
+            "title": "",
+            "heading_size": 3,
+            "mobile_heading_size": 2,
+            "text": "",
+            "text_size": 3,
+            "mobile_text_size": 2,
+            "button_text": "",
+            "button_url": "",
+            "button_type": "btn--primary",
+            "button_size": "",
+            "button_style": "btn--text",
+            "show_arrow": false
+          }
+        },
+        "image_VEa8mz": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Daphine_alphabet_on_daphine_chain_1_copy.jpg",
+            "title": "",
+            "heading_size": 4,
+            "mobile_heading_size": 4,
+            "text": "",
+            "text_size": 3,
+            "mobile_text_size": 2,
+            "button_text": "",
+            "button_url": "",
+            "button_type": "btn--primary",
+            "button_size": "",
+            "button_style": "btn--text",
+            "show_arrow": false
+          }
+        }
+      },
+      "block_order": [
+        "image_aqwAYL",
+        "image_VEa8mz"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": 5,
+        "mobile_heading_size": 5,
+        "align_text": "text-center",
+        "align_columns": "flex-align-center",
+        "width": "wrapper",
+        "image_aspect_ratio": 1.2,
+        "mobile_image_aspect_ratio": 1.2,
+        "bg_color": "",
+        "color": "",
+        "padding_top": 50,
+        "padding_bottom": 50,
+        "layout_mobile": "grid"
+      }
+    },
     "section_rich_text_KARPMU": {
       "type": "section-rich-text",
       "blocks": {
         "text_FLpBfc": {
           "type": "text",
           "settings": {
-            "text": "<p>Begin with your choice of chains, then start building your narrative with zodiac symbols–inspired by vintage coins–that mark life's quiet revelations and celebrated milestones. Your collection can continue to evolve as we introduce new ways to tell your story. As your life changes, your necklace can transform too, becoming a visual timeline of your experiences.</p>",
+            "text": "<p>Begin with your choice of chains, then start building your narrative with zodiac symbols–inspired by vintage coins–and initials that mark life's quiet revelations and celebrated milestones. Your collection can continue to evolve as we introduce new ways to tell your story. As your life changes, your necklace can transform too, becoming a visual timeline of your experiences.</p>",
             "text_size": 3,
             "mobile_text_size": 3,
             "text_style": "font-body"
@@ -302,6 +591,7 @@
         },
         "buttons_VKGgMX": {
           "type": "buttons",
+          "disabled": true,
           "settings": {
             "button_text": "CREATE YOUR NECKLACE",
             "button_url": "shopify://products/zodiac-coin-charms",
@@ -667,7 +957,12 @@
     "section_rich_text_QqaqCd",
     "section_rich_text_Xqa9Q4",
     "section_columns_zzqxbM",
+    "section_rich_text_Xw9yrF",
+    "section_columns_dfMteg",
+    "section_rich_text_wXQRTM",
     "section_collection_ah83E8",
+    "section_hero_YN8H6t",
+    "section_columns_h6X4wV",
     "section_rich_text_KARPMU",
     "section_hero_VUYWci",
     "section_divider_fGQkkh",
