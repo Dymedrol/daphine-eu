@@ -567,6 +567,29 @@
         "padding_bottom": 50
       }
     },
+    "section_collection_WYgVHn": {
+      "type": "section-collection",
+      "settings": {
+        "heading": "",
+        "description": "",
+        "layout": "inline",
+        "link_text": "",
+        "link_url": "shopify://collections/charm-bar-chapter-three",
+        "button_type": "btn--primary",
+        "button_size": "btn--small",
+        "button_style": "btn--text",
+        "show_arrow": false,
+        "featured_collection": "charm-bar-chapter-three",
+        "style": "grid",
+        "grid": 2,
+        "rows": 1,
+        "layout_mobile": "carousel",
+        "bg_color": "",
+        "color": "",
+        "padding_top": 50,
+        "padding_bottom": 50
+      }
+    },
     "section_columns_qYLh97": {
       "type": "section-columns",
       "blocks": {
@@ -633,7 +656,7 @@
         "text_FLpBfc": {
           "type": "text",
           "settings": {
-            "text": "<p>Begin with your choice of chains, then start building your narrative with zodiac symbols–inspired by vintage coins–and initials that mark life's quiet revelations and celebrated milestones. Your collection can continue to evolve as we introduce new ways to tell your story. As your life changes, your necklace can transform too, becoming a visual timeline of your experiences.</p>",
+            "text": "<p>Begin with your choice of chains, then build your narrative with zodiac symbols, initials, and carefully considered pendants that mark life's quiet revelations and celebrated milestones. As your life changes, your necklace can transform too, becoming a visual timeline of your experiences.</p>",
             "text_size": 3,
             "mobile_text_size": 3,
             "text_style": "font-body"
@@ -665,6 +688,29 @@
         "padding_bottom": 50
       }
     },
+    "section_collection_yfFFde": {
+      "type": "section-collection",
+      "settings": {
+        "heading": "",
+        "description": "",
+        "layout": "inline",
+        "link_text": "",
+        "link_url": "",
+        "button_type": "btn--primary",
+        "button_size": "btn--small",
+        "button_style": "btn--text",
+        "show_arrow": false,
+        "featured_collection": "chains-charm-bar",
+        "style": "slider",
+        "grid": 4,
+        "rows": 1,
+        "layout_mobile": "carousel",
+        "bg_color": "",
+        "color": "",
+        "padding_top": 50,
+        "padding_bottom": 50
+      }
+    },
     "section_hero_VUYWci": {
       "type": "section-hero",
       "settings": {
@@ -689,30 +735,6 @@
         "border_color": "",
         "bg_color": "",
         "padding_top": 0,
-        "padding_bottom": 50
-      }
-    },
-    "section_collection_WYgVHn": {
-      "type": "section-collection",
-      "disabled": true,
-      "settings": {
-        "heading": "",
-        "description": "",
-        "layout": "inline",
-        "link_text": "",
-        "link_url": "",
-        "button_type": "btn--primary",
-        "button_size": "btn--small",
-        "button_style": "btn--text",
-        "show_arrow": false,
-        "featured_collection": "chains-charm-bar",
-        "style": "slider",
-        "grid": 4,
-        "rows": 1,
-        "layout_mobile": "carousel",
-        "bg_color": "",
-        "color": "",
-        "padding_top": 50,
         "padding_bottom": 50
       }
     },
@@ -899,11 +921,12 @@
     "section_hero_YN8H6t",
     "section_columns_h6X4wV",
     "section_rich_text_mNUVjV",
+    "section_collection_WYgVHn",
     "section_columns_qYLh97",
     "section_rich_text_KARPMU",
+    "section_collection_yfFFde",
     "section_hero_VUYWci",
     "section_divider_fGQkkh",
-    "section_collection_WYgVHn",
     "section_hero_pkjTEj",
     "section_divider_8VDBhG",
     "section_columns_tVGc9L",
