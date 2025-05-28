@@ -208,7 +208,7 @@
           "type": "button",
           "settings": {
             "link_text": "EXPLORE",
-            "link": "shopify://collections/pre-spring-2025",
+            "link": "shopify://collections/charm-bar",
             "button_type": "btn--white",
             "button_size": "",
             "button_style": "btn--text",
@@ -223,9 +223,9 @@
       "settings": {
         "height": "image-height",
         "width": "wrapper--full",
-        "image_1": "shopify://shop_images/Daphine_Eva-necklace_3.png",
+        "image_1": "shopify://shop_images/Screenshot_2025-05-28_at_12.50.28.png",
         "mobile_height": "image-height--mobile",
-        "mobile_image": "shopify://shop_images/Daphine_Eva-necklace_2.png",
+        "mobile_image": "shopify://shop_images/Daphine_hosorcopecoins2mobile.jpg",
         "flex_align": "align--middle-center",
         "overlay_opacity": 0,
         "overlay_color": "#000000",
