@@ -828,19 +828,11 @@
     "section_hero_JEi3b8": {
       "type": "section-hero",
       "blocks": {
-        "heading_tA9CeW": {
-          "type": "heading",
-          "settings": {
-            "title": "More charms coming soon",
-            "heading_size": 6,
-            "mobile_heading_size": 5
-          }
-        },
         "button_G8Pk3y": {
           "type": "button",
           "settings": {
-            "link_text": "sign up for early access",
-            "link": "shopify://pages/newsletter-sign-up",
+            "link_text": "shop all",
+            "link": "shopify://collections/charm-bar",
             "button_type": "btn--white",
             "button_size": "",
             "button_style": "btn--text",
@@ -849,7 +841,6 @@
         }
       },
       "block_order": [
-        "heading_tA9CeW",
         "button_G8Pk3y"
       ],
       "settings": {
