@@ -33,7 +33,7 @@
         "button_y9YkFT": {
           "type": "button",
           "settings": {
-            "link_text": "discover our new arrivals",
+            "link_text": "discover",
             "link": "shopify://pages/pre-spring-2025",
             "button_type": "btn--white",
             "button_size": "btn--small",
@@ -47,12 +47,65 @@
         "text_rnLxDT",
         "button_y9YkFT"
       ],
+      "disabled": true,
       "settings": {
         "height": "image-height",
         "width": "wrapper--full",
         "image_1": "shopify://shop_images/Ada_necklace_banner.png",
         "mobile_height": "image-height--mobile",
         "mobile_image": "shopify://shop_images/Daphine_Ada_necklace_3.jpg",
+        "flex_align": "align--middle-center",
+        "overlay_opacity": 0,
+        "overlay_color": "#000000",
+        "show_overlay_text": false,
+        "bg_color": "",
+        "color": "#ffffff"
+      }
+    },
+    "section_hero_WXWFcr": {
+      "type": "section-hero",
+      "blocks": {
+        "heading_kq3LNp": {
+          "type": "heading",
+          "settings": {
+            "title": "The Charm Bar",
+            "heading_size": 8,
+            "mobile_heading_size": 7
+          }
+        },
+        "text_UhjaNx": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "description": "Tell your brand's story through images.",
+            "text_size": 5,
+            "mobile_text_size": 5,
+            "text_style": "font-body"
+          }
+        },
+        "button_rTKNfw": {
+          "type": "button",
+          "settings": {
+            "link_text": "DISCOVER NEW IN",
+            "link": "shopify://pages/about-charm-bar",
+            "button_type": "btn--white",
+            "button_size": "btn--small",
+            "button_style": "btn--text",
+            "show_arrow": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_kq3LNp",
+        "text_UhjaNx",
+        "button_rTKNfw"
+      ],
+      "settings": {
+        "height": "image-height",
+        "width": "wrapper--full",
+        "image_1": "shopify://shop_images/Screenshot_2025-05-28_at_11.53.21.png",
+        "mobile_height": "image-height--mobile",
+        "mobile_image": "shopify://shop_images/Daphine_initialscharms.jpg",
         "flex_align": "align--middle-center",
         "overlay_opacity": 0,
         "overlay_color": "#000000",
@@ -124,12 +177,12 @@
         "description": "",
         "layout": "inline",
         "link_text": "Explore All",
-        "link_url": "shopify://collections/pre-spring-2025",
+        "link_url": "shopify://collections/charm-bar",
         "button_type": "btn--primary",
         "button_size": "btn--small",
         "button_style": "btn--text",
         "show_arrow": false,
-        "featured_collection": "pre-spring-2025",
+        "featured_collection": "charm-bar",
         "style": "slider",
         "grid": 3,
         "rows": 3,
@@ -155,7 +208,7 @@
           "type": "button",
           "settings": {
             "link_text": "EXPLORE",
-            "link": "shopify://collections/pre-spring-2025",
+            "link": "shopify://collections/charm-bar",
             "button_type": "btn--white",
             "button_size": "",
             "button_style": "btn--text",
@@ -170,9 +223,9 @@
       "settings": {
         "height": "image-height",
         "width": "wrapper--full",
-        "image_1": "shopify://shop_images/Daphine_Eva-necklace_3.png",
+        "image_1": "shopify://shop_images/Screenshot_2025-05-28_at_12.50.28.png",
         "mobile_height": "image-height--mobile",
-        "mobile_image": "shopify://shop_images/Daphine_Eva-necklace_2.png",
+        "mobile_image": "shopify://shop_images/Daphine_hosorcopecoins2mobile.jpg",
         "flex_align": "align--middle-center",
         "overlay_opacity": 0,
         "overlay_color": "#000000",
@@ -605,6 +658,7 @@
   },
   "order": [
     "section_hero_kUNNiF",
+    "section_hero_WXWFcr",
     "080de123-cd67-4a8f-b095-390fa30c932d",
     "section_divider_iiaRVd",
     "section_collection_rQrqQm",
