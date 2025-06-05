@@ -37,6 +37,18 @@
     display: none;
 }
 
+#daphine-jewellery-charm-bar {
+
+}
+
+#daphine-jewellery-charm-bar .main-content {
+    display: flex;
+}
+
+#daphine-jewellery-charm-bar .footer-sections {
+    display: none;
+}
+
 .constructor-section {
     flex-grow: 1;
 }
@@ -275,6 +287,8 @@
 }
 
 .constructor-result-header-mobile {
+    position: relative;
+    z-index: 8;
     background-color: #fff;
     padding: 45px 0 24px;
 }
@@ -385,8 +399,8 @@
 .constructor-step-2 .constructor-choice-layout {
     flex-direction: row;
     flex-wrap: wrap;
-    align-items: center;
-    justify-content: center;
+    align-items: flex-start;
+    justify-content: flex-start;
     gap: 16px;
 }
 
@@ -488,9 +502,12 @@
 
 .constructor-choice-layout {
     display: flex;
-    flex-direction: column;
-    align-items: center;
-    gap: 24px;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 16px;
+    justify-content: center;
+    max-width: 330px;
+    margin: 0 auto;
     padding-bottom: 50px;
 }
 
@@ -499,12 +516,21 @@
         flex-direction: row;
         flex-wrap: wrap;
         gap: 16px;
+        max-width: unset;
+        justify-content: flex-start;
     }
 }
 
 .constructor-choice-item {
-    width: 180px;
+    width: 155px;
     cursor: pointer;
+}
+
+@media (min-width: 820px) {
+    .constructor-choice-item {
+        width: 180px;
+        cursor: pointer;
+    }
 }
 
 .constructor-choice-item_active .constructor-choice-item-pic-wrapper {
@@ -513,13 +539,20 @@
 
 .constructor-choice-item-pic-wrapper {
     position: relative;
-    width: 180px;
-    height: 180px;
+    width: 155px;
+    height: 155px;
     background-color: #F5F3EF;
     border-radius: 16px;
     overflow: hidden;
 
     margin-bottom: 14px;
+}
+
+@media (min-width: 820px) {
+    .constructor-choice-item-pic-wrapper {
+        width: 180px;
+        height: 180px;
+    }
 }
 
 .constructor-choice-item-pic-wrapper img {
