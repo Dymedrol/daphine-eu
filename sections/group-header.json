@@ -129,9 +129,9 @@
         "b89b8dee-c00f-47b0-a4ef-e4683116dfb3": {
           "type": "text",
           "settings": {
-            "text": "<p>Sign up for 10% off your first order | Express Shipping on all EU orders</p>",
+            "text": "<p>OUR FINAL SALE 30% OFF</p>",
             "target_url_enabled": false,
-            "target_url": "shopify://pages/newsletter-sign-up",
+            "target_url": "shopify://collections/all",
             "target_referrer_enabled": false,
             "target_referrer": "",
             "target_device_enabled": false,
@@ -188,7 +188,7 @@
         ".announcement__slide {font-family: \"ITC Galliard\" !important; font-style: italic;}"
       ],
       "settings": {
-        "layout": "marquee",
+        "layout": "slider",
         "slider_speed": 5,
         "show_arrows": false,
         "marquee_speed": 50,

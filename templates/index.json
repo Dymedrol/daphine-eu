@@ -68,7 +68,7 @@
         "heading_kq3LNp": {
           "type": "heading",
           "settings": {
-            "title": "The Final Edit",
+            "title": "THE FINAL SALE",
             "heading_size": 8,
             "mobile_heading_size": 7
           }
@@ -86,8 +86,8 @@
         "button_rTKNfw": {
           "type": "button",
           "settings": {
-            "link_text": "DISCOVER",
-            "link": "shopify://collections/the-final-edit",
+            "link_text": "SHOP 30% OFF",
+            "link": "shopify://collections/all",
             "button_type": "btn--white",
             "button_size": "btn--small",
             "button_style": "btn--text",
@@ -107,8 +107,8 @@
         "mobile_height": "image-height--mobile",
         "mobile_image": "shopify://shop_images/Daphine_Clemnecklace.jpg",
         "flex_align": "align--middle-center",
-        "overlay_opacity": 0,
-        "overlay_color": "#000000",
+        "overlay_opacity": 100,
+        "overlay_color": "#861b1b",
         "show_overlay_text": false,
         "bg_color": "",
         "color": "#ffffff"
@@ -147,6 +147,7 @@
         "code_cMp3qX",
         "code_pMqncd"
       ],
+      "disabled": true,
       "settings": {
         "layout": "marquee",
         "slider_speed": 7,
@@ -172,6 +173,7 @@
     },
     "section_collection_rQrqQm": {
       "type": "section-collection",
+      "disabled": true,
       "settings": {
         "heading": "New In",
         "description": "",
@@ -220,6 +222,7 @@
         "heading_aGHd8j",
         "button_ih9XxF"
       ],
+      "disabled": true,
       "settings": {
         "height": "image-height",
         "width": "wrapper--full",
@@ -276,6 +279,7 @@
         "template--17234605211894__21a05252-aed6-490f-aa5f-589a9685314f-highlight-2",
         "highlight_e7xX9L"
       ],
+      "disabled": true,
       "custom_css": [
         ".highlights__item__content {top: unset !important; bottom: 0; font-family: var(--FONT-STACK-HEADING); font-style: var(--FONT-STYLE-HEADING); font-weight: var(--FONT-WEIGHT-HEADING); font-size: calc(var(--font-5) * var(--FONT-ADJUST-HEADING));}"
       ],
@@ -296,6 +300,7 @@
     },
     "section_divider_qwihgT": {
       "type": "section-divider",
+      "disabled": true,
       "settings": {
         "show_line": false,
         "width": "wrapper",
@@ -385,6 +390,7 @@
         "heading_NBp8dV",
         "button_r4D488"
       ],
+      "disabled": true,
       "settings": {
         "height": "image-height",
         "width": "wrapper--full",
@@ -401,6 +407,7 @@
     },
     "featured-collection": {
       "type": "section-collection",
+      "disabled": true,
       "settings": {
         "heading": "Trending",
         "description": "",
@@ -449,6 +456,7 @@
         "heading_hHknYP",
         "button_cwPXQe"
       ],
+      "disabled": true,
       "settings": {
         "height": "sixty-fifty-height-hero",
         "width": "wrapper--full",
@@ -519,6 +527,7 @@
     },
     "section_divider_FPKRhz": {
       "type": "section-divider",
+      "disabled": true,
       "settings": {
         "show_line": false,
         "width": "wrapper",
@@ -654,6 +663,41 @@
         "padding_top": 100,
         "padding_bottom": 0
       }
+    },
+    "section_rich_text_hfqbCT": {
+      "type": "section-rich-text",
+      "blocks": {
+        "heading_fHpF3c": {
+          "type": "heading",
+          "settings": {
+            "title": "Our Farewell",
+            "text_size": 7,
+            "mobile_text_size": 6
+          }
+        },
+        "text_Ci4zfe": {
+          "type": "text",
+          "settings": {
+            "text": "<p>After 7 incredible years, we come to you with the bittersweet news that Daphine will be closing in Fall 2025. Founded in 2018 by Damasia Ball and Philippine de Follin, our brand has been a champion of beautiful timeless heirlooms - little luxuries that could be reached for again and again. We hope that whilst we are gone, you continue to reach for these treasures and remember these 7 years fondly. </p><p>The seven-year cycle is a whirlwind of personal growth and change. In spiritual contexts, the number 7, and therefore \"7 years,\" often represents completion, wholeness, and a period of significant growth. These past 7 years have been monumental for us - we started a business, had children, relocated to different countries and grew this brand that we love so much. These seven years didn't just build a brand - they shaped who we are as women, mothers, and entrepreneurs. </p><p>We are happy to be leaving Daphine on a high, having had our pieces in iconic publications including Vanity Fair, The Wall Street Journal and the cover of British Vogue; and on iconic women including Beyonce, Bella Hadid and Iris Law.</p><p>We will be taking the time to evolve on our individual journeys and are looking forward to taking our expertise from Daphine into new and exciting challenges - in both our personal and professional lives. </p><p>Women have always been at the centre of what we do and we are so grateful to our all women team here in London, as well as the many women who have supported our brand during our tenure. We can’t thank these women enough: Milagros, Laura & Lauren, Viola, Bettina Looney, Monikh Dale, Abi Omole, Daniela & Sabrina, our friends at Sheerluxe who championed us from early on, Lucy Pilz, Tarra Orssich, Nina Litchfield, Laura Vidrequin, our sisters and mothers and of course you, our community. To every woman who wore our pieces or simply believed in what we were building - you made this dream possible, and we'll carry that with us forever. </p>",
+            "text_size": 4,
+            "mobile_text_size": 3,
+            "text_style": "font-heading"
+          }
+        }
+      },
+      "block_order": [
+        "heading_fHpF3c",
+        "text_Ci4zfe"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "width": "wrapper--narrow",
+        "align_text": "text-center",
+        "bg_color": "",
+        "color": "",
+        "padding_top": 50,
+        "padding_bottom": 50
+      }
     }
   },
   "order": [
@@ -672,7 +716,8 @@
     "section_divider_KBcpKn",
     "section_hero_zKYGnw",
     "section_divider_FPKRhz",
-    "icons",
-    "docs"
+    "docs",
+    "section_rich_text_hfqbCT",
+    "icons"
   ]
 }
