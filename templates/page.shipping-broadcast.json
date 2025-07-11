@@ -107,6 +107,7 @@
         },
         "text_HfrqKR": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "<h5>We offer free shipping to all of the EU for orders over €100.</h5>",
             "text_size": 4,
