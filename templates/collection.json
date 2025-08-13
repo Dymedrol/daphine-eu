@@ -290,38 +290,6 @@
     "section_multicolumn_YPdQec": {
       "type": "section-multicolumn",
       "blocks": {
-        "icon_FUwjHR": {
-          "type": "icon",
-          "settings": {
-            "column_width": 33,
-            "icon_name": "icon-fast-shipment",
-            "icon_size": 20,
-            "icon_alignment": "icon--top",
-            "icon_color": "#ffffff",
-            "title": "Express Shipping on all EU orders and Easy Returns",
-            "heading_size": 3,
-            "mobile_heading_size": 3,
-            "text": "",
-            "text_size": 3,
-            "mobile_text_size": 3
-          }
-        },
-        "icon_X8HKtb": {
-          "type": "icon",
-          "settings": {
-            "column_width": 33,
-            "icon_name": "icon-box",
-            "icon_size": 20,
-            "icon_alignment": "icon--top",
-            "icon_color": "#ffffff",
-            "title": "Free delivery to EU on orders over €150",
-            "heading_size": 3,
-            "mobile_heading_size": 3,
-            "text": "",
-            "text_size": 3,
-            "mobile_text_size": 3
-          }
-        },
         "icon_tzLhdE": {
           "type": "icon",
           "settings": {
@@ -340,10 +308,9 @@
         }
       },
       "block_order": [
-        "icon_FUwjHR",
-        "icon_X8HKtb",
         "icon_tzLhdE"
       ],
+      "disabled": true,
       "settings": {
         "title": "",
         "heading_size": 5,
