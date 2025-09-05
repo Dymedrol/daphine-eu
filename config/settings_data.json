@@ -12,7 +12,7 @@
     "show_bubble": true,
     "numberOfroductsToShowQuantity": 0,
     "text_color": "#212121",
-    "bg_color": "#f5f3ef",
+    "bg_color": "#604e23",
     "secondary_bg_color": "#ffffff",
     "accent_bright": "#f5f3ef",
     "link_color": "#212121",
@@ -422,8 +422,6 @@
     }
   },
   "platform_customizations": {
-    "custom_css": [
-      ".image-wrapper img {background-color: #f5f3ef !important;}"
-    ]
+    "custom_css": []
   }
 }
