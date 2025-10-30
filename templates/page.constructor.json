@@ -30,16 +30,18 @@
     "constructor_j3irmA": {
       "type": "constructor",
       "settings": {
+        "constructor_title": "Customise your necklace",
+        "chain_image": "shopify://shop_images/finpic.eu.site.jpg",
         "chains": [
-          "ada-necklace",
-          "agathe-necklace-gold",
-          "agathe-necklace-silver"
+          "rope-cord",
+          "forcat-chain",
+          "double-link-chain"
         ],
         "charms": [
-          "clara-hoops",
-          "clara-hoops-silver",
-          "cosmos-large-hoops",
-          "dale-necklace"
+          "initial-charms",
+          "zodiac-coin-charms",
+          "laurita-charm",
+          "estelle-pendant"
         ]
       }
     }
