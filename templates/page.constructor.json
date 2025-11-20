@@ -38,7 +38,7 @@
           "double-link-chain"
         ],
         "charms": [
-          "initial-charms",
+          "initial-charm-a",
           "zodiac-coin-charms",
           "laurita-charm",
           "estelle-pendant"

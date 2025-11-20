@@ -424,7 +424,7 @@
           "type": "buttons",
           "settings": {
             "button_text": "shop",
-            "button_url": "shopify://products/initial-charms",
+            "button_url": "shopify://products/initial-charm-a",
             "button_type": "btn--primary",
             "button_size": "btn--small",
             "button_style": "btn--text",
