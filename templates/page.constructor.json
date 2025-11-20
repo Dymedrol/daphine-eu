@@ -40,8 +40,8 @@
         "charms": [
           "initial-charm-a",
           "zodiac-coin-charms",
-          "laurita-charm",
-          "estelle-pendant"
+          "estelle-pendant",
+          "laurita-charm"
         ]
       }
     }
