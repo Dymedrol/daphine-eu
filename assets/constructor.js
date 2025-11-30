@@ -27,6 +27,9 @@ $( document ).ready(function() {
     let totalPriceText = Number(totalPrice) + charmsPrice + '.00';
     totalPriceBlock.text(totalPriceText);
 
+    // Track selected variant id globally
+    let selectedChainVariantId = null;
+
     function renderPrice () {
         chainPriceBlock.text(chainPrice);
         totalPriceText = Number(chainPrice) +  Number(charmsPrice) + '.00';
@@ -44,11 +47,13 @@ $( document ).ready(function() {
     function changeCurrentChain() {
         const target = $(this);
         const targetCount = target.attr('data-count');
+        const variantId = target.attr('data-variant-id');
         $('.constructor-result-chain').addClass('constructor-result-chain_hidden');
         $(`.constructor-result-chain[data-count='${targetCount}']`).removeClass('constructor-result-chain_hidden');
         chainItems.removeClass('constructor-choice-item_active');
         target.addClass('constructor-choice-item_active');
-        chainPrice = Number(target.attr('data-price').replace(/,/g, "."));
+        chainPrice = Number(target.attr('data-price'));
+        selectedChainVariantId = variantId;
         renderPrice();
     }
 
@@ -60,7 +65,7 @@ $( document ).ready(function() {
             selectedCharmsCount--;
             target.removeClass('constructor-choice-item_active');
             $('.constructor-result-charms').find(`.constructor-result-charm[data-count='${targetCount}']`).remove();
-            charmsPrice = charmsPrice - Number(target.attr('data-price').replace(/,/g, "."));
+            charmsPrice = charmsPrice - Number(target.attr('data-price'));
             $('.constructor-result-charms').removeClass('constructor-result-charms-1');
             $('.constructor-result-charms').removeClass('constructor-result-charms-2');
             $('.constructor-result-charms').removeClass('constructor-result-charms-3');
@@ -70,7 +75,7 @@ $( document ).ready(function() {
                 selectedCharmsCount++;
                 target.addClass('constructor-choice-item_active');
                 charmsTemplates.find(`.constructor-result-charm[data-count='${targetCount}']`).clone().appendTo('.constructor-result-charms');
-                charmsPrice = charmsPrice + Number(target.attr('data-price').replace(/,/g, "."));
+                charmsPrice = charmsPrice + Number(target.attr('data-price'));
 
                 $('.constructor-result-charms').removeClass('constructor-result-charms-1');
                 $('.constructor-result-charms').removeClass('constructor-result-charms-2');
@@ -93,9 +98,12 @@ $( document ).ready(function() {
         const finalContainer = $('.constructor-result-final');
 
         $('#constructor').addClass('constructor-loading');
-        const selectedChain = finalContainer.find('.constructor-result-chain:not(.constructor-result-chain_hidden)');
+        // Use selectedChainVariantId if set, otherwise fallback
+        const selectedChain = selectedChainVariantId
+            ? $(`.constructor-result-chain[data-variant-id='${selectedChainVariantId}']`)
+            : finalContainer.find('.constructor-result-chain:not(.constructor-result-chain_hidden)');
         const chain = {
-            id: selectedChain.attr('data-variant-id'),
+            id: selectedChainVariantId || selectedChain.attr('data-variant-id'),
             quantity: 1
         }
         items.push(chain);
@@ -134,33 +142,23 @@ $( document ).ready(function() {
             .catch(error => {
                 console.error('Ошибка:', error);
             });
-
-
-
-
-
-
     }
 
     function changePic() {
-        console.log('2', currentPic)
-        const item = currentPic.closest('.constructor-choice-item-alt-pic');
-
-        item.find("img").each(function() {
-            if ($(this).css("display") === "none") {
-                $(this).css("display", "block");
-            } else {
-                $(this).css("display", "none");
-            }
-        });
-
-        item.find(".constructor-choice-item-dots-dot").each(function() {
-            if ($(this).hasClass('constructor-choice-item-dots-dot_active')) {
-                $(this).removeClass('constructor-choice-item-dots-dot_active');
-            } else {
-                $(this).addClass('constructor-choice-item-dots-dot_active');
-            }
-        });
+        const pics = currentPic.closest('.constructor-choice-item-pics');
+        if (!pics.length) return;
+        const altPic = pics.find('.constructor-choice-item-pic-alt');
+        const mainPic = pics.find('.constructor-choice-item-pic-main');
+        if (altPic.css('display') === 'none') {
+            altPic.css('display', 'block');
+            mainPic.css('display', 'none');
+        } else {
+            altPic.css('display', 'none');
+            mainPic.css('display', 'block');
+        }
+        // Dots
+        const dots = pics.closest('.constructor-choice-item-pic-wrapper').find('.constructor-choice-item-dots-dot');
+        dots.toggleClass('constructor-choice-item-dots-dot_active');
     }
 
     startButton.click(function () {showStep(1)});
@@ -170,14 +168,21 @@ $( document ).ready(function() {
     chainItems.click(changeCurrentChain);
     charmsItems.click(changeCurrentCharm);
 
+    let touchMoved = false;
 
     $('.constructor-choice-item-alt-pic').on('touchstart', function (e) {
+        touchMoved = false;
         currentPic = $(e.target);
-        console.log('1', currentPic);
     });
 
-    $('.constructor-choice-item-alt-pic').swipe(changePic);
+    $('.constructor-choice-item-alt-pic').on('touchmove', () => {
+        touchMoved = true;
+    });
 
-
+    $('.constructor-choice-item-alt-pic').on('touchend', function (e) {
+        if (touchMoved) {
+           changePic();
+        }
+    });
 
 });
