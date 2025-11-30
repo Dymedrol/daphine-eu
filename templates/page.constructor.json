@@ -34,8 +34,8 @@
         "chain_image": "shopify://shop_images/finpic.eu.site.jpg",
         "chains": [
           "rope-cord",
-          "forcat-chain",
-          "double-link-chain"
+          "double-link-chain",
+          "forcat-chain"
         ],
         "charms": [
           "estelle-pendant",
